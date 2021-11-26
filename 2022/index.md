@@ -4,11 +4,7 @@ title: null
 ---
 
 _Change the language to [한국어](index_kr.html)_
-# The first Korea Logic Day 2022, 14 January 2022
-
-<p>
-<img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
-</p>
+# The second Korea Logic Day 2022, 14 January 2022
 
 We aim to bring logicians in Korea together. We will celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__, and exchange opinions on current roles of logic in philosophy, science, and engineering.
 

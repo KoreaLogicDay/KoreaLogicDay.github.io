@@ -7,10 +7,6 @@ _[English](index.html)로 언어 바꾸기_
 
 # 제2회 한국 논리학의 날 2022, 2022년 1월 14일
 
-<p>
-<img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
-</p>
-
 한국 논리학자들이 다 함께 모여 세계 논리학의 날을 축하하고 철학, 과학, 공학에서 논리학의 역할에 대해 의견을 공유하는 자리를 마련하려고 합니다.
 
 2019년 1월 14일에 제1회 세계 논리학의 날이 개최되었습니다. 매년 논리학의 날을 기념하기 위해 __UNESCO__ 산하 _국제 철학 및 인문학 협의회_ 는 매년 1월 14일을 ‘[세계 논리학의 날](https://en.unesco.org/commemorations/worldlogicday)’로 제정하였습니다. 제 4회 세계 논리학의 날 행사 정보를 위해서는, [세계 논리학의 날 2022](http://wld.cipsh.international/wld2022.html)을 방문하시기 바랍니다.
