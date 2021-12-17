@@ -15,19 +15,36 @@ _[English](index.html)로 언어 바꾸기_
 
 ## 중요일정
 - 발표제목 및 초록제출 : (추후 공개)
-- 등록마감 : (추후 공개)
+- 등록마감 : 2022년 1월 12일
+- 학회 Zoom 링크 공유 : 2022년 1월 13일
+- 제2회 한국 논리학의 날 2022: 2022년 1월 14일
 
 ## 발표자
-(추후 공개)
+| 이름           | 소속기관 |
+|:- | - |
+| 김동우                                                | CUNY                                     |  
+| 김준희                                                  | 연세대학교                   |
+| [박세원](https://sewonpark.com/)          | Kyoto University                     |
+| 양은석                                                 | 전북대학교   |
+| [이정욱](https://sites.google.com/site/leejunguk0323/home)                                                    | 카이스트                                     |
+| 이효윤         | 연세대학교             |
+| 최승락                                              | 고려대학교                     |
+| Selivanova, Svetlana                                      | 카이스트                                     |
+| [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
+
 
 ## 발표 일정
-(추후 공개)
+2022년 1월 14일 당일 행사이며 오전 9시20분 시작할 계획입니다. 자세한 발표 일정은 곧 공개됩니다. 
 
 ## 등록 및 참가
-(추후 공개)
+온라인으로 진행됩니다. 참가를 원하시는 분들은 2022년 1월 12일까지 이메일 주소를 [google form](https://forms.gle/KVki9H4iCDRSaumAA)을 통해 접수해주세요.
+자세한 참가방법은 2022년 1월 13일 접수해주신 이메일로 공지해드립니다.
 
 ## 발표 초록
 (추후 공개)
 
 ## 조직 및 운영
-(추후 공개)
+
+- [김준희]() (연세대학교)
+- [박세원](https://sewonpark.com/) (Kyoto University)
+- [양은석]() (전북대학교)
