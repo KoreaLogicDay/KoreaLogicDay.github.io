@@ -20,17 +20,17 @@ _[English](index.html)로 언어 바꾸기_
 - 제2회 한국 논리학의 날 2022: 2022년 1월 14일
 
 ## 발표자
-| 이름           | 소속기관 |
+| 이름 | 소속기관 |
 |:- | - |
-| 김동우                                                | CUNY                                     |  
-| 김준희                                                  | 연세대학교                   |
-| [박세원](https://sewonpark.com/)          | Kyoto University                     |
-| 양은석                                                 | 전북대학교   |
-| [이정욱](https://sites.google.com/site/leejunguk0323/home)                                                    | 카이스트                                     |
-| 이효윤         | 연세대학교             |
-| 최승락                                              | 고려대학교                     |
-| Selivanova, Svetlana                                      | 카이스트                                     |
-| [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
+| 김동우 | CUNY |  
+| 김준희 | 연세대학교 |
+| [박세원](https://sewonpark.com/) | Kyoto University |
+| 양은석 | 전북대학교 |
+| [이정욱](https://sites.google.com/site/leejunguk0323/home) | 카이스트|
+| 이효윤 | 연세대학교 |
+| 최승락 | 고려대학교 |
+| Selivanova, Svetlana | 카이스트 |
+| [Thies, Holger](http://www.holgerthies.com) | Kyoto University |
 
 
 ## 발표 일정
