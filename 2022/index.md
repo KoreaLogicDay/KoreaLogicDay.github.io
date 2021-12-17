@@ -42,7 +42,8 @@ It is a single day event. Each talk will be 40 minutes. The event starts at 9:20
 
 ## How to Register and Participate
 The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by January, 12, 2022.
-The instruction on how to attend the event will be shared at January, 13, 202２.
+The instruction on how to attend 
+the event will be shared on January, 13, 202２.
 
 ## Talk Abstracts
 (tba)
