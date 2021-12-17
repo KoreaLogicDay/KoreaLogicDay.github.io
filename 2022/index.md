@@ -24,7 +24,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 | Name                                                              | Affiliation                                |
 |:-                                                                      |                                              - |                                  
-| Choi, Seungrak                                              | Korea University                     |
+| Choi, Seungrak                                              | University of Seoul                    |
 | Kim, Dongwoo                                                | CUNY                                     |  
 | Kim, Joonhee                                                  | Yonsei University                   |
 | Lee, Hyoyoon                                                  | Yonsei University                   |
