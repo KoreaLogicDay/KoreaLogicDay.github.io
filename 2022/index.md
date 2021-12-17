@@ -14,22 +14,41 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 
 ## Important deadlines
-- Abstract submission : (tba)
-- Registration : (tba)
+- Abstract submission : - tbc
+- Registration : - January, 12, 2022
+- Sharing the conference Zoom : January, 13, 2022
+- the second Korea logic day : January, 14, 2022
+
 
 ## Speakers
-(tba)
+
+| Name                                                              | Affiliation                                |
+|:-                                                                      |                                              - |                                  
+| Choi, Seungrak                                              | Korea University                     |
+| Kim, Dongwoo                                                | CUNY                                     |  
+| Kim, Joonhee                                                  | Yonsei University                   |
+| Lee, Hyoyoon                                                  | Yonsei University                   |
+| Lee, Junguk                                                    | KAIST                                     |
+| [Park, Sewon](https://sewonpark.com/)          | Kyoto University                     |
+| Selivanova, Svetlana                                      | KAIST                                     |
+| [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
+| Yang, Eunsuk                                                 | Jeonbuk National University   |
+
 
 
 ## Schedule
-(tba)
+It is a single day event. Each talk will be 40 minutes. The event starts at 9:20. The detailed schedule for each talk will be confirmed soon.
 
 
 ## How to Register and Participate
-(tba)
+The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by January, 12, 2022.
+The instruction on how to attend the event will be shared at January, 13, 202２.
 
 ## Talk Abstracts
 (tba)
 
 ## Organizers
-(tba)
+
+- [Kim, Joonhee]() (Yonsei University)
+- [Park, Sewon](https://sewonpark.com/) (Kyoto University)
+- [Yang, Eunsuk]() (Jeonbuk National University)
