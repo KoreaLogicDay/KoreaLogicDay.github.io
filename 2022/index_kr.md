@@ -29,7 +29,7 @@ _[English](index.html)로 언어 바꾸기_
 | 양은석 | 전북대학교 |
 | [이정욱](https://sites.google.com/site/leejunguk0323/home) | 카이스트|
 | 이효윤 | 연세대학교 |
-| 최승락 | 고려대학교 |
+| 최승락 | 서울시립대학교 |
 | Selivanova, Svetlana | 카이스트 |
 | [Thies, Holger](http://www.holgerthies.com) | Kyoto University |
 
