@@ -28,7 +28,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 | Kim, Dongwoo                                                | CUNY                                     |  
 | Kim, Joonhee                                                  | Yonsei University                   |
 | Lee, Hyoyoon                                                  | Yonsei University                   |
-| Lee, Junguk                                                    | KAIST                                     |
+| [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home)                                                    | KAIST                                     |
 | [Park, Sewon](https://sewonpark.com/)          | Kyoto University                     |
 | Selivanova, Svetlana                                      | KAIST                                     |
 | [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
@@ -42,14 +42,13 @@ It is a single day event. Each talk will be 40 minutes. The event starts at 9:20
 
 ## How to Register and Participate
 The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by January, 12, 2022.
-The instruction on how to attend 
-the event will be shared on January, 13, 202２.
+The instruction on how to attend the event will be shared at January, 13, 202２.
 
 ## Talk Abstracts
 (tba)
 
 ## Organizers
 
-- [Kim, Joonhee]() (Yonsei University)
+- [Kim, Joonhee](https://math.yonsei.ac.kr/math/math/Postdoc.do) (Yonsei University)
 - [Park, Sewon](https://sewonpark.com/) (Kyoto University)
-- [Yang, Eunsuk]() (Jeonbuk National University)
+- [Yang, Eunsuk](https://philos.jbnu.ac.kr/philos/1349/subview.do?enc=Zm5jdDF8QEB8JTJGamJudVByb2ZsJTJGcGhpbG9zJTJGMTE2JTJGNDEwJTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2) (Jeonbuk National University)
