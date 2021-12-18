@@ -18,7 +18,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 
 ## Important deadlines
-- Abstract submission : - tbc
+- Abstract submission : - December, 31, 2021
 - Registration : - January, 12, 2022
 - Sharing the conference Zoom : January, 13, 2022
 - the second Korea logic day : January, 14, 2022
