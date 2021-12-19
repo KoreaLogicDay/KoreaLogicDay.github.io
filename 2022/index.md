@@ -36,7 +36,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 | [Park, Sewon](https://sewonpark.com/)          | Kyoto University                     |
 | Selivanova, Svetlana                                      | KAIST                                     |
 | [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
-| Yang, Eunsuk                                                 | Jeonbuk National University   |
+| [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang)                                                 | Jeonbuk National University   |
 
 
 
@@ -55,4 +55,4 @@ The instruction on how to attend the event will be shared on January, 13, 2022.
 
 - [Kim, Joonhee](https://math.yonsei.ac.kr/math/math/Postdoc.do) (Yonsei University)
 - [Park, Sewon](https://sewonpark.com/) (Kyoto University)
-- [Yang, Eunsuk](https://philos.jbnu.ac.kr/philos/1349/subview.do?enc=Zm5jdDF8QEB8JTJGamJudVByb2ZsJTJGcGhpbG9zJTJGMTE2JTJGNDEwJTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2) (Jeonbuk National University)
+- [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University)
