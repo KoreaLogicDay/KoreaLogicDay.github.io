@@ -34,7 +34,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 | Lee, Hyoyoon                                                  | Yonsei University                   |
 | [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home)                                                    | KAIST                                     |
 | [Park, Sewon](https://sewonpark.com/)          | Kyoto University                     |
-| Selivanova, Svetlana                                      | KAIST                                     |
+| [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2)                                      | KAIST                                     |
 | [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
 | [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang)                                                 | Jeonbuk National University   |
 
