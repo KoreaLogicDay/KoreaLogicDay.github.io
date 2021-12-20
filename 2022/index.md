@@ -53,6 +53,6 @@ The instruction on how to attend the event will be shared on January, 13, 2022.
 
 ## Organizers
 
-- [Kim, Joonhee](https://math.yonsei.ac.kr/math/math/Postdoc.do) (Yonsei University)
+- [Kim, Joonhee](https://sites.google.com/yonsei.ac.kr/kimjoonhee) (Yonsei University)
 - [Park, Sewon](https://sewonpark.com/) (Kyoto University)
 - [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University)
