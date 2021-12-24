@@ -27,13 +27,13 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 ## Speakers
 
 | Name                                                              | Affiliation                                |
-|:-                                                                      |                                              - |                                  
+|:-   
+| Ahn, Ki Yung | Hannam University |                                                                   |                                              - |                                  
 | [Choi, Seungrak](https://philpeople.org/profiles/seungrak-choi)                                              | University of Seoul                    |
 | [Jeon, Hanul](https://hanuljeon95.github.io/) | Cornell University |
 | Kim, Dongwoo                                                | CUNY                                     |  
 | Lee, Hyoyoon                                                  | Yonsei University                   |
 | [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home)                                                    | KAIST                                     |
-| [Park, Sewon](https://sewonpark.com/)          | Kyoto University                     |
 | [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2)                                      | KAIST                                     |
 | [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
 | [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang)                                                 | Jeonbuk National University   |
