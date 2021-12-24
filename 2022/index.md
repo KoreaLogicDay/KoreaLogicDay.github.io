@@ -27,8 +27,8 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 ## Speakers
 
 | Name                                                              | Affiliation                                |
-|:-   
-| Ahn, Ki Yung | Hannam University |                                                                   |                                              - |                                  
+|:-   | - |
+| Ahn, Ki Yung | Hannam University |                                                                                                                                          
 | [Choi, Seungrak](https://philpeople.org/profiles/seungrak-choi)                                              | University of Seoul                    |
 | [Jeon, Hanul](https://hanuljeon95.github.io/) | Cornell University |
 | Kim, Dongwoo                                                | CUNY                                     |  
