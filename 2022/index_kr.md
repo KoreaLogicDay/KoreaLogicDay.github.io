@@ -28,7 +28,7 @@ _[English](index.html)로 언어 바꾸기_
 | 이름 | 소속기관 |
 |:- | - |
 | 김동우 | CUNY |  
-| 안기영 | 한남대학교 |
+| [안기영](http://kyagrd.github.io/) | 한남대학교 |
 | [양은석](https://philpeople.org/profiles/eunsuk-yang) | 전북대학교 |
 | [이정욱](https://sites.google.com/site/leejunguk0323/home) | 카이스트|
 | 이효윤 | 연세대학교 |
