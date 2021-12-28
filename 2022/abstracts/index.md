@@ -5,7 +5,7 @@ title: null
 
 _Change the language to [한국어](https://korealogicday.org/2022/index_kr.html)_
 
-# [The first Korea Logic Day 2022](https://korealogicday.org/2022), 14 January 2022
+# [The second Korea Logic Day 2022](https://korealogicday.org/2022), 14 January 2022
 
 # Talk Abstracts
 
