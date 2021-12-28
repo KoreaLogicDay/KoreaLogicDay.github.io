@@ -4,6 +4,7 @@ title: null
 ---
 
 _Change the language to [한국어](index_kr.html)_
+
 # The second Korea Logic Day 2022, 14 January 2022
 
 <p>
@@ -18,37 +19,40 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 
 ## Important deadlines
-- Abstract submission : - December, 31, 2021
-- Registration : - January, 12, 2022
+- Abstract submission : December, 31, 2021
+- Registration : January, 12, 2022
 - Sharing the conference Zoom : January, 13, 2022
 - the second Korea logic day : January, 14, 2022
 
 
 ## Speakers
 
-| Name                                                              | Affiliation                                |
-|:-   | - |
+| Name | Affiliation |
+|:- | - |
 | [Ahn, Ki Yung](http://kyagrd.github.io/) | Hannam University |                                                                                                                                          
-| [Choi, Seungrak](https://philpeople.org/profiles/seungrak-choi)                                              | University of Seoul                    |
+| [Choi, Seungrak](https://philpeople.org/profiles/seungrak-choi) | University of Seoul |
 | [Jeon, Hanul](https://hanuljeon95.github.io/) | Cornell University |
-| [Kim, Dongwoo](https://dongwookim.org)                                                | CUNY                                     |  
-| Lee, Hyoyoon                                                  | Yonsei University                   |
-| [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home)                                                    | KAIST                                     |
-| [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2)                                      | KAIST                                     |
-| [Thies, Holger](http://www.holgerthies.com)   | Kyoto University                     |
-| [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang)                                                 | Jeonbuk National University   |
+| [Kim, Dongwoo](https://dongwookim.org) | CUNY |  
+| Lee, Hyoyoon | Yonsei University |
+| [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home) | KAIST |
+| [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2) | KAIST |
+| [Thies, Holger](http://www.holgerthies.com) | Kyoto University |
+| [Yang, Eunsuk](https://philpeople.org/profiles/eunsuk-yang) | Jeonbuk National University |
 
 
 
 ## Schedule
+
 It is a single day event. Each talk will be 40 minutes. The event starts at 9:20. The detailed schedule for each talk will be confirmed soon.
 
 
 ## How to Register and Participate
+
 The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by January, 12, 2022.
 The instruction on how to attend the event will be shared on January, 13, 2022.
 
 ## Talk Abstracts
+
 The talk abstracts can be found at [https://korealogicday.org/2022/abstracts](https://korealogicday.org/2022/abstracts)
 
 ## Organizers
