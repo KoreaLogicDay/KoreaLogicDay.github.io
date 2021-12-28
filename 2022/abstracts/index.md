@@ -9,6 +9,7 @@ _Change the language to [한국어](index_kr.html)_
 # Talk Abstracts
 
 <p id="abstract-Yang-Eunsuk"></p>
+
 ### Yang, Eunsuk (Jeonbuk National University), "_Implicational tonoids, embeddability, and representations_"
 
 We investigate implicational tonoids and their representations. More precisely, we first review implicational tonoid matrices. We then introduce their representations. We in particular consider embeddability property for implicational tonoid matrices. Finally, we generalize these to assertional implicational tonoid algebras and their embeddabilty and representations.
