@@ -31,7 +31,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 | [Ahn, Ki Yung](http://kyagrd.github.io/) | Hannam University |                                                                                                                                          
 | [Choi, Seungrak](https://philpeople.org/profiles/seungrak-choi)                                              | University of Seoul                    |
 | [Jeon, Hanul](https://hanuljeon95.github.io/) | Cornell University |
-| Kim, Dongwoo                                                | CUNY                                     |  
+| [Kim, Dongwoo](https://dongwookim.org)                                                | CUNY                                     |  
 | Lee, Hyoyoon                                                  | Yonsei University                   |
 | [Lee, Junguk](https://sites.google.com/site/leejunguk0323/home)                                                    | KAIST                                     |
 | [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2)                                      | KAIST                                     |
