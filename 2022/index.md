@@ -49,7 +49,7 @@ The event will be held online. Please leave your email address through this [goo
 The instruction on how to attend the event will be shared on January, 13, 2022.
 
 ## Talk Abstracts
-(tba)
+The talk abstracts can be found at [https://korealogicday.org/2022/abstracts](https://korealogicday.org/2022/abstracts)
 
 ## Organizers
 
