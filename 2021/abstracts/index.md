@@ -3,7 +3,8 @@ name: The first Korea Logic Day 2021
 title: null
 ---
 
-_Change the language to [한국어](index_kr.html)_
+_Change the language to [한국어](https://korealogicday.org/2021/index_kr.html)_
+
 # [The first Korea Logic Day 2021](https://korealogicday.org/2021), 14 January 2021
 
 # Talk Abstracts
