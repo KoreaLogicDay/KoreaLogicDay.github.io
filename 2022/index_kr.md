@@ -46,7 +46,7 @@ _[English](index.html)로 언어 바꾸기_
 자세한 참가방법은 2022년 1월 13일 접수해주신 이메일로 공지해드립니다.
 
 ## 발표 초록
-(추후 공개)
+발표 초록은 [https://korealogicday.org/2022/abstracts](https://korealogicday.org/2022/abstracts) 에서 찾을 수 있습니다.
 
 ## 조직 및 운영
 
