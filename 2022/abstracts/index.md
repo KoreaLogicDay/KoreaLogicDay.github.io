@@ -9,7 +9,7 @@ _Change the language to [한국어](https://korealogicday.org/2022/index_kr.html
 
 # Talk Abstracts
 
-<p id="abstract-Yang-Eunsuk"></p>
+<p id="abstract-Jeon-Hanul"></p>
 
 ### Jeon, Hanul (Cornell University), "_Constructive Ackermann's interpretation_"
 
@@ -17,6 +17,7 @@ Ackermann proved that we could interpret $\mathsf{ZFC}$ without the axiom of Inf
  In my talk, I will explore the results of Kaye and Wong in a constructive manner. While there is a unique constructive counterpart of $\mathsf{PA}$, known as Heyting arithmetic ($\mathsf{HA}$), there are at least two constructive analogs of $\mathsf{ZFC}$, namely, Intuinionistic $\mathsf{ZF}$ ($\mathsf{IZF}$) and Constructive $\mathsf{ZF}$ ($\mathsf{CZF}$). It turns out that $\mathsf{HA}$ is bi-interpretable with $\mathsf{CZF^{fin}}$, the theory obtained by removing Infinity from $\mathsf{CZF}$ and adding the assertion "every set is finite."
  Kaye and Wong also explored the bi-interpretability between subtheories of $\mathsf{HA}$ and a finite set theory. In my talk, I will characterize subtheories of $\mathsf{HA}$ and $\mathsf{CZF^{fin}}$ that are bi-interpretable with each other.
 
+<p id="abstract-Thies-Holger"></p>
 
 ### Thies, Holger (Kyoto University), "_An application of constructive dependent type theory to certified computation over the reals_"
 
@@ -32,6 +33,7 @@ We also present some examples of extracting non-deterministic programs from proo
 (This talk is based on j.w.w. Sewon Park and Michal Konečný)
 
 
+<p id="abstract-Yang-Eunsuk"></p>
 
 ### Yang, Eunsuk (Jeonbuk National University), "_Implicational tonoids, embeddability, and representations_"
 
