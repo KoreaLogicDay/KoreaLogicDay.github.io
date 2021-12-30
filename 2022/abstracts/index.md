@@ -11,6 +11,12 @@ _Change the language to [한국어](https://korealogicday.org/2022/index_kr.html
 
 <p id="abstract-Yang-Eunsuk"></p>
 
+### Jeon, Hanul (Cornell University), "_Constructive Ackermann's interpretation_"
+
+Ackermann proved that we could interpret $\mathsf{ZFC}$ without the axiom of Infinity into Peano Arithmetic ($\mathsf{PA}$). 70 years later, Kaye and Wong improved Ackermann's result that $\mathsf{PA}$ is, in fact, bi-interpretable with a finite set theory, which is an extension of $\mathsf{ZFC}$ without Infinity.
+ In my talk, I will explore the results of Kaye and Wong in a constructive manner. While there is a unique constructive counterpart of $\mathsf{PA}$, known as Heyting arithmetic ($\mathsf{HA}$), there are at least two constructive analogs of $\mathsf{ZFC}$, namely, Intuinionistic $\mathsf{ZF}$ ($\mathsf{IZF}$) and Constructive $\mathsf{ZF}$ ($\mathsf{CZF}$). It turns out that $\mathsf{HA}$ is bi-interpretable with $\mathsf{CZF^{fin}}$, the theory obtained by removing Infinity from $\mathsf{CZF}$ and adding the assertion "every set is finite."
+ Kaye and Wong also explored the bi-interpretability between subtheories of $\mathsf{HA}$ and a finite set theory. In my talk, I will characterize subtheories of $\mathsf{HA}$ and $\mathsf{CZF^{fin}}$ that are bi-interpretable with each other.
+
 
 ### Thies, Holger (Kyoto University), "_An application of constructive dependent type theory to certified computation over the reals_"
 
