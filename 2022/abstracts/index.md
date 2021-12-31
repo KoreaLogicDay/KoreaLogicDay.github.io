@@ -17,6 +17,30 @@ Ackermann proved that we could interpret $\mathsf{ZFC}$ without the axiom of Inf
  In my talk, I will explore the results of Kaye and Wong in a constructive manner. While there is a unique constructive counterpart of $\mathsf{PA}$, known as Heyting arithmetic ($\mathsf{HA}$), there are at least two constructive analogs of $\mathsf{ZFC}$, namely, Intuinionistic $\mathsf{ZF}$ ($\mathsf{IZF}$) and Constructive $\mathsf{ZF}$ ($\mathsf{CZF}$). It turns out that $\mathsf{HA}$ is bi-interpretable with $\mathsf{CZF^{fin}}$, the theory obtained by removing Infinity from $\mathsf{CZF}$ and adding the assertion "every set is finite."
  Kaye and Wong also explored the bi-interpretability between subtheories of $\mathsf{HA}$ and a finite set theory. In my talk, I will characterize subtheories of $\mathsf{HA}$ and $\mathsf{CZF^{fin}}$ that are bi-interpretable with each other.
 
+<p id="abstract-Lee-Hyoyoon"></p>
+
+### Lee, Hyoyoon (Yonsei University), "_Godel's Incompleteness Theorem; sketch of the rigorous proof_"
+
+The statements and results of Godel's Incompleteness Theorems are fairly well-known, but the rigorous mathematical proof of it is not so easy to understand for the people who don't know well about mathematical logic.
+I aim to give a rough, but mathematically precise sketch of the proof that, hopefully, can be understood by anyone having some basic sophistication in mathematics.
+The proof in this talk will be based on Byunghan Kim's lecture note, which can be found in his homepage.
+The sketch will contain crucial definitions and key technical lemmas in the proof, including:
+Definition of recursiveness, $\beta$-function Lemma that enables us to code the sequence of numbers into a single natural number, Representability Theorem, Godel numbering, Fixed Point Theorem, and so on.
+
+<p id="abstract-Lee-Junguk"></p>
+
+### Lee, Junguk (KAIST), "_ACFs are simple as much as infinite sets : An introduction to quantifier elimination_"
+
+I will introduction the notion of quantifier elimination (QE) from model theory, which is a powerful tool to understand definable sets for various first order structure. We will see several mathematical structures having QE, for example, infinite sets, dense linear order without endpoints, algebraically closed fields, real closed fields, and so on. And as applications of QE, I will briefly explain model-theoretic proofs of Chevalley's theorem on constructible sets and of Hilbert's 17th problem.
+
+<p id="abstract-Selivanova-Svetlana"></p>
+
+### Selivanova, Svetlana (KAIST), "_Computational Properties of Differential Equations Solution Operators_"
+
+In this talk we discuss recent computability and complexity results for solution operators of differential equations, with the main focus on linear systems of partial differential equations. We show two different approaches: (i) real complexity and (ii) computation with coefficients in real closed fields; as well as summarize dependence of the results on smoothness of initial data. 
+
+
+
 <p id="abstract-Thies-Holger"></p>
 
 ### Thies, Holger (Kyoto University), "_An application of constructive dependent type theory to certified computation over the reals_"
