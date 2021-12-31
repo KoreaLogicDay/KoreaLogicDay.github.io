@@ -31,7 +31,7 @@ _[English](index.html)로 언어 바꾸기_
 | [안기영](http://kyagrd.github.io/) | 한남대학교 |
 | [양은석](https://philpeople.org/profiles/eunsuk-yang) | 전북대학교 |
 | [이정욱](https://sites.google.com/site/leejunguk0323/home) | 카이스트|
-| 이효윤 | 연세대학교 |
+| [이효윤](https://sites.google.com/view/hyoyoonlee/home) | 연세대학교 |
 | [전한울](https://hanuljeon95.github.io/) | Cornell University |
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 |
 | [Selivanova, Svetlana](https://www.researchgate.net/profile/Svetlana-Selivanova-2) | 카이스트 |
