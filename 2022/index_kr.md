@@ -42,8 +42,8 @@ _[English](index.html)로 언어 바꾸기_
 
 |             | Talks                            |                    
 |:-           |                                - |
-| 9:20-9:30   | _Opening Remark_                 | 
-| 9:30-10:10  | 김동우 (CUNY), _TBA_ | 
+| 09:20-09:30   | _Opening Remark_                 | 
+| 09:30-10:10  | 김동우 (CUNY), _TBA_ | 
 | 10:10-10:20 | Break |
 | 10:20-11:00 | 전한울 (Cornell University), [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00-11:40 | 최승락 (University of Seoul), _TBA_ |
