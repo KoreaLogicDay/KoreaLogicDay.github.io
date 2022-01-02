@@ -39,7 +39,26 @@ _[English](index.html)로 언어 바꾸기_
 
 
 ## 발표 일정
-2022년 1월 14일 당일 행사이며 오전 9시20분 시작할 계획입니다. 자세한 발표 일정은 곧 공개됩니다. 
+
+|             | Talks                            |                    
+|:-           |                                - |
+| 9:20-9:30   | _Opening Remark_                 | 
+| 9:30-10:10  | 김동우 (CUNY) | 
+| 10:10-10:20 | Break |
+| 10:20-11:00 | 전한울 (Cornell University), [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
+| 11:00-11:40 | 최승락 (University of Seoul) |
+| 11:40-13:10 | Lunch |
+| 13:10-13:50 | 이정욱 (KAIST), [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
+| 13:50-14:30 | 이효윤 (Yonsei University), [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
+| 14:30-14:40 | Break |
+| 14:40-15:20 | Selivanova, Svetlana (KAIST), [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
+| 15:20-15:50 | Coffee break
+| 15:50-16:30 | 안기영 (Hannam University) | 
+| 16:30-17:20 | Thies, Holger (Kyoto University), [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
+| 17:20-17:30 | Break |
+| 17:30-18:10 | 양은석 (Jeonbuk National University), [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
+
+
 
 ## 등록 및 참가
 온라인으로 진행됩니다. 참가를 원하시는 분들은 2022년 1월 12일까지 이메일 주소를 [google form](https://forms.gle/KVki9H4iCDRSaumAA)을 통해 접수해주세요.
