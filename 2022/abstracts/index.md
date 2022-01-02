@@ -31,7 +31,7 @@ Definition of recursiveness, $\beta$-function Lemma that enables us to code the 
 
 ### Lee, Junguk (KAIST), "_ACFs are simple as much as infinite sets : An introduction to quantifier elimination_"
 
-I will introduction the notion of quantifier elimination (QE) from model theory, which is a powerful tool to understand definable sets for various first order structure. We will see several mathematical structures having QE, for example, infinite sets, dense linear order without endpoints, algebraically closed fields, real closed fields, and so on. And as applications of QE, I will briefly explain model-theoretic proofs of Chevalley's theorem on constructible sets and of Hilbert's 17th problem.
+I will introduce the notion of quantifier elimination (QE) from model theory, which is a powerful tool to understand definable sets for various first order structures. We will see several mathematical structures having QE, for example, infinite sets, dense linear order without endpoints, algebraically closed fields, real closed fields, and so on. And as applications of QE, I will briefly explain model-theoretic proofs of Chevalley's theorem on constructible sets and of Hilbert's 17th problem.
 
 <p id="abstract-Selivanova-Svetlana"></p>
 
