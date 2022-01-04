@@ -9,6 +9,14 @@ _Change the language to [한국어](https://korealogicday.org/2022/index_kr.html
 
 # Talk Abstracts
 
+<p id="abstract-Choi-Seungrak"></p>
+
+### Choi, Seungrak (University of Seoul), "_Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?_"
+
+In this talk, I will introduce dialetheism on arithmetic which is the view that there exists a true contradiction even in arithmetic. After we investigate inconsistent semantics on arithmetic and its application to Gödel’s incompleteness theorem, we will deal with the interesting philosophical claim from Graham Priest that even primitive recursive relations may be inconsistent. Although he carefully presented his claim using the expression 'may be,' Priest(2006) gave a definite claim that even numerical equations can be inconsistent.
+
+With the summary of Priest's argument for the inconsistent primitive recursive relation, I will argue that his identity relation cannot be both primitive recursive and inconsistent. Since he did not propose a new definition of 'primitive recursive function' that fits to his dialetheism, he should seriously consider my argument. Furthermore, for a general case, I will argue that there is no inconsistent primitive recursive relation with regard to the standard notion of 'primitive recursive function.' 
+
 <p id="abstract-Jeon-Hanul"></p>
 
 ### Jeon, Hanul (Cornell University), "_Constructive Ackermann's interpretation_"
