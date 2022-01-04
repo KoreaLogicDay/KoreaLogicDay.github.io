@@ -42,7 +42,7 @@ _[English](index.html)로 언어 바꾸기_
 
 |             | 발표자 | 발표명                            |                    
 |:-           |:-       |:-                               |
-| 09:20       |         | _Opening Remark_                | 
+| 09:20       |   -      | _Opening remark_                | 
 | 09:30       | 김동우 (CUNY) |  _TBA_ | 
 | 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
