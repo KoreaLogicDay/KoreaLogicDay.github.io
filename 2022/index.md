@@ -45,7 +45,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| 09:20       | -        | _Opening Remark_                | 
+| 09:20       | -        | _Opening remark_                | 
 | 09:30       | Kim, Dongwoo (CUNY) |  _TBA_ | 
 | 10:10       |  - | _Break_       |
 | 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
