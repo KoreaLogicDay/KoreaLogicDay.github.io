@@ -44,18 +44,18 @@ _[English](index.html)로 언어 바꾸기_
 |:-           |:-       |:-                               |
 | 09:20       |         | _Opening Remark_                | 
 | 09:30       | 김동우 (CUNY) |  _TBA_ | 
-| 10:10       |   Break      |  |
+| 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00       | 최승락 (서울시립대학교) | _TBA_ |
-| 11:40       |   Lunch      |  |
+| 11:40       |   - | _Lunch_       |
 | 13:10       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
 | 13:50       | 이효윤 (연세대학교) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
-| 14:30       | Break |  |
+| 14:30       | - | _Break_ |  
 | 14:40       | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
-| 15:20       | Coffee break   ||
+| 15:20       | - | _Coffee break_   |
 | 15:50       | 안기영 (한남대학교) | _TBA_ | 
 | 16:30       | Thies, Holger (교토대학교) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
-| 17:20       | Break |  |
+| 17:20       | - | _Break_   |
 | 17:30-18:10 | 양은석 (전북대학교) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
 
 
