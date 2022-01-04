@@ -43,23 +43,23 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 ## Schedule
 
-|             | Talks                            |                    
-|:-           |                                - |
-| 09:20-09:30 | _Opening Remark_                 | 
-| 09:30-10:10 | Kim, Dongwoo (CUNY), _TBA_ | 
-| 10:10-10:20 | Break |
-| 10:20-11:00 | Jeon, Hanul (Cornell University), [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
-| 11:00-11:40 | Choi, Seungrak (University of Seoul), _TBA_ |
-| 11:40-13:10 | Lunch |
-| 13:10-13:50 | Lee, Junguk (KAIST), [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
-| 13:50-14:30 | Lee, Hyoyoon (Yonsei University), [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
-| 14:30-14:40 | Break |
-| 14:40-15:20 | Selivanova, Svetlana (KAIST), [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
-| 15:20-15:50 | Coffee break
-| 15:50-16:30 | Ahn, Ki Yung (Hannam University), _TBA_ | 
-| 16:30-17:20 | Thies, Holger (Kyoto University), [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
-| 17:20-17:30 | Break |
-| 17:30-18:10 | Yang, Eunsuk (Jeonbuk National University), [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
+|             | Speaker | Talk                            |                    
+|:-           |:-       |:-                               |
+| 09:20       |         | _Opening Remark_                | 
+| 09:30       | Kim, Dongwoo (CUNY) |  _TBA_ | 
+| 10:10       |   Break      |  |
+| 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
+| 11:00       | Choi, Seungrak (University of Seoul) | _TBA_ |
+| 11:40       |   Lunch      |  |
+| 13:10       | Lee, Junguk (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
+| 13:50 | Lee, Hyoyoon (Yonsei University) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
+| 14:30 | Break |  |
+| 14:40 | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
+| 15:20 | Coffee break   ||
+| 15:50 | Ahn, Ki Yung (Hannam University) | _TBA_ | 
+| 16:30 | Thies, Holger (Kyoto University) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
+| 17:20 | Break |  |
+| 17:30-18:10 | Yang, Eunsuk (Jeonbuk National University) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
 
 
 ## How to Register and Participate
