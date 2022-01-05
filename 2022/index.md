@@ -64,7 +64,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 ## How to Register and Participate
 
-The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by January, 12, 2022.
+The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by 12 January 2022.
 The instruction on how to attend the event will be shared on 13 January 2022.
 
 ## Talk Abstracts
