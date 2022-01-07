@@ -43,7 +43,7 @@ _[English](index.html)로 언어 바꾸기_
 |             | 발표자 | 발표명                            |                    
 |:-           |:-       |:-                               |
 | 09:20       |   -      | _Opening remark_                | 
-| 09:30       | 김동우 (CUNY) |  _TBA_ | 
+| 09:30       | 김동우 (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
 | 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
