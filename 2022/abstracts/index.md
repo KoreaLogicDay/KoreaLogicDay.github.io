@@ -25,6 +25,14 @@ Ackermann proved that we could interpret $$\mathsf{ZFC}$$ without the axiom of I
  In my talk, I will explore the results of Kaye and Wong in a constructive manner. While there is a unique constructive counterpart of $$\mathsf{PA}$$, known as Heyting arithmetic ($$\mathsf{HA}$$), there are at least two constructive analogs of $$\mathsf{ZFC}$$, namely, Intuinionistic $$\mathsf{ZF}$$ ($$\mathsf{IZF}$$) and Constructive $$\mathsf{ZF}$$ ($$\mathsf{CZF}$$). It turns out that $$\mathsf{HA}$$ is bi-interpretable with $$\mathsf{CZF^{fin}}$$, the theory obtained by removing Infinity from $$\mathsf{CZF}$$ and adding the assertion "every set is finite."
  Kaye and Wong also explored the bi-interpretability between subtheories of $$\mathsf{HA}$$ and a finite set theory. In my talk, I will characterize subtheories of $$\mathsf{HA}$$ and $$\mathsf{CZF^{fin}}$$ that are bi-interpretable with each other.
 
+<p id="abstract-Kim-Dongwoo"></p>
+
+### Kim, Dongwoo (CUNY), "_Exact Truthmaker Semantics: in relation to multi-valued semantics_"
+
+I present the basic ideas of exact truthmaker semantics, which has been developed by Kit Fine in a series of papers. I focus on its relation to some of the well-known multi-valued semantics, such as K3,  LP, and Belnap’s four-valued semantics, and discuss how the standard exact truthmaker semantics provides a unifying formal framework.
+
+
+
 <p id="abstract-Lee-Hyoyoon"></p>
 
 ### Lee, Hyoyoon (Yonsei University), "_Godel's Incompleteness Theorem; sketch of the rigorous proof_"
