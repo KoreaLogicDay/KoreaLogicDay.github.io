@@ -46,7 +46,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
 | 09:20       | -        | _Opening remark_                | 
-| 09:30       | Kim, Dongwoo (CUNY) |  _TBA_ | 
+| 09:30       | Kim, Dongwoo (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
 | 10:10       |  - | _Break_       |
 | 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00       | Choi, Seungrak (University of Seoul) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
