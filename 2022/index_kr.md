@@ -43,12 +43,12 @@ _[English](index.html)로 언어 바꾸기_
 |             | 발표자 | 발표명                            |                    
 |:-           |:-       |:-                               |
 | 09:20       |   -      | _Opening remark_                | 
-| 09:30       | 김동우 (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
+| 09:30       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
 | 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
 | 11:40       |   - | _Lunch_       |
-| 13:10       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
+| 13:10       |  김동우 (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
 | 13:50       | 이효윤 (연세대학교) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
 | 14:30       | - | _Break_ |  
 | 14:40       | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
