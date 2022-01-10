@@ -53,7 +53,7 @@ _[English](index.html)로 언어 바꾸기_
 | 14:30       | - | _Break_ |  
 | 14:40       | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
 | 15:20       | - | _Coffee break_   |
-| 15:50       | 안기영 (한남대학교) | _TBA_ | 
+| 15:50       | 안기영 (한남대학교) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants | 
 | 16:30       | Thies, Holger (교토대학교) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
 | 17:20       | - | _Break_   |
 | 17:30-18:10 | 양은석 (전북대학교) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
