@@ -56,7 +56,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 | 14:30 | - | _Break_  |
 | 14:40 | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
 | 15:20 | - | _Coffee break_   |
-| 15:50 | Ahn, Ki Yung (Hannam University) | _TBA_ | 
+| 15:50 | Ahn, Ki Yung (Hannam University) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants | 
 | 16:30 | Thies, Holger (Kyoto University) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
 | 17:20 | - | _Break_   |
 | 17:30-18:10 | Yang, Eunsuk (Jeonbuk National University) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
