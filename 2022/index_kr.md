@@ -43,19 +43,23 @@ _[English](index.html)로 언어 바꾸기_
 |             | 발표자 | 발표명                            |                    
 |:-           |:-       |:-                               |
 | 09:20       |   -      | _Opening remark_                | 
+| - | _세션 1, chair 김준희_ | - |
 | 09:30       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
 | 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
 | 11:00       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
 | 11:40       |   - | _Lunch_       |
+| - | _세션 2, chair 김형준_ | - |
 | 13:10       |  김동우 (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
 | 13:50       | 이효윤 (연세대학교) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
 | 14:30       | - | _Break_ |  
+| - | _세션 3, chair 박세원_ |  - |
 | 14:40       | Selivanova, Svetlana (카이스트) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
 | 15:20       | - | _Coffee break_   |
 | 15:50       | 안기영 (한남대학교) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants | 
 | 16:30       | Thies, Holger (교토대학교) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
 | 17:20       | - | _Break_   |
+| - | _세션 4, chair 최승락_ | - |
 | 17:30-18:10 | 양은석 (전북대학교) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
 
 
