@@ -51,7 +51,7 @@ _[English](index.html)로 언어 바꾸기_
 | 13:10       |  김동우 (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
 | 13:50       | 이효윤 (연세대학교) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
 | 14:30       | - | _Break_ |  
-| 14:40       | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
+| 14:40       | Selivanova, Svetlana (카이스트) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
 | 15:20       | - | _Coffee break_   |
 | 15:50       | 안기영 (한남대학교) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants | 
 | 16:30       | Thies, Holger (교토대학교) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
@@ -69,5 +69,5 @@ _[English](index.html)로 언어 바꾸기_
 ## 조직 및 운영
 
 - [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee) (연세대학교)
-- [박세원](https://sewonpark.com/) (Kyoto University)
+- [박세원](https://sewonpark.com/) (교토대학교)
 - [양은석](https://philpeople.org/profiles/eunsuk-yang) (전북대학교)
