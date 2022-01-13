@@ -47,10 +47,10 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 |:-           |:-       |:-                               |
 | 09:20       | -        | _Opening remark_                | 
 | - | _Session 1, chair Kim, Joonhee_ | - |
-| 09:30       | Lee, Junguk (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
+| 09:30       | Choi, Seungrak (University of Seoul) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
 | 10:10       |  - | _Break_       |
 | 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
-| 11:00       | Choi, Seungrak (University of Seoul) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
+| 11:00       | Lee, Junguk (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
 | 11:40       |   - | _Lunch_        |
 | - | _Session 2, chair Kim, Hyeungjoon_ | - |
 | 13:10       | Kim, Dongwoo (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
