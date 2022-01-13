@@ -18,7 +18,8 @@ On 14 January 2019, the first World Logic Day was celebrated as an initiative of
 Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ and _Kurt Gödel_ were most influential logicians in the 20th century. _Alfred Tarski_ was born on 14 January 1901 and _Kurt Gödel_ died on 14 January 1978. In memory of these two greatest logicians in the 20th century, 14 January is decided to be the day.
 
 
-## Important deadlines
+## Important dates
+
 - Abstract submission : - 31 December 2021
 - Registration : - 12 January 2022
 - Sharing the conference Zoom : 13 January 2022
