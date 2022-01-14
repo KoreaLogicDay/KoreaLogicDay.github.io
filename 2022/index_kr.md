@@ -67,8 +67,6 @@ _[English](index.html)로 언어 바꾸기_
 온라인으로 진행됩니다. 참가를 원하시는 분들은 2022년 1월 12일까지 이메일 주소를 [google form](https://forms.gle/KVki9H4iCDRSaumAA)을 통해 접수해주세요.
 자세한 참가방법은 2022년 1월 13일 접수해주신 이메일로 공지해드립니다.
 
-* _등록 마감일 이후 행사 등록을 원하시는 분들은 2022년 1월 13일 자정까지 [박세원](mailto:sewon@kurims.kyoto-u.ac.jp) 에게 관련 메일을 보내주세요._
-
 
 ## 발표 초록
 발표 초록은 [https://korealogicday.org/2022/abstracts](https://korealogicday.org/2022/abstracts) 에서 찾을 수 있습니다.
