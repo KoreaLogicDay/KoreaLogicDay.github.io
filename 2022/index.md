@@ -72,8 +72,6 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 The event will be held online. Please leave your email address through this [google form](https://forms.gle/KVki9H4iCDRSaumAA) by 12 January 2022.
 The instruction on how to attend the event will be shared on 13 January 2022.
 
-* _After the deadline, if you want to attend the event, please send an email to [Sewon Park](mailto:sewon@kurims.kyoto-u.ac.jp) for the event link by the midnight of 13 January 2022._
-
 ## Talk Abstracts
 
 The talk abstracts can be found at [https://korealogicday.org/2022/abstracts](https://korealogicday.org/2022/abstracts)
