@@ -46,25 +46,25 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| 09:20       | -        | _Opening remark_                | 
+| 09:20       | -        | _Opening remark_                |
 | - | _Session 1, chair Kim, Joonhee_ | - |
-| 09:30       | Choi, Seungrak (University of Seoul) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak) |
+| 09:30       | Choi, Seungrak (University of Seoul) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak). [Slides (pdf)](slides/Choi-Seungrak.pdf)  |
 | 10:10       |  - | _Break_       |
-| 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul) | 
-| 11:00       | Lee, Junguk (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk) |
+| 10:20       | Jeon, Hanul (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul). [Slides (pdf)](slides/Jeon-Hanul.pdf)  |
+| 11:00       | Lee, Junguk (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk). [Slides (pdf)](slides/Lee-Junguk.pdf)  |
 | 11:40       |   - | _Lunch_        |
 | - | _Session 2, chair Kim, Hyeungjoon_ | - |
-| 13:10       | Kim, Dongwoo (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo) | 
-| 13:50 | Lee, Hyoyoon (Yonsei University) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon) |
+| 13:10       | Kim, Dongwoo (CUNY) |  [Exact Truthmaker Semantics: in relation to multi-valued semantics](abstracts/#abstract-Kim-Dongwoo). [Slides (pdf)](slides/Kim-Dongwoo.pdf)  |
+| 13:50 | Lee, Hyoyoon (Yonsei University) | [Godel's Incompleteness Theorem; sketch of the rigorous proof](abstracts/#abstract-Lee-Hyoyoon). [Slides (pdf)](slides/Lee-Hyoyoon.pdf)  |
 | 14:30 | - | _Break_  |
 | - | _Session 3, chair Park, Sewon_ | - |
-| 14:40 | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana) |
+| 14:40 | Selivanova, Svetlana (KAIST) | [Computational Properties of Differential Equations Solution Operators](abstracts/#abstract-Selivanova-Svetlana). [Slides (pdf)](slides/Selivanova-Svetlana.pdf)  |
 | 15:20 | - | _Coffee break_   |
-| 15:50 | Ahn, Ki Yung (Hannam University) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants | 
-| 16:30 | Thies, Holger (Kyoto University) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger) |
+| 15:50 | Ahn, Ki Yung (Hannam University) | Recursion, Induction, and Data types in Programming Languages and Proof Assistants. [Slides (pdf)](slides/Ahn-Ki-Yung.pdf)  |
+| 16:30 | Thies, Holger (Kyoto University) | [An application of constructive dependent type theory to certified computation over the reals](abstracts/#abstract-Thies-Holger). [Slides (pdf)](slides/Thies-Holger.pdf)  |
 | 17:10 | - | _Break_   |
 | - | _Session 4, chair Choi, Seungrak_ | - |
-| 17:30-18:10 | Yang, Eunsuk (Jeonbuk National University) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk) |
+| 17:30-18:10 | Yang, Eunsuk (Jeonbuk National University) | [Implicational tonoids, embeddability, and representations](abstracts/#abstract-Yang-Eunsuk). [Slides (pdf)](slides/Yang-Eunsuk.pdf)  |
 
 
 ## How to Register and Participate
