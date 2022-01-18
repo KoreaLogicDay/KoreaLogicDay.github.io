@@ -44,7 +44,7 @@ _[English](index.html)로 언어 바꾸기_
 |:-           |:-       |:-                               |
 | 09:20       |   -      | _Opening remark_                | 
 | - | _세션 1, chair 김준희_ | - |
-| 09:30       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak). [Slides (pdf)](slides/Choi-Seungrak.pdf)  |
+| 09:30       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](abstracts/#abstract-Choi-Seungrak). [Slides (pdf)](slides/Choi-Seungrak.pdf.pdf)  |
 | 10:10       |   - | _Break_       |
 | 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](abstracts/#abstract-Jeon-Hanul). [Slides (pdf)](slides/Jeon-Hanul.pdf)   | 
 | 11:00       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](abstracts/#abstract-Lee-Junguk). [Slides (pdf)](slides/Lee-Junguk.pdf)   |
