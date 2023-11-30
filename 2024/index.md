@@ -13,7 +13,8 @@ _Change the language to [한국어](kr/)_
 </p>
 -->
 
-We aim to bring logicians in Korea together, celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__, and exchange opinions on current roles of logic in philosophy, science, and engineering.
+We aim to bring logicians in Korea together and celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__. 
+We will introduce the research domains of logic and engage in discussions on the diverse applications of logic in various fields.
 
 On 14 January 2019, the first World Logic Day was celebrated as an initiative of universities, research institutes, foundations and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. 
 For future annual celebrations of World Logic Day, it was officially claimed the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_ (__CIPSH__) on 13 November 2019. 
