@@ -70,3 +70,6 @@ organized by:
 - [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee), KIAS
 - [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Yonsei University
 - [Sewon Park](https://sewonpark.com/), Kyoto University
+
+Pleaes contact [kld2024-oc@googlegroups.com](mailto:kld2024-oc@googlegroups.com) to reach the organizers.
+
