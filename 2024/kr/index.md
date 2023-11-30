@@ -65,3 +65,5 @@ _공개 예정_
 - [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee), 고등과학원
 - [박세원](https://sewonpark.com/), 교토대학교
 - [이효윤](https://sites.google.com/view/hyoyoonlee/home), 연세대학교
+
+문의사항 등은 [kld2024-oc@googlegroups.com](mailto:kld2024-oc@googlegroups.com)으로 이메일 바랍니다.
