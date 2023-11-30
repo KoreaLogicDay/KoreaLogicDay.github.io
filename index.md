@@ -1,6 +1,6 @@
 ## Upcoming events
 
-- [The third Korea Logic Day 2024](12 January 2024)
+- [The third Korea Logic Day ~~2023~~ 2024](2024) (12 January 2024)
 
 ## Previous events
 
