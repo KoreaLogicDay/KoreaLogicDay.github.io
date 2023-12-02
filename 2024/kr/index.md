@@ -39,10 +39,11 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 | [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | 고등과학원 | 모델이론 |
 | [문샛별](https://sites.google.com/view/stellamoon) | Czech Academy of Sciences | 논리의 철학 |
 | [박세원](https://sewonpark.com) | 교토대학교 | 컴퓨터과학 |
+| [양은석](https://philpeople.org/profiles/eunsuk-yang) | Department of Philosophy, Jeonbuk National University | Philosophical Logic |
+| [전한울](https://hanuljeon95.github.io) | Cornell University | Set Theory |
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 | 증명론 |
 
 추가 발표와 발표명 및 초록은 추후 공개될 예정입니다.
-
 
 ## 발표 일정
 
