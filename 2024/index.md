@@ -37,20 +37,20 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 ## Speakers
 
 | Name | Affiliation | Topic |
-|:- | - | :- |
+|:- | :- | :- |
 | [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi) | University of Seoul |  Proof Theory |
+| [Hanul Jeon](https://hanuljeon95.github.io) | Cornell University | Set Theory |
 | Donghyun Kim | Korea National University of Transportation | Logic and Education |
 | [Dongwoo Kim](https://dongwookim.org) | KAIST | Philosophy of Logic |
 | [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | KIAS | Model Theory |
-| [Stella Moon](https://sites.google.com/view/stellamoon) | Czech Academy of Sciences | Philosophy of Logic |
 | [Sewon Park](https://sewonpark.com) | Kyoto University | Logic in Computer Science |
+| [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) | Department of Philosophy, Jeonbuk National University | Philosophical Logic |
 
 More talks, titles, and abstracts are TBD.
 
 ## Schedule
 
 TBD
-
 
 ## How to Register and Participate
 
