@@ -5,13 +5,11 @@ title: null
 
 _Change the language to [한국어](kr/)_
 
-# The third Korea Logic Day 2024, 12 January 2024
+# The third Korea Logic Day 2024, ___12___ January 2024
 
-<!--
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
 </p>
--->
 
 We aim to bring logicians in Korea together and celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__. 
 We will introduce the research domains of logic and engage in discussions on the diverse applications of logic in various fields.
