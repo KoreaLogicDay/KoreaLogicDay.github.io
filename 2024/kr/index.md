@@ -5,13 +5,12 @@ title: null
 
 _[English](../)로 언어 바꾸기_
 
-# 제3회 한국 논리학의 날 2024, 2024년 1월 12일
+# 제3회 한국 논리학의 날 2024, 2024년 1월 ___12일___
 
-<!--
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
 </p>
--->
+
 
 한국 논리학자들이 다 함께 모여 세계 논리학의 날을 축하하고 논리학의 다양한 분야와 여러 분야에서의 논리학의 역할에 대해 소개하고 의견을 공유하는 자리를 마련하려고 합니다.
 
