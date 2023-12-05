@@ -43,6 +43,7 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 | [양은석](https://philpeople.org/profiles/eunsuk-yang) | 전북대학교 | 철학적 논리 |
 | [전한울](https://hanuljeon95.github.io) | Cornell University | 집합론 |
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 | 증명론 |
+| [Takao Yuyama](http://t-yuyama.jp/index.html) | 교토대학교 | 컴퓨터과학 |
 
 추가 발표와 발표명 및 초록은 추후 공개될 예정입니다.
 
