@@ -38,11 +38,11 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 | Name | Affiliation | Topic |
 |:- | :- | :- |
 | [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi) | University of Seoul |  Proof Theory |
+| [Junyoung Jang](https://ailrun.github.io/) | McGill University | Logic in Computer Science |
 | [Hanul Jeon](https://hanuljeon95.github.io) | Cornell University | Set Theory |
 | Donghyun Kim | Korea National University of Transportation | Logic and Education |
 | [Dongwoo Kim](https://dongwookim.org) | KAIST | Philosophy of Logic |
 | [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | KIAS | Model Theory |
-| [Sewon Park](https://sewonpark.com) | Kyoto University | Logic in Computer Science |
 | [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) | Department of Philosophy, Jeonbuk National University | Philosophical Logic |
 | [Takao Yuyama](http://t-yuyama.jp/index.html) | Kyoto University | Logic in Computer Science |
 
