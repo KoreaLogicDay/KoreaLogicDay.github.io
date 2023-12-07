@@ -27,7 +27,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 
-- Abstract submission deadline: 31 December 2023.
+- Abstract submission deadline: 26 December 2023.
 - Registration deadline: 10 January 2024
 - Sharing the Zoom link: 11 January 2024
 - the 3rd Korea Logic Day: 12 January 2024
