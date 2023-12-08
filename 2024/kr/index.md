@@ -38,8 +38,9 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 |:- | - | :- |
 | [김동우](https://dongwookim.org) | 한국과학기술원 | 논리의 철학 |
 | 김동현 | 한국교통대학교 | 논리와 교육 |
-| [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | 고등과학원 | 모델이론 |
+| [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | 고등과학원 | 모델론 |
 | [양은석](https://philpeople.org/profiles/eunsuk-yang) | 전북대학교 | 철학적 논리 |
+| [이정욱](https://sites.google.com/site/leejunguk0323/home)  | 창원대학교 | 모델론 |
 | [장준영](https://ailrun.github.io/) | McGill University | 전산논리 |
 | [전한울](https://hanuljeon95.github.io) | Cornell University | 집합론 |
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 | 증명론 |
