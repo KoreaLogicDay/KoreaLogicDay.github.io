@@ -43,6 +43,7 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 | Donghyun Kim | Korea National University of Transportation | Logic and Education |
 | [Dongwoo Kim](https://dongwookim.org) | KAIST | Philosophy of Logic |
 | [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | KIAS | Model Theory |
+| [Junguk Lee](https://sites.google.com/site/leejunguk0323/home)  | Changwon National University | Model Theory |
 | [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) | Department of Philosophy, Jeonbuk National University | Philosophical Logic |
 | [Takao Yuyama](http://t-yuyama.jp/index.html) | Kyoto University | Logic in Computer Science |
 
