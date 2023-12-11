@@ -58,7 +58,7 @@ TBD
 The third Korea Logic Day 2024 will be held online via Zoom. 
 Please leave register here: [https://forms.gle/ikVj9aNEbKs22a7q7](https://forms.gle/ikVj9aNEbKs22a7q7)
 by 10 January 2024.
-The instruction on how to attend the event will be shared on 11 January 2024.
+The instruction on how to attend the event will be shared to the registered email on 11 January 2024.
 
 ## Talk Abstracts
 
