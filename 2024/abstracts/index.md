@@ -3,7 +3,7 @@ name: The third Korea Logic Day 2024
 title: null
 ---
 
-_Change the language to [한국어](https://korealogicday.org/2024/)_
+_Change the language to [한국어](https://korealogicday.org/2024/kr)_
 
 # [The third Korea Logic Day 2024](https://korealogicday.org/2024), 12 January 2024
 
