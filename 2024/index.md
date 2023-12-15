@@ -47,8 +47,6 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 | [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) | Department of Philosophy, Jeonbuk National University | Philosophical Logic |
 | [Takao Yuyama](http://t-yuyama.jp/index.html) | Kyoto University | Logic in Computer Science |
 
-More talks, titles, and abstracts are TBD.
-
 ## Schedule
 
 TBD
