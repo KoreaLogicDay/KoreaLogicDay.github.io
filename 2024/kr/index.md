@@ -46,8 +46,6 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 | 증명론 |
 | [Takao Yuyama](http://t-yuyama.jp/index.html) | 교토대학교 | 전산논리 |
 
-추가 발표와 발표명 및 초록은 추후 공개될 예정입니다.
-
 ## 발표 일정
 
 _공개 예정_
