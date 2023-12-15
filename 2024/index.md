@@ -64,7 +64,8 @@ Registration link: [https://forms.gle/ikVj9aNEbKs22a7q7](https://forms.gle/ikVj9
 
 ## Talk Abstracts
 
-TBD
+The abstracts will be kept updated [here](abstracts)
+until the deadline 26 December 2023.
 
 ## Hosting and Organizing
 
