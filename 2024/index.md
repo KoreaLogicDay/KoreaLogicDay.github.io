@@ -37,6 +37,7 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 
 | Name | Affiliation | Topic |
 |:- | :- | :- |
+| [Kyungmin Bae](http://sevlab.postech.ac.kr/~kmbae/) | POSTECH | Logic in Computer Science |
 | [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi) | University of Seoul |  Proof Theory |
 | [Junyoung Jang](https://ailrun.github.io/) | McGill University | Logic in Computer Science |
 | [Hanul Jeon](https://hanuljeon95.github.io) | Cornell University | Set Theory |
