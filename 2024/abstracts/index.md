@@ -15,6 +15,14 @@ _Change the language to [한국어](https://korealogicday.org/2024/kr)_
 
 _Modal logics and modal types_ have taken important positions both in philosophical logic and computational type systems and changed our understanding of the structure of truth and computation: necessity logic/type ($$\square$$), temporal logic/type ($$\mathtt{next}$$), lax logic/type ($$\bigcirc$$), and so on. One natural question arises from the variety of important modalities: is there a unifying framework explaining many different modalities? Here I present the elegant and powerful framework, _adjoint logic_, which can describe all the previously mentioned modalities. The expressive power of this framework is well-demonstrated with its applications to analysis in the context of computer science: message-passing protocol, garbage collection, strictness, and dead-code elimination, amongst others.
 
+<p id="abstract-Jeon-Hanul"></p>
+
+### Hanul Jeon (Cornell University), "_Separating the Wholeness axioms_"
+ 
+Corazza introduced the Wholeness axiom, which asserts the existence of an elementary embedding $$j: V \to V$$. Unlike the Reinhardt embedding, the Wholeness axiom is consistent with the axiom of choice. Hamkins formulated finer versions $$\mathsf{WA}_n$$ of the Wholeness axioms and proved that  $$\mathsf{WA}_0$$  does not prove $$\mathsf{WA}_1$$, but it is open whether $$\mathsf{WA}_{n+1}$$ proves the consistency of $$\mathsf{WA}_n$$. In this talk, I will briefly sketch the proof for $$\mathsf{Con}(\mathsf{ZFC}+\mathsf{WA}_0)$$ from $$\mathsf{ZFC}+\mathsf{WA}_1$$, which gives a partial answer to Hamkins' question.
+
+
+
 <p id="abstract-Lee-Junguk"></p>
 
 ### Junguk Lee (Changwon National University), "_An introduction to model companion : Infinite sets are NOT trivial!_" 
