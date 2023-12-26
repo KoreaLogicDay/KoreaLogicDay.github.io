@@ -57,7 +57,23 @@ We address fuzzy extensions of implicational tonoid logics. To be more precise, 
 
 <p id="abstract-Yuyama-Takao"></p>
 
-### Takao Yuyama	(Kyoto University)
+### Takao Yuyama	(Kyoto University), "_Word problem for groups and G-automata_"
+
+The word problem for a group H is the set of words, over a fixed
+generating set of H, that represents the identity element in H.
+Muller and Schupp (1983) showed a remarkable theorem, which states that
+a group has context-free word problem if and only if it is a virtually
+free group.
+Context-free languages can also be defined as languages accepted by some
+F-automata where F is a free group of rank > 1.
+Elder, Kambites, and Ostheimer (2008) proved a "commutative analog" of
+Muller-Schupp theorem: the word problem of a group H is accepted by a
+G-automaton for an abelian group G if and only if H is a virtually free
+abelian group.
+However, their proof is somewhat complicated, in the sense that it
+depends on a deep theorem in geometric group theory due to Gromov.
+In this talk, I give a much simpler and direct proof of their theorem,
+which is based on Higman's lemma and B. H. Neumann's lemma.
 
 
 
