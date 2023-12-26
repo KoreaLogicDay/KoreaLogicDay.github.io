@@ -39,7 +39,9 @@ Corazza introduced the Wholeness axiom, which asserts the existence of an elemen
 
 <p id="abstract-Kim-Joonhee"></p>
 
-### Joonhee Kim	(KIAS)
+### Joonhee Kim	(KIAS), "_Pre-independence relations induced by Morley sequences in NSOP1 theories_"
+
+Given an arbitrary pre-independence relation, one can use its Morley sequences to derive a new pre-independence relation. We prove that in NSOP1 theories, if a pre-independence relation is stronger than Kim-independence and satisfies monotonicity, base monotonicity, right extension, and strong finite character, then its induced pre-independence relation satisfies existence. In particular, if a pre-independence relation is induced by non-forking independence relation, then it satisfies existence in NSOP1 theories. We will show via constructing a counterexample that this result is not true in general; thus, our example is not NSOP1. 
 
 <p id="abstract-Lee-Junguk"></p>
 
