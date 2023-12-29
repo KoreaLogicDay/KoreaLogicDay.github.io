@@ -1,9 +1,10 @@
 ---
 name: The third Korea Logic Day 2024
 title: null
+permalink: /2024/abstracts/
 ---
 
-_Change the language to [한국어](https://korealogicday.org/2024/kr)_
+_Change the language to [한국어](2024/kr/abstracts/)_
 
 # [The third Korea Logic Day 2024](https://korealogicday.org/2024), 12 January 2024
 
