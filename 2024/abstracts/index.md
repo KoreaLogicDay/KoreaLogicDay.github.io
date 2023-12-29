@@ -9,6 +9,21 @@ _Change the language to [한국어](https://korealogicday.org/2024/kr)_
 
 # Talk Abstracts
 
+<p id="abstract-Bae-Kyungmin"></p>
+
+### Kyungmin Bae (POSTECH), "_Formal specification and analysis of concurrent systems in rewriting logic_"
+
+Rewriting logic is a simple and flexible computational logic for specifying concurrent systems. 
+Data types are algebraically specified in equational logic, while concurrent dynamic behavior 
+is specified by rewrite rules. The execution of systems defined in rewriting logic is characterized 
+by logical deduction, and can be analyzed using various formal analysis techniques, such as 
+simulation, search, and theorem proving. Rewriting logic has been successfully applied to a wide 
+range of applications, including cryptographic protocols, network protocols, cloud computing 
+systems, real-time and cyber-physical systems, biological systems, and so on. In this talk, I will 
+give an introduction to specification and analysis in rewriting logic, as well as a discussion on 
+its recent advances and applications.
+
+
 <p id="abstract-Choi-Seungrak"></p>
 
 ### Seungrak Choi	(University of Seoul), "_Two Reduction Procedures for Classical Reduction_"
