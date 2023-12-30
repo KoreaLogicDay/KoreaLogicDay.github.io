@@ -46,7 +46,7 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 | [장준영](https://ailrun.github.io/) | McGill University | 전산논리 |
 | [전한울](https://hanuljeon95.github.io) | Cornell University | 집합론 |
 | [최승락](https://philpeople.org/profiles/seungrak-choi) | 서울시립대학교 | 증명론 |
-| [Takao Yuyama](http://t-yuyama.jp/index.html) | 교토대학교 | 전산논리 |
+| [Yuyama, Takao (湯山 孝雄)](http://t-yuyama.jp/index.html) | 교토대학교 | 전산논리 |
 
 ## 발표 일정
 
