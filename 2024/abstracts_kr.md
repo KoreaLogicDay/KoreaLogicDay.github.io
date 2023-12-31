@@ -1,7 +1,10 @@
 ---
 name: The third Korea Logic Day 2024
 title: null
-permalink: /2024/kr/abstracts/
+permalink: /kr/2024/abstracts/
+redirect_from:
+  - /2024/kr/abstracts/
+  - /2024/abstracts/kr/
 ---
 
 _[English](/2024/abstracts/)로 언어 바꾸기_
