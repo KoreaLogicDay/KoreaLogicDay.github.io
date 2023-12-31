@@ -1,6 +1,5 @@
 ---
-permalinks: /en/test/
-permalinks: /en/test1/
+permalink: /kr/:path
 ---
 
 this is test page
