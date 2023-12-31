@@ -2,6 +2,7 @@
 name: 한국 논리학의 날
 title: 한국 논리학의 날
 permalink: /kr/
+lang: kr
 ---
 
 _[English](..)로 언어 바꾸기_
