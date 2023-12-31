@@ -1,7 +1,9 @@
 ---
 name: The third Korea Logic Day 2024
 title: null
-permalink: /2024/kr/
+permalink: /kr/2024/
+redirect_from:
+  - /2024/kr/
 ---
 
 _[English](/2024/)로 언어 바꾸기_
