@@ -1,5 +1,6 @@
 name: Korea Logic Day
 title: Korea Logic Day
+title_kr : 한국 논리학의 날
 markdown: kramdown
 plugins:
   - jekyll-redirect-from
