@@ -52,7 +52,7 @@ _[English](/2022/)로 언어 바꾸기_
 | - | _세션 1, chair 김준희_ | - |
 | 09:30       | 최승락 (서울시립대학교) | [Dialetheism on Arithmetic: Is there any inconsistent primitive recursive relation?](/2022/abstracts/#abstract-Choi-Seungrak). [Slides (pdf)](/2022/slides/Choi-Seungrak.pdf.pdf)  |
 | 10:10       |   - | _Break_       |
-| 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](/2022/bstracts/#abstract-Jeon-Hanul). [Slides (pdf)](/2022/slides/Jeon-Hanul.pdf)   | 
+| 10:20       | 전한울 (Cornell University) | [Constructive Ackermann's interpretation](/2022/abstracts/#abstract-Jeon-Hanul). [Slides (pdf)](/2022/slides/Jeon-Hanul.pdf)   | 
 | 11:00       | 이정욱 (KAIST) | [ACFs are simple as much as infinite sets : An introduction to quantifier elimination](/2022/abstracts/#abstract-Lee-Junguk). [Slides (pdf)](/2022/slides/Lee-Junguk.pdf)   |
 | 11:40       |   - | _Lunch_       |
 | - | _세션 2, chair 김형준_ | - |

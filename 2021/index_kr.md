@@ -61,7 +61,7 @@ _[English](/2021/)로 언어 바꾸기_
 | 9:20-9:30   | _Opening Remark_                 |
 | 9:30-10:20  | 정인교 (고려대학교), [The Meanings of Logical Constants and Identity: A Proof-theoretic and Verificationist Account](/2021/abstracts/#abstract-Chung-Inkyo). [Slides (pdf)](/2021/slides/Talk1_Chung_Inkyo.pdf)              |
 | 10:30-11:00 | 이효윤 (연세대학교,  [Strong types and the Lascar group](/2021/abstracts/#abstract-Lee-Hyoyoon). [Slides (pdf)](/2021/slides/Talk2_Lee_Hyoyoon.pdf)         |
-| 11:05-11:35 | 박세원 (한국과학기술원),  [Intuitionistic Logic, Type Theory, and Computer Science](abstracts/#abstract-Park-Sewon). [Slides (pdf)](/2021/slides/Talk3_Park_Sewon.pdf)         |
+| 11:05-11:35 | 박세원 (한국과학기술원),  [Intuitionistic Logic, Type Theory, and Computer Science](/2021/abstracts/#abstract-Park-Sewon). [Slides (pdf)](/2021/slides/Talk3_Park_Sewon.pdf)         |
 | 11:40-12:10 | 문샛별 (UC Irvine), [Does Path Induction in HoTT need a Justification?](/2021/abstracts/#abstract-Moon-Stella)         |
 | 12:15-13:30 | _Lunch_                          |
 | 13:30-14:20 | Selivanova, Svetlana (한국과학기술원), [Towards Complexity Classification of Partial Differential Equations](/2021/abstracts/#abstract-Selivanova-Svetlana). [Slides (pdf)](/2021/slides/Talk5_Selivanova_Svetlana.pdf)            |
