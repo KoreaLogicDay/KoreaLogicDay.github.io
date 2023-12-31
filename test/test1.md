@@ -1,5 +1,6 @@
 ---
-permalink: /kr/:path
+lang: kr
+permalink: /:lang/:path
 ---
 
 this is test page
