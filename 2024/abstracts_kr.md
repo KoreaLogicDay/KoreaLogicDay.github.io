@@ -10,9 +10,10 @@ lang: kr
 
 _[English](/2024/abstracts/)로 언어 바꾸기_
 
-# [The third Korea Logic Day 2024](https://korealogicday.org/2024), 12 January 2024
+# [제3회 한국 논리학의 날 2024](/kr/2024), 2024년 1월 12일
 
-# Talk Abstracts
+# 발표 초록
+
 
 
 <p id="abstract-Kim-Dongwoo"></p>
