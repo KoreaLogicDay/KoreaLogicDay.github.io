@@ -1,9 +1,10 @@
 ---
-name: The third Korea Logic Day 2024
-title: null
+name: 제3회 한국 논리학의 날 2024
+title: 제3회 한국 논리학의 날 2024
 permalink: /kr/2024/
 redirect_from:
   - /2024/kr/
+lang: kr
 ---
 
 _[English](/2024/)로 언어 바꾸기_
@@ -65,7 +66,7 @@ _공개 예정_
 
 ## 발표 초록
 
-발표 초록은 [링크](/2024/kr/abstracts/)에서 확인하실 수 있습니다.
+발표 초록은 [링크](abstracts)에서 확인하실 수 있습니다.
 
 ## 주최 및 주관
 

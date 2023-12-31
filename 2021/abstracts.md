@@ -1,11 +1,12 @@
 ---
-name: The first Korea Logic Day 2021
-title: null
+name: The first Korea Logic Day 2021 Talk Abstracts
+title: The first Korea Logic Day 2021 Talk Abstracts
+permalink: /2021/abstracts/
 ---
 
-_Change the language to [한국어](https://korealogicday.org/2021/index_kr.html)_
+_Change the language to [한국어](/kr/2021/)_
 
-# [The first Korea Logic Day 2021](https://korealogicday.org/2021), 14 January 2021
+# [The first Korea Logic Day 2021](/2021/), 14 January 2021
 
 # Talk Abstracts
 

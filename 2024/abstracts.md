@@ -1,10 +1,10 @@
 ---
-name: The third Korea Logic Day 2024
-title: null
+name: The third Korea Logic Day 2024 Talk Abstracts
+title: The third Korea Logic Day 2024 Talk Abstracts
 permalink: /2024/abstracts/
 ---
 
-_Change the language to [한국어](/2024/kr/abstracts/)_
+_Change the language to [한국어](/kr/2024/abstracts/)_
 
 # [The third Korea Logic Day 2024](https://korealogicday.org/2024), 12 January 2024
 
@@ -69,7 +69,7 @@ In this talk, I will introduce a notion of model companion from Model Theory, an
 
 ### Eunsuk Yang	(Jeonbuk National University), "_Fuzzy extensions of Implicational tonoid logics_"
 
-We address fuzzy extensions of implicational tonoid logics. To be more precise, we first define the class of implicational tonoid prelinear logics and show that tjose logics are complete with respect to linearly ordered matrices. We next introduce a relational semantics for finitary implicational tonoid prelinear logics and verify that those logics are complete on the semantics. Finally we generalize the term ``semilinear'' to a notion, which can be applied both in a algebraic context and in a set-theoretic context and show that those logics are semilinear in the set-theoretic context.
+We address fuzzy extensions of implicational tonoid logics. To be more precise, we first define the class of implicational tonoid prelinear logics and show that tjose logics are complete with respect to linearly ordered matrices. We next introduce a relational semantics for finitary implicational tonoid prelinear logics and verify that those logics are complete on the semantics. Finally we generalize the term "semilinear" to a notion, which can be applied both in a algebraic context and in a set-theoretic context and show that those logics are semilinear in the set-theoretic context.
 
 <p id="abstract-Yuyama-Takao"></p>
 

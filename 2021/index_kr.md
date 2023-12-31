@@ -1,9 +1,14 @@
 ---
-name: The first Korea Logic Day 2021
-title: null
+name: 제1회 한국 논리학의 날 2021
+title: 제1회 한국 논리학의 날 2021
+lang: kr
+permalink: /kr/2021/
+redirect_from:
+  - /2021/kr/
+  - /2021/index_kr.html
 ---
 
-_[English](index.html)로 언어 바꾸기_
+_[English](/2021/)로 언어 바꾸기_
 
 # 제1회 한국 논리학의 날 2021, 2021년 1월 14일
 
@@ -54,16 +59,16 @@ _[English](index.html)로 언어 바꾸기_
 |             | 발표명                           |
 |:-           |                                - |
 | 9:20-9:30   | _Opening Remark_                 |
-| 9:30-10:20  | 정인교 (고려대학교), [The Meanings of Logical Constants and Identity: A Proof-theoretic and Verificationist Account](abstracts/#abstract-Chung-Inkyo). [Slides (pdf)](slides/Talk1_Chung_Inkyo.pdf)              |
-| 10:30-11:00 | 이효윤 (연세대학교,  [Strong types and the Lascar group](abstracts/#abstract-Lee-Hyoyoon). [Slides (pdf)](slides/Talk2_Lee_Hyoyoon.pdf)         |
-| 11:05-11:35 | 박세원 (한국과학기술원),  [Intuitionistic Logic, Type Theory, and Computer Science](abstracts/#abstract-Park-Sewon). [Slides (pdf)](slides/Talk3_Park_Sewon.pdf)         |
-| 11:40-12:10 | 문샛별 (UC Irvine), [Does Path Induction in HoTT need a Justification?](abstracts/#abstract-Moon-Stella)         |
+| 9:30-10:20  | 정인교 (고려대학교), [The Meanings of Logical Constants and Identity: A Proof-theoretic and Verificationist Account](/2021/abstracts/#abstract-Chung-Inkyo). [Slides (pdf)](/2021/slides/Talk1_Chung_Inkyo.pdf)              |
+| 10:30-11:00 | 이효윤 (연세대학교,  [Strong types and the Lascar group](/2021/abstracts/#abstract-Lee-Hyoyoon). [Slides (pdf)](/2021/slides/Talk2_Lee_Hyoyoon.pdf)         |
+| 11:05-11:35 | 박세원 (한국과학기술원),  [Intuitionistic Logic, Type Theory, and Computer Science](abstracts/#abstract-Park-Sewon). [Slides (pdf)](/2021/slides/Talk3_Park_Sewon.pdf)         |
+| 11:40-12:10 | 문샛별 (UC Irvine), [Does Path Induction in HoTT need a Justification?](/2021/abstracts/#abstract-Moon-Stella)         |
 | 12:15-13:30 | _Lunch_                          |
-| 13:30-14:20 | Selivanova, Svetlana (한국과학기술원), [Towards Complexity Classification of Partial Differential Equations](abstracts/#abstract-Selivanova-Svetlana). [Slides (pdf)](slides/Talk5_Selivanova_Svetlana.pdf)            |
-| 14:30-15:00 | 최승락 (고려대학교), [The Counterexample to the Proof-Theoretic Conjecture for Self-Referential Paradoxes](abstracts/#abstract-Choi-Seungrak). [Slides (pdf)](slides/Talk6_Choi_Seungrak.pdf)         |
-| 15:05-15:35 | 신승우 (NCSOFT NLP Center), [Adopting Description Logics to NLP: Towards the Formal Semantics of the Natural Language](abstracts/#abstract-Schin-Seung-Woo). [Slides (pdf)](slides/Talk7_Schin_Seung_Woo.pdf)         |
-| 15:40-16:10 | 김준희 (연세대학교), [One-variable theorem for antichain tree property](abstracts/#abstract-Kim-Joonhee). [Slides (pdf)](slides/Talk8_Kim_Joonhee.pdf)         |
-| 16:15-17:05 | 김병한 (연세대학교), [An introduction to model theory](abstracts/#abstract-Kim-Byunghan). [Slides (pdf)](slides/Talk9_Kim_Byunghan.pdf)             |
+| 13:30-14:20 | Selivanova, Svetlana (한국과학기술원), [Towards Complexity Classification of Partial Differential Equations](/2021/abstracts/#abstract-Selivanova-Svetlana). [Slides (pdf)](/2021/slides/Talk5_Selivanova_Svetlana.pdf)            |
+| 14:30-15:00 | 최승락 (고려대학교), [The Counterexample to the Proof-Theoretic Conjecture for Self-Referential Paradoxes](/2021/bstracts/#abstract-Choi-Seungrak). [Slides (pdf)](/2021/slides/Talk6_Choi_Seungrak.pdf)         |
+| 15:05-15:35 | 신승우 (NCSOFT NLP Center), [Adopting Description Logics to NLP: Towards the Formal Semantics of the Natural Language](/2021/abstracts/#abstract-Schin-Seung-Woo). [Slides (pdf)](/2021/slides/Talk7_Schin_Seung_Woo.pdf)         |
+| 15:40-16:10 | 김준희 (연세대학교), [One-variable theorem for antichain tree property](/2021/abstracts/#abstract-Kim-Joonhee). [Slides (pdf)](/2021/slides/Talk8_Kim_Joonhee.pdf)         |
+| 16:15-17:05 | 김병한 (연세대학교), [An introduction to model theory](/2021/abstracts/#abstract-Kim-Byunghan). [Slides (pdf)](/2021/slides/Talk9_Kim_Byunghan.pdf)             |
 | 17:05       | _Discussion and Closing Remark_  | 
 
 
@@ -72,7 +77,7 @@ _[English](index.html)로 언어 바꾸기_
 원활한 진행을 위해 Zoom 발표장 주소는 _ljwhayo [at] kaist.ac.kr_ ([이정욱](mailto:ljwhayo@kaist.ac.kr))으로 연락을 주실 시 메일로 보내드립니다.
 
 ## 발표 초록
-발표 초록은 [https://korealogicday.org/2021/abstracts](https://korealogicday.org/2021/abstracts) 에서 확인할 수 있습니다.
+발표 초록은 [https://korealogicday.org/2021/abstracts](/2021/abstracts/) 에서 확인할 수 있습니다.
 
 
 ## 조직 및 운영

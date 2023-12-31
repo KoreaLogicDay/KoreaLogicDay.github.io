@@ -1,11 +1,12 @@
 ---
-name: The first Korea Logic Day 2022
-title: null
+name: The second Korea Logic Day 2022 Talk Abstracts
+title: The second Korea Logic Day 2022 Talk Abstracts
+permalink: /2022/abstracts/
 ---
 
-_Change the language to [한국어](https://korealogicday.org/2022/index_kr.html)_
+_Change the language to [한국어](/kr/2022/)_
 
-# [The second Korea Logic Day 2022](https://korealogicday.org/2022), 14 January 2022
+# [The second Korea Logic Day 2022](/2022/), 14 January 2022
 
 # Talk Abstracts
 

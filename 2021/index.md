@@ -1,9 +1,10 @@
 ---
 name: The first Korea Logic Day 2021
-title: null
+title: The first Korea Logic Day 2021
+permalink: /2021/
 ---
 
-_Change the language to [한국어](index_kr.html)_
+_Change the language to [한국어](/kr/2021/)_
 # The first Korea Logic Day 2021, 14 January 2021
 
 <p>
