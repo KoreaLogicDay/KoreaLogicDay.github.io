@@ -6,7 +6,7 @@ permalink: /kr/
 
 _[English](..)로 언어 바꾸기_
 
-___
+#
 
 한국 논리학의 날은 UNESCO에서 제정한 [세계 논리학의 날](https://en.unesco.org/commemorations/worldlogicday)을 축하하기 위해 매년 1월 14일 근처에 개최되는 행사입니다. 
 지난 행사들과 다가오는 행사는 아래에서 확인할 수 있습니다.
