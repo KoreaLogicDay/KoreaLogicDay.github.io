@@ -1,5 +1,5 @@
 ---
-lang: kr
+lang: en
 permalink: /:lang/:path
 ---
 
