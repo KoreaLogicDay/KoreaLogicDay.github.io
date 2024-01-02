@@ -55,12 +55,12 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 
 각 발표는 30분이며, 발표 후 10분의 질의응답 및 휴식시간이 있습니다.
 
-|             | Speaker | Talk                            |                    
+|             | 발표자 | 발표 제목                            |                    
 |:-           |:-       |:-                               |
 | 09:00       | -        | _개회_                |
 | 09:10-09:40 | 장준영 (McGill University) | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
 | 09:50-10:20 | 전한울 (Cornell University) | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
-| 10:30-11:00 | Yuyama, Takao (湯山 孝雄) (교토대학교) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
+| 10:30-11:00 | Yuyama, Takao (교토대학교) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | 배경민 (포스텍) | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _점심_  |
 | 13:10-13:40 | 김동우 (한국과학기술원) | TBA | 
