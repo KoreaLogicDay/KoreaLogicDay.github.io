@@ -40,7 +40,7 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 
 | 이름 | 소속기관 | 발표 주제 |
 |:- | - | :- |
-| [김동우](https://dongwookim.org) | 한국과학기술원 | 논리의 철학 |
+| [김동우](https://dongwookim.org) | 한국과학기술원 | 논리철학 |
 | 김동현 | 한국교통대학교 | 논리와 교육 |
 | [김준희](https://sites.google.com/yonsei.ac.kr/kimjoonhee)  | 고등과학원 | 모델론 |
 | [배경민](http://sevlab.postech.ac.kr/~kmbae/) | 포스텍 | 전산논리 |
