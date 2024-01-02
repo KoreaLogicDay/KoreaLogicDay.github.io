@@ -53,7 +53,25 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 
 ## 발표 일정
 
-_공개 예정_
+각 발표는 30분이며, 발표 후 10분의 질의응답 및 휴식시간이 있습니다.
+
+|             | Speaker | Talk                            |                    
+|:-           |:-       |:-                               |
+| 09:00       | -        | _개회_                |
+| 09:10 - 09:40 | 장준영 (McGill University) | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
+| 09:50 - 10:20 | 전한울 (Cornell University) | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
+| 10:30 - 11:00 | Yuyama, Takao (湯山 孝雄) (교토대학교) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
+| 11:10 - 11:40 | 배경민 (포스텍) | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
+| 11:40 - 13:10 | - | _점심_  |
+| 13:10 - 13:40 | 김동우 (한국과학기술원) | TBA | 
+| 13:50 - 14:20 | 최승락 (서울시립대학교) | [Two Reduction Procedures for Classical Reduction](abstracts/#abstract-Choi-Seungrak) |
+| 14:20 - 14:40 | - | _휴식시간_ |
+| 14:40 - 15:10 | 이정욱 (창원대학교) | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
+| 15:20 - 15:50 | 김준희 (고등과학원) | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
+| 16:00 - 16:30 | 양은석 (전북대학교) | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
+| 16:40 - 17:10 | 김동현 (한국교통대학교) | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) |
+| 17:10 | - | _ 폐회_ | 
+
 
 ## 등록 및 참가
 제3회 한국 논리학의 날 행사는 온라인으로 진행됩니다. 
