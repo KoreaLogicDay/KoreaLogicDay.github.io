@@ -56,18 +56,18 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
 | 09:00       | -        | _Opening remark_                |
-| 09:10 - 09:40 | Junyoung Jang (McGill University) | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
-| 09:50 - 10:20 | Hanul Jeon (Cornell University) | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
-| 10:30 - 11:00 | Takao Yuyama (Kyoto University) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
-| 11:10 - 11:40 | Kyungmin Bae (POSTECH) | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
-| 11:40 - 13:10 | - | _Lunch break_  |
-| 13:10 - 13:40 | Dongwoo Kim (KAIST) | TBA | 
-| 13:50 - 14:20 | Seungrak Choi (University of Seoul) | [Two Reduction Procedures for Classical Reduction](abstracts/#abstract-Choi-Seungrak) |
-| 14:20 - 14:40 | - | _Coffee break_ |
-| 14:40 - 15:10 | Junguk Lee (Changwon National University) | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
-| 15:20 - 15:50 | Joonhee Kim (KIAS) | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
-| 16:00 - 16:30 | Eunsuk Yang (Jeonbuk National University) | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
-| 16:40 - 17:10 | Donghyun Kim (Korea National University of Transportation) | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) |
+| 09:10-09:40 | Junyoung Jang (McGill University) | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
+| 09:50-10:20 | Hanul Jeon (Cornell University) | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
+| 10:30-11:00 | Takao Yuyama (Kyoto University) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
+| 11:10-11:40 | Kyungmin Bae (POSTECH) | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
+| 11:40-13:10 | - | _Lunch break_  |
+| 13:10-13:40 | Dongwoo Kim (KAIST) | TBA | 
+| 13:50-14:20 | Seungrak Choi (University of Seoul) | [Two Reduction Procedures for Classical Reduction](abstracts/#abstract-Choi-Seungrak) |
+| 14:20-14:40 | - | _Coffee break_ |
+| 14:40-15:10 | Junguk Lee (Changwon National University) | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
+| 15:20-15:50 | Joonhee Kim (KIAS) | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
+| 16:00-16:30 | Eunsuk Yang (Jeonbuk National University) | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
+| 16:40-17:10 | Donghyun Kim (Korea National University of Transportation) | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) |
 | 17:10 | - | _Closing remark_ | 
 
 
