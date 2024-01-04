@@ -78,9 +78,18 @@ Corazza introduced the Wholeness axiom, which asserts the existence of an elemen
 
 <p id="abstract-Choi-Seungrak"></p>
 
-### 최승락 (서울시립대학교), "_Two Reduction Procedures for Classical Reduction_"
+### 최승락 (서울시립대학교), "_Which Reduction Procedures for Classical Reductio are Acceptable?_"
 
-The present talk represents the exploration of the dissimilar outcomes from Prawitz’s reduction procedure for classical reductio vis-á-vis Stålmarck-Andou’s for it. While Prawitz (1965, 1971)’s contributions, encompassing the normalization theorem, subformula property, and consistency for standard weak classical logic, are well-regarded, the normalization proof by Stålmarck(1991) and Andou(1995) for the standard full classical logic has not been widely investigated.
+The present talk represents the exploration of the dissimilar outcomes from Prawitz’s reduction procedure for classical reductio vis-á-vis Stålmarck-Andou’s for it. Furthermore, recent discussions on the criteria for acceptable reductions in proof theory have yet to resolve the question of which reduction procedures for classical reductio are deemed acceptable.
+
+
+
+While Prawitz (1965, 1971)’s contributions, encompassing the normalization theorem, subformula property, and consistency for standard weak classical logic, are well-regarded, the normalization proof by Stålmarck(1991) and Andou(1995) for the standard full classical logic has not been widely investigated.
+
+ 
+
+Subsequently to demonstrating the subformula property and consistency of the full classical logic, a comparative investigation of Prawitz’s and Stålmarck-Andou’s reduction procedures for classical reductio ensues. The assertion is made that Stålmarck-Andou’s reduction holds a more solid foundation than Prawitz’s, grounded in the history of natural deduction developed by Prawitz(1965, 1971, 2015), where the reduction process aims to eliminate the maximum formula occurrence, and a novel reduction process was devised to achieve normalization and the subformula property.
+
 
 
 <p id="abstract-Yuyama-Takao"></p>
