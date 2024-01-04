@@ -62,7 +62,7 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 | 11:10-11:40 | Kyungmin Bae (POSTECH) | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _Lunch break_  |
 | 13:10-13:40 | Dongwoo Kim (KAIST) | TBA | 
-| 13:50-14:20 | Seungrak Choi (University of Seoul) | [Two Reduction Procedures for Classical Reduction](abstracts/#abstract-Choi-Seungrak) |
+| 13:50-14:20 | Seungrak Choi (University of Seoul) | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) |
 | 14:20-14:40 | - | _Coffee break_ |
 | 14:40-15:10 | Junguk Lee (Changwon National University) | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
 | 15:20-15:50 | Joonhee Kim (KIAS) | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
