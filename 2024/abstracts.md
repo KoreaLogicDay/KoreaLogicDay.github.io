@@ -27,7 +27,7 @@ its recent advances and applications.
 
 <p id="abstract-Choi-Seungrak"></p>
 
-### Seungrak Choi	(University of Seoul), "_Two Reduction Procedures for Classical Reduction_"
+### Seungrak Choi	(University of Seoul), "_Which Reduction Procedures for Classical Reductio are Acceptable?_"
 
 The present talk represents the exploration of the dissimilar outcomes from Prawitz’s reduction procedure for classical reductio vis-á-vis Stålmarck-Andou’s for it. Furthermore, recent discussions on the criteria for acceptable reductions in proof theory have yet to resolve the question of which reduction procedures for classical reductio are deemed acceptable.
 
