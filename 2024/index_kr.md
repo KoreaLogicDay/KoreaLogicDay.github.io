@@ -63,7 +63,7 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 | 10:30-11:00 | 유야마 타카오  (湯山 孝雄) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | 배경민 | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _점심_  |
-| 13:10-13:40 | 김동우 | On exact truthmaking for modalized statements | 
+| 13:10-13:40 | 김동우 | [On exact truthmaking for modalized statements](abstracts/#abstract-Kim-Dongwoo) | 
 | 13:50-14:20 | 최승락 | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) |
 | 14:20-14:40 | - | _휴식시간_ |
 | 14:40-15:10 | 이정욱 | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
