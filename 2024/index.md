@@ -61,7 +61,7 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 | 10:30-11:00 | Takao Yuyama | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | Kyungmin Bae | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _Lunch break_  |
-| 13:10-13:40 | Dongwoo Kim | On exact truthmaking for modalized statements | 
+| 13:10-13:40 | Dongwoo Kim | [On exact truthmaking for modalized statements](abstracts/#abstract-Kim-Dongwoo)  | 
 | 13:50-14:20 | Seungrak Choi | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) |
 | 14:20-14:40 | - | _Coffee break_ |
 | 14:40-15:10 | Junguk Lee | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
@@ -69,7 +69,6 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 | 16:00-16:30 | Eunsuk Yang | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
 | 16:40-17:10 | Donghyun Kim | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) |
 | 17:10 | - | _Closing remark_ | 
-
 
 ## How to Register and Participate
 
