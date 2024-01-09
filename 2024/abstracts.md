@@ -60,7 +60,9 @@ Corazza introduced the Wholeness axiom, which asserts the existence of an elemen
 
 <p id="abstract-Kim-Dongwoo"></p>
 
-### Dongwoo Kim	(KAIST)
+### Dongwoo Kim	(KAIST), "_On exact truthmaking for modalized statements_"
+
+The present paper attempts to provide an exact truthmaker semantical analysis of modalized propositions. According to the present proposal, an exact truthmaker for “Necessarily P” is a state that bans every exact truthmaker for “Not P”, and an exact truthmaker for “Possibly P” is a state that allows an exact truthmaker for P. Along the way, we shall also discuss some of the philosophical and technical issues in providing a formal analysis of exact truthmaking for modalized statements.
 
 <p id="abstract-Kim-Joonhee"></p>
 
