@@ -55,7 +55,7 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| 09:00       | -        | _Opening remark_: Sunwoo Hwan (Yonsei University), Martin Ziegler (KAIST) |
+| 09:00       | -        | _Opening remark_: Hwan Sunwoo (Yonsei University), Martin Ziegler (KAIST) |
 | - | - | Session 1, chair: Hyoyoon Lee (Yonsei University) |
 | 09:10-09:40 | Junyoung Jang | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
 | 09:50-10:20 | Hanul Jeon | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
