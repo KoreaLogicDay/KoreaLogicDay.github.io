@@ -58,21 +58,21 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 |             | 발표자 | 발표 제목                            |                    
 |:-           |:-       |:-                               |
 | 09:00       | -        | _개회_: 선우환 (연세대학교), 지글러 마틴 (한국과학기술원)                |
-| - | - | 세션 1, chair: 이효윤 (연세대학교) |
+| - | - | _세션 1, chair:_ 이효윤 (연세대학교) |
 | 09:10-09:40 | 장준영 | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
 | 09:50-10:20 | 전한울 | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
-| - | - | 세션 2, chair: 지글러 마틴 (한국과학기술원) |
+| - | - | _세션 2, chair:_ 지글러 마틴 (한국과학기술원) |
 | 10:30-11:00 | 유야마 타카오  (湯山 孝雄) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | 배경민 | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _점심_  |
-| - | - | 세션 3, chair: 박세원 (교토대학교) |
+| - | - | _세션 3, chair:_ 박세원 (교토대학교) |
 | 13:10-13:40 | 김동우 | [On exact truthmaking for modalized statements](abstracts/#abstract-Kim-Dongwoo) | 
 | 13:50-14:20 | 최승락 | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) |
 | 14:20-14:40 | - | _휴식시간_ |
-| - | - | 세션 4, chair: 김형준 (울산과학기술원) |
+| - | - | _세션 4, chair:_ 김형준 (울산과학기술원) |
 | 14:40-15:10 | 이정욱 | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
 | 15:20-15:50 | 김준희 | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
-| - | - | 세션 5, chair: 최승락 (서울시립대학교) |
+| - | - | _세션 5, chair:_ 최승락 (서울시립대학교) |
 | 16:00-16:30 | 양은석 | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
 | 16:40-17:10 | 김동현 | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) |
 | 17:10 | - | _폐회_: 김병한 (연세대학교) | 
@@ -95,7 +95,10 @@ ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
 
 _1월 9일 업데이트_
 
-[김병한](https://sites.google.com/yonsei.ac.kr/byunghankimshomepage/english) (연세대학교), [김상현](kimsh.kr) (고등과학원), 김연홍 (전북대학교대학원), [김준희](https://sites.google.com/view/kimjoonheemath) (고등과학원), 김현준 (고려대학교), 김형준 (울산과학기술원), 김호일 (경북대학교), 남동현 (인하대학교), [도브로볼스키얀](http://www.math.uni.wroc.pl/~dobrowol/) (맨체스터 대학교), 문순원 (인하대학교), [박기효](https://kihyo-park.github.io/) (Cornell University), [박세원](https://sewonpark.com) (교토대학교), 배경민 (POSTECH), 배선복 (숭실대 가치와 문화 연구소), 백지선 (연세대학교), 선우환 (연세대학교), 소한종 (고려대학교), 손승윤 (연세대학교), 안희진 (한국과학기술원), 양은석 (전북대학교), 오서율 (충북대학교), 원치욱 (광주과학기술원), 이승현 (경희대학교), 이일권 (전북대학교), 이재훈, 이정욱 (창원대학교), 이종현 (고려대학교), 이청명, 이현우 (서울대학교), [이효윤](https://sites.google.com/view/hyoyoonlee) (연세대학교), 임기정 (전남대학교), 전영삼, [전한울](hanuljeon95.github.io) (Cornell University), [정소영](https://github.com/netgamesekai), 정인교 (고려대학교), 최정담 (한국과학기술원), [Łukasz T. Stępień](https://ltstepien.up.krakow.pl/) (University of the National Education Commission, Krakow, Poland), Martin Ziegler (한국과학기술원), [Sara Uckelman](https://sluckelman.webspace.durham.ac.uk/) (Durham University), 외 9인.
+김대희, [김병한](https://sites.google.com/yonsei.ac.kr/byunghankimshomepage/english) (연세대학교), [김상현](kimsh.kr) (고등과학원), 김연홍 (전북대학교대학원), [김준희](https://sites.google.com/view/kimjoonheemath) (고등과학원), 김현준 (고려대학교), 김형준 (울산과학기술원), 김호일 (경북대학교), 남동현 (인하대학교), [도브로볼스키얀](http://www.math.uni.wroc.pl/~dobrowol/) (맨체스터 대학교), 문순원 (인하대학교), [박기효](https://kihyo-park.github.io/) (Cornell University), [박세원](https://sewonpark.com) (교토대학교), 배경민 (POSTECH), 배선복 (숭실대 가치와 문화 연구소), 백지선 (연세대학교), 선우환 (연세대학교), 소한종 (고려대학교), 손승윤 (연세대학교), 안희진 (한국과학기술원), 양은석 (전북대학교), 오서율 (충북대학교), 원치욱 (광주과학기술원), 이승현 (경희대학교), 이일권 (전북대학교), 이재훈, 이정욱 (창원대학교), 이종현 (고려대학교), 이청명, 이현우 (서울대학교), [이효윤](https://sites.google.com/view/hyoyoonlee) (연세대학교), 임경택 (전북대학교),
+임기정 (전남대학교), 전영삼, [전한울](hanuljeon95.github.io) (Cornell University), [정소영](https://github.com/netgamesekai), 정인교 (고려대학교), 최정담 (한국과학기술원), [Niolay V. Shilov](http://persons.iis.nsk.su/en/person/shilov) (Innopolis University), [Łukasz T. Stępień](https://ltstepien.up.krakow.pl/) (University of the National Education Commission, Krakow, Poland), Martin Ziegler (한국과학기술원), [Sara Uckelman](https://sluckelman.webspace.durham.ac.uk/) (Durham University), 외 11인.
+
+
 
 ## 주최 및 주관
 
