@@ -33,6 +33,8 @@ ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
 - Sharing the Zoom link: 11 January 2024
 - the 3rd Korea Logic Day: 12 January 2024
 
+___The event Zoom link has been sent. Please contact the organizers if you have not received it___
+
 
 ## Speakers
 
