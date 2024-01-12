@@ -32,7 +32,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 폐회 후 촬영한 단체 사진입니다.
 
 <p>
-<img src="https://korealogicday.org/assets/kld2024-group-picture.png" alt="2024 Korea Logic Day group picture" width="100%">
+<img src="https://korealogicday.org/assets/kld2024-group-pic.png" alt="2024 Korea Logic Day group picture" width="100%">
 </p>
 
 
