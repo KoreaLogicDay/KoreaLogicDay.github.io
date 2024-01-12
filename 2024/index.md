@@ -29,7 +29,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 A group picture of some participants taken after the closing remark:
 
 <p>
-<img src="https://korealogicday.org/assets/kld2024-group-pic.png" alt="2024 Korea Logic Day group picture" width="100%">
+<img src="https://korealogicday.org/assets/kld2024-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
 </p>
 
 ## Important dates
