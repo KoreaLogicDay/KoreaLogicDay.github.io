@@ -95,10 +95,12 @@ ___행사 Zoom 링크를 발송했습니다. 받지 못하신 경우 조직위�
 
 ## 참석자
 
-_1월 11일 업데이트_
+_1월 12일 업데이트_
 
-김대희, [김병한](https://sites.google.com/yonsei.ac.kr/byunghankimshomepage/english) (연세대학교), [김상현](kimsh.kr) (고등과학원), 김연홍 (전북대학교대학원), [김준희](https://sites.google.com/view/kimjoonheemath) (고등과학원), 김현준 (고려대학교), 김형준 (울산과학기술원), 김호일 (경북대학교), 남동현 (인하대학교), [도브로볼스키얀](http://www.math.uni.wroc.pl/~dobrowol/) (맨체스터 대학교), 문순원 (인하대학교), [박기효](https://kihyo-park.github.io/) (Cornell University), [박세원](https://sewonpark.com) (교토대학교), 배경민 (POSTECH), 배선복 (숭실대 가치와 문화 연구소), 백지선 (연세대학교), 선우환 (연세대학교), 소한종 (고려대학교), 손승윤 (연세대학교), 안희진 (한국과학기술원), 양은석 (전북대학교), 오서율 (충북대학교), 원치욱 (광주과학기술원), 이승현 (경희대학교), 이일권 (전북대학교), 이재훈, 이정욱 (창원대학교), 이종현 (고려대학교), 이청명, 이현우 (서울대학교), [이효윤](https://sites.google.com/view/hyoyoonlee) (연세대학교), 임경택 (전북대학교),
-임기정 (전남대학교), 전영삼, [전한울](hanuljeon95.github.io) (Cornell University), [정소영](https://github.com/netgamesekai), 정인교 (고려대학교), 최정담 (한국과학기술원), [Niolay V. Shilov](http://persons.iis.nsk.su/en/person/shilov) (Innopolis University), [Łukasz T. Stępień](https://ltstepien.up.krakow.pl/) (University of the National Education Commission, Krakow, Poland), Martin Ziegler (한국과학기술원), [Sara Uckelman](https://sluckelman.webspace.durham.ac.uk/) (Durham University), 외 11인.
+_김대희, [김병한](https://sites.google.com/yonsei.ac.kr/byunghankimshomepage/english) (연세대학교), [김상현](kimsh.kr) (고등과학원), 김연홍 (전북대학교대학원), [김준희](https://sites.google.com/view/kimjoonheemath) (고등과학원), 김현준 (고려대학교), 김형준 (울산과학기술원), 김호일 (경북대학교), 남동현 (인하대학교), [도브로볼스키얀](http://www.math.uni.wroc.pl/~dobrowol/) (맨체스터 대학교), 문순원 (인하대학교), [박기효](https://kihyo-park.github.io/) (Cornell University), [박세원](https://sewonpark.com) (교토대학교), 배경민 (POSTECH), 배선복 (숭실대 가치와 문화 연구소), 백지선 (연세대학교), 선우환 (연세대학교), 소한종 (고려대학교), 손승윤 (연세대학교), 안희진 (한국과학기술원), 양은석 (전북대학교), 오서율 (충북대학교), 원치욱 (광주과학기술원), 이승현 (경희대학교), 이일권 (전북대학교), 이재훈, 이정욱 (창원대학교), 이종현 (고려대학교), 이진희 (아주대학교), 이청명, 이현우 (서울대학교), [이효윤](https://sites.google.com/view/hyoyoonlee) (연세대학교), 임경택 (전북대학교),
+임기정 (전남대학교), 전영삼, [전한울](hanuljeon95.github.io) (Cornell University), [정소영](https://github.com/netgamesekai), 정인교 (고려대학교), 최정담 (한국과학기술원), 한성일 (서울대학교), [Niolay V. Shilov](http://persons.iis.nsk.su/en/person/shilov) (Innopolis University), [Łukasz T. Stępień](https://ltstepien.up.krakow.pl/) (University of the National Education Commission, Krakow, Poland), Martin Ziegler (한국과학기술원), [Sara Uckelman](https://sluckelman.webspace.durham.ac.uk/) (Durham University), 외 11인._
+
+
 
 
 
