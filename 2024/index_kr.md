@@ -27,6 +27,15 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 지난 행사들은 [한국 논리학의 날 홈페이지](/kr/)에서 찾아보실 수 있습니다.
 
 
+## 단체사진
+
+폐회 후 촬영한 단체 사진입니다.
+
+<p>
+<img src="https://korealogicday.org/assets/kld2024-group-picture.png" alt="2024 Korea Logic Day group picture" width="100%">
+</p>
+
+
 ## 중요일정
 
 ___(주의) 제3회 한국 논리학의 날 행사는 12일입니다.___
