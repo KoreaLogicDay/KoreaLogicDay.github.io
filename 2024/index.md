@@ -24,14 +24,6 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 The previous events are available on [the Korea Logic Day website](https://korealogicday.org).
 
-## Group picture
-
-_A group picture of some participants taken after the closing remark:_
-
-<p>
-<img src="https://korealogicday.org/assets/kld2024-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
-</p>
-
 ## Important dates
 
 ___Pleaes note that The third Korea Logic Day 2024 this year is on 12th.___
@@ -95,6 +87,16 @@ Please register by 10 January 2024 and the instruction on how to attend the even
 ## Talk Abstracts
 
 The abstracts can be found [here](abstracts).
+
+
+## Group picture
+
+_A group picture of some participants taken after the closing remark:_
+
+<p>
+<img src="https://korealogicday.org/assets/kld2024-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
+</p>
+
 
 ## Participants
 
