@@ -60,14 +60,14 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 | 09:00       | -        | _Opening remark_: Hwan Sunwoo (Yonsei University), Martin Ziegler (KAIST) |
 | - | - | _Session 1, chair:_ Hyoyoon Lee (Yonsei University) |
 | 09:10-09:40 | Junyoung Jang | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
-| 09:50-10:20 | Hanul Jeon | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) |
+| 09:50-10:20 | Hanul Jeon | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) ([Slides](/2024/slides/kld2024-talk-2-Jeon-Hanul.pdf))|
 | - | - | _Session 2, chair:_ Martin Ziegler (KAIST) |
 | 10:30-11:00 | Takao Yuyama | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | Kyungmin Bae | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) |
 | 11:40-13:10 | - | _Lunch break_  |
 | - | - | _Session 3, chair:_ Sewon Park (Kyoto University) |
 | 13:10-13:40 | Dongwoo Kim | [On exact truthmaking for modalized statements](abstracts/#abstract-Kim-Dongwoo)  | 
-| 13:50-14:20 | Seungrak Choi | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) |
+| 13:50-14:20 | Seungrak Choi | [Which Reduction Procedures for Classical Reductio are Acceptable?](abstracts/#abstract-Choi-Seungrak) ([Slides](/2024/slides/kld2024-talk-6-Choi-Seungrak.pdf)) |
 | 14:20-14:40 | - | _Coffee break_ |
 | - | - | _Session 4, chair:_ Hyeungjoon Kim (UNIST) |
 | 14:40-15:10 | Junguk Lee | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) |
