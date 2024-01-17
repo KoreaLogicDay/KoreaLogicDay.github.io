@@ -74,7 +74,7 @@ ___행사 Zoom 링크를 발송했습니다. 받지 못하신 경우 조직위�
 | 14:20-14:40 | - | _휴식시간_ |
 | - | - | _세션 4, chair:_ 김형준 (울산과학기술원) |
 | 14:40-15:10 | 이정욱 | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) ([Slides](/2024/slides/kld2024-talk-7-Lee-Junguk.pdf)) |
-| 15:20-15:50 | 김준희 | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
+| 15:20-15:50 | 김준희 | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) ([Slides](/2024/slides/kld2024-talk-8-Kim-Joonhee.pdf)) |
 | - | - | _세션 5, chair:_ 최승락 (서울시립대학교) |
 | 16:00-16:30 | 양은석 | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
 | 16:40-17:10 | 김동현 | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) ([Slides](/2024/slides/kld2024-talk-10-Kim-Donghyun.pdf)) |

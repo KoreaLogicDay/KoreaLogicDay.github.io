@@ -71,7 +71,7 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 | 14:20-14:40 | - | _Coffee break_ |
 | - | - | _Session 4, chair:_ Hyeungjoon Kim (UNIST) |
 | 14:40-15:10 | Junguk Lee | [An introduction to model companion : Infinite sets are NOT trivial!](abstracts/#abstract-Lee-Junguk) ([Slides](/2024/slides/kld2024-talk-7-Lee-Junguk.pdf)) |
-| 15:20-15:50 | Joonhee Kim | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) |
+| 15:20-15:50 | Joonhee Kim | [Pre-independence relations induced by Morley sequences in NSOP1 theories](abstracts/#abstract-Kim-Joonhee) ([Slides](/2024/slides/kld2024-talk-8-Kim-Joonhee.pdf)) |
 | - | - | _Session 5, chair:_ Seungrak Choi (University of Seoul) |
 | 16:00-16:30 | Eunsuk Yang | [Fuzzy extensions of Implicational tonoid logics](abstracts/#abstract-Yang-Eunsuk) |
 | 16:40-17:10 | Donghyun Kim | [고등학교 및 대학 교양 논리학 교육 개편 방향](abstracts/#abstract-Kim-Donghyun) ([Slides](/2024/slides/kld2024-talk-10-Kim-Donghyun.pdf)) |
