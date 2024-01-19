@@ -59,8 +59,8 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 |:-           |:-       |:-                               |
 | 09:00       | -        | _Opening remark_: Hwan Sunwoo (Yonsei University), Martin Ziegler (KAIST) |
 | - | - | _Session 1, chair:_ Hyoyoon Lee (Yonsei University) |
-| 09:10-09:40 | Junyoung Jang | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
-| 09:50-10:20 | Hanul Jeon | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) ([Slides](/2024/slides/kld2024-talk-2-Jeon-Hanul.pdf))|
+| 09:10-09:40 | Junyoung Jang | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung)  ([Slides](/2024/slides/kld2024-talk-1-Jang-Junyoung.pdf)) |
+| 09:50-10:20 | Hanul Jeon | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul) ([Slides](/2024/slides/kld2024-talk-2-Jeon-Hanul.pdf)) |
 | - | - | _Session 2, chair:_ Martin Ziegler (KAIST) |
 | 10:30-11:00 | Takao Yuyama | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
 | 11:10-11:40 | Kyungmin Bae | [Formal specification and analysis of concurrent systems in rewriting logic](abstracts/#abstract-Bae-Kyungmin) ([Slides](/2024/slides/kld2024-talk-4-Bae-Kyungmin.pdf)) |

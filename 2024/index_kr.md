@@ -62,7 +62,7 @@ ___행사 Zoom 링크를 발송했습니다. 받지 못하신 경우 조직위�
 |:-           |:-       |:-                               |
 | 09:00       | -        | _개회_: 선우환 (연세대학교), 지글러 마틴 (한국과학기술원)                |
 | - | - | _세션 1, chair:_ 이효윤 (연세대학교) |
-| 09:10-09:40 | 장준영 | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung) |
+| 09:10-09:40 | 장준영 | [Adjoint Logic: Multiple Modalities into a Computational Framework](abstracts/#abstract-Jang-Junyoung)  ([Slides](/2024/slides/kld2024-talk-1-Jang-Junyoung.pdf))  |
 | 09:50-10:20 | 전한울 | [Separating the Wholeness axioms](abstracts/#abstract-Jeon-Hanul)  ([Slides](/2024/slides/kld2024-talk-2-Jeon-Hanul.pdf)) |
 | - | - | _세션 2, chair:_ 지글러 마틴 (한국과학기술원) |
 | 10:30-11:00 | 유야마 타카오  (湯山 孝雄) | [Word problem for groups and G-automata](abstracts/#abstract-Yuyama-Takao) |
