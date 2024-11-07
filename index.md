@@ -15,7 +15,7 @@ Please refer to the following lists for details on past and upcoming events.
 
 ## Previous events
 
-- [The third Korea Logic Day ~~2023~~ 2024](2024) (12 January 2024)
+- [The third Korea Logic Day 2024](2024) (12 January 2024)
 - [The second Korea Logic Day 2022](2022) (14 January 2022)
 - [The first Korea Logic Day 2021](2021) (14 January 2021)
 
