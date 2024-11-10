@@ -19,9 +19,9 @@
     <div class="container-lg px-3 my-5 markdown-body">
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
       {% if page.lang == "kr" %}
-        <h1 class="project-tagline"><a href="{{ "/kr/" | absolute_url }}">{{ site.title_kr }}</a></h1>
+        <h1 class="project-name"><a href="{{ "/kr/" | absolute_url }}">{{ site.title_kr }}</a></h1>
       {% else %}
-        <h1 class="project-tagline"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <h1 class="project-name"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}      
         <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
     </div>
