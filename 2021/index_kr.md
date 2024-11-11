@@ -1,16 +1,14 @@
 ---
 name: 제1회 한국 논리학의 날 2021
 title: 제1회 한국 논리학의 날 2021
-lang: kr
+description: 2021년 1월 14일 • 온라인
 permalink: /kr/2021/
 redirect_from:
   - /2021/kr/
   - /2021/index_kr.html
+lang: kr
+lang_target: /2021/
 ---
-
-_[English](/2021/)로 언어 바꾸기_
-
-# 제1회 한국 논리학의 날 2021, 2021년 1월 14일
 
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
