@@ -1,12 +1,9 @@
 ---
-name: The first Korea Logic Day 2021 Talk Abstracts
-title: The first Korea Logic Day 2021 Talk Abstracts
+name: The first Korea Logic Day 2021
+title: The first Korea Logic Day 2021
+description: January 14, 2021 • Online
 permalink: /2021/abstracts/
 ---
-
-_Change the language to [한국어](/kr/2021/)_
-
-# [The first Korea Logic Day 2021](/2021/), 14 January 2021
 
 # Talk Abstracts
 
