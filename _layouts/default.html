@@ -22,8 +22,6 @@
 
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if page.is_top != "true" %}
       {% if page.lang == "kr" %}
         <a href="{{ "/kr/" | absolute_url }}" class="btn">{{ site.title_kr }}</a>
@@ -36,6 +34,8 @@
       {% else %}
         <a href="{{ page.lang_target | absolute_url }}" class="btn"> 한국어 </a>
       {% endif %}      
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     
