@@ -1,10 +1,4 @@
 ---
-name: The third Korea Logic Day 2024 Talk Abstracts
-title: The third Korea Logic Day 2024 Talk Abstracts
-permalink: /2024/abstracts/
----
-
----
 name: The third Korea Logic Day 2024
 title: The third Korea Logic Day 2024
 description: January 12, 2024 • Online
