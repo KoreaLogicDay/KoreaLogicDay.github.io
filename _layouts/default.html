@@ -30,8 +30,7 @@
             <a href="{{ "/" | absolute_url }}" class="btn">{{ site.title }}</a>
           {% endif %}      
       {% endif %}      
-      {% if page.lang_target == "" %}
-      {% else %}
+      {% if page.lang_target %}
         {% if page.lang == "kr" %}
           <a href="{{ page.lang_target | lang_target }}" class="btn"> English </a>
         {% else %}
