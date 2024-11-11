@@ -1,9 +1,10 @@
 ---
 name: Korea Logic Day
 title: Korea Logic Day
+is_top: true
+lang: en
+lang_target: /kr/
 ---
-
-_Change the language to [한국어](/kr/)_
 
 Korea Logic Day is an annual series of events that unites logicians in Korea around January 14th to celebrate [World Logic Day](https://www.unesco.org/en/days/world-logic), as proclaimed by **UNESCO**. 
 Please refer to the following lists for details on past and upcoming events.
