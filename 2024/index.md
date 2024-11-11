@@ -1,12 +1,10 @@
 ---
 name: The third Korea Logic Day 2024
 title: The third Korea Logic Day 2024
+description: January 12, 2024 • Online
+lang_target: /kr/2024/
 permalink: /2024/
 ---
-
-_Change the language to [한국어](/kr/2024/)_
-
-# The third Korea Logic Day 2024, ___12___ January 2024
 
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
