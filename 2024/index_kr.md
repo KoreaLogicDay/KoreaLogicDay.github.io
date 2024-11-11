@@ -1,15 +1,13 @@
 ---
 name: 제3회 한국 논리학의 날 2024
 title: 제3회 한국 논리학의 날 2024
+description: 2024년 1월 12일 • 온라인
 permalink: /kr/2024/
 redirect_from:
   - /2024/kr/
 lang: kr
+lang_target: /2024/
 ---
-
-_[English](/2024/)로 언어 바꾸기_
-
-# 제3회 한국 논리학의 날 2024, 2024년 1월 ___12일___
 
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
