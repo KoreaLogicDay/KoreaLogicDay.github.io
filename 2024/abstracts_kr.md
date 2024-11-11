@@ -1,20 +1,16 @@
 ---
-name: 제3회 한국 논리학의 날 2024 발표 초록
-title: 제3회 한국 논리학의 날 2024 발표 초록
+name: 제3회 한국 논리학의 날 2024
+title: 제3회 한국 논리학의 날 2024
+description: 2024년 1월 12일 • 온라인
 permalink: /kr/2024/abstracts/
 redirect_from:
   - /2024/kr/abstracts/
   - /2024/abstracts/kr/
 lang: kr
+lang_target: /2024/abstracts/
 ---
 
-_[English](/2024/abstracts/)로 언어 바꾸기_
-
-# [제3회 한국 논리학의 날 2024](/kr/2024), 2024년 1월 12일
-
 # 발표 초록
-
-
 
 <p id="abstract-Kim-Dongwoo"></p>
 
