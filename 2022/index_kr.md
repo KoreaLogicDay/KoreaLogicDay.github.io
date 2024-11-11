@@ -1,12 +1,15 @@
 ---
 name: 제2회 한국 논리학의 날 2022
 title: 제2회 한국 논리학의 날 2022
+description: 2022년 1월 14일 • 온라인
 permalink: /kr/2022/
 redirect_from:
   - /2022/kr/
   - /2022/index_kr.html
 lang: kr
+lang_target: /2022/
 ---
+
 
 
 _[English](/2022/)로 언어 바꾸기_
