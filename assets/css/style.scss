@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
-header {
- display: none; 
+.page-header {
+ 
+  @include large {
+    padding: 2.5rem 3rem;
+  }
+
+  @include medium {
+    padding: 1.5rem 2rem;
+  }
+
+  @include small {
+    padding: 1rem 0.5rem;
+  }
 }
