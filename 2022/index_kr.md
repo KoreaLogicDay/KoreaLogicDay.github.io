@@ -11,11 +11,6 @@ lang_target: /2022/
 ---
 
 
-
-_[English](/2022/)로 언어 바꾸기_
-
-# 제2회 한국 논리학의 날 2022, 2022년 1월 14일
-
 <p>
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
 </p>
