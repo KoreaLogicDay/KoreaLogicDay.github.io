@@ -6,14 +6,14 @@
 .page-header {
  
   @include large {
-    padding: 2.5rem 3rem;
+    padding: 2.5rem 3rem 1.25rem 3rem ;
   }
 
   @include medium {
-    padding: 1.5rem 2rem;
+    padding: 1.5rem 2rem 0.75rem 2rem;
   }
 
   @include small {
-    padding: 1rem 0.5rem;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
   }
 }
