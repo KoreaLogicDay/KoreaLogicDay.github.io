@@ -1,8 +1,10 @@
 ---
 name: 한국 논리학의 날
 title: 한국 논리학의 날
+is_top: true
 permalink: /kr/
 lang: kr
+lang_target: /
 ---
 
 _[English](..)로 언어 바꾸기_
