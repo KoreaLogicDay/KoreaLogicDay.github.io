@@ -22,17 +22,21 @@
 
 
     <header class="page-header" role="banner">
-      {% if page.is_top != "true" %}
-      {% if page.lang == "kr" %}
-        <a href="{{ "/kr/" | absolute_url }}" class="btn">{{ site.title_kr }}</a>
-      {% else %}
-        <a href="{{ "/" | absolute_url }}" class="btn">{{ site.title }}</a>
+      {% if page.is_top == "true" %}
+        {% else %}
+          {% if page.lang == "kr" %}
+            <a href="{{ "/kr/" | absolute_url }}" class="btn">{{ site.title_kr }}</a>
+          {% else %}
+            <a href="{{ "/" | absolute_url }}" class="btn">{{ site.title }}</a>
+          {% endif %}      
       {% endif %}      
-      {% endif %}      
-      {% if page.lang == "kr" %}
-        <a href="{{ page.lang_target | lang_target }}" class="btn"> English </a>
+      {% if page.lang_target == "" %}
       {% else %}
-        <a href="{{ page.lang_target | absolute_url }}" class="btn"> 한국어 </a>
+        {% if page.lang == "kr" %}
+          <a href="{{ page.lang_target | lang_target }}" class="btn"> English </a>
+        {% else %}
+          <a href="{{ page.lang_target | absolute_url }}" class="btn"> 한국어 </a>
+        {% endif %} 
       {% endif %}      
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
