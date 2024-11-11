@@ -1,12 +1,9 @@
 ---
-name: The second Korea Logic Day 2022 Talk Abstracts
-title: The second Korea Logic Day 2022 Talk Abstracts
+name: The second Korea Logic Day 2022
+title: The second Korea Logic Day 2022
+description: January 14, 2022 • Online
 permalink: /2022/abstracts/
 ---
-
-_Change the language to [한국어](/kr/2022/)_
-
-# [The second Korea Logic Day 2022](/2022/), 14 January 2022
 
 # Talk Abstracts
 
