@@ -22,7 +22,7 @@
 
 
     <header class="page-header" role="banner">
-      {% if page.is_top == "true" %}
+      {% if page.is_top == true %}
         {% else %}
           {% if page.lang == "kr" %}
             <a href="{{ "/kr/" | absolute_url }}" class="btn">{{ site.title_kr }}</a>
