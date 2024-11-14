@@ -33,7 +33,7 @@
         {% endif %} 
       {% endif %}    
 
-      {% for l in links %}
+      {% for l in page.links %}
         <a href="{{ l.link | absolute_url }}" class="btn"> {{ l.name }} </a>
       {% endfor %}
 
