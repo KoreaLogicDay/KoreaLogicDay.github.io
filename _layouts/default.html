@@ -21,6 +21,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+<!--       
       {% if page.parent %}
           <a href="{{ page.parent.link | absolute_url }}" class="btn"> {{ page.parent.name }} </a>
       {% endif %}      
@@ -32,10 +33,20 @@
           <a href="{{ page.lang_target | absolute_url }}" class="btn"> 한국어 </a>
         {% endif %} 
       {% endif %}    
-
-      {% for l in page.links %}
+ -->
+      {% for l in page.primary_links %}
         <a href="{{ l.link | absolute_url }}" class="btn"> {{ l.name }} </a>
       {% endfor %}
+
+      {% for l in page.secondary_links %}
+        <a href="{{ l.link | absolute_url }}" class="btn"> {{ l.name }} </a>
+      {% endfor %}
+
+
+      {% for l in page.tertiary_links %}
+        <a href="{{ l.link | absolute_url }}" class="btn"> {{ l.name }} </a>
+      {% endfor %}
+
 
     </header>
 
