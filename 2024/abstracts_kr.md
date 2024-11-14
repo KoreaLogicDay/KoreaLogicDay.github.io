@@ -8,6 +8,13 @@ redirect_from:
   - /2024/abstracts/kr/
 lang: kr
 lang_target: /2024/abstracts/
+primary_links:
+ - 
+  link: /kr/2024/
+  name: 한국 논리학의 날 2024
+ - 
+  link: /2024/abstracts/
+  name: English
 ---
 
 # 발표 초록

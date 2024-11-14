@@ -4,6 +4,18 @@ title: The second Korea Logic Day 2022
 description: January 14, 2022 • Online
 lang_target: /kr/2022/
 permalink: /2022/
+primary_links:
+ - 
+  link: /
+  name: Korea Logic Day
+ - 
+  link: /kr/2022/
+  name: 한국어
+
+secondary_links:
+ -
+  link: /2022/abstracts/
+  name: Talk Abstracts 
 ---
 
 <p>

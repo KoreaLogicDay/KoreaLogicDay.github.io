@@ -3,6 +3,10 @@ name: The first Korea Logic Day 2021
 title: The first Korea Logic Day 2021
 description: January 14, 2021 • Online
 permalink: /2021/abstracts/
+primary_links:
+ - 
+  link: /2021/
+  name: Korea Logic Day 2021
 ---
 
 # Talk Abstracts

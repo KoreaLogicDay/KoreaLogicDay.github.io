@@ -1,9 +1,12 @@
 ---
 name: Korea Logic Day
 title: Korea Logic Day
-is_top: true
 lang: en
 lang_target: /kr/
+primary_links:
+ - 
+  link: /kr/
+  name: 한국어
 ---
 
 

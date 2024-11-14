@@ -4,6 +4,13 @@ title: The third Korea Logic Day 2024
 description: January 12, 2024 • Online
 lang_target: /kr/2024/abstracts/
 permalink: /2024/abstracts/
+primary_links:
+ - 
+  link: /2024/
+  name: Korea Logic Day 2024
+ - 
+  link: /kr/2024/abstracts/
+  name: 한국어
 ---
 
 # Talk Abstracts

@@ -6,7 +6,17 @@ permalink: /kr/2024/
 redirect_from:
   - /2024/kr/
 lang: kr
-lang_target: /2024/
+primary_links:
+ - 
+  link: /kr/
+  name: 한국 논리학의 날
+ - 
+  link: /2024/
+  name: English
+secondary_links:
+ -
+  link: /kr/2024/abstracts/
+  name: 발표 초록 
 ---
 
 <p>

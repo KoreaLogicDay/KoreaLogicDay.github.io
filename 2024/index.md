@@ -14,7 +14,7 @@ primary_links:
 
 secondary_links:
  -
-  link: /2024/abstracts
+  link: /2024/abstracts/
   name: Talk Abstracts 
 ---
 

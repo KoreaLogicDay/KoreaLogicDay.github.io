@@ -8,6 +8,17 @@ redirect_from:
   - /2022/index_kr.html
 lang: kr
 lang_target: /2022/
+primary_links:
+ - 
+  link: /kr/
+  name: 한국 논리학의 날
+ - 
+  link: /2022/
+  name: English
+secondary_links:
+ -
+  link: /2022/abstracts/
+  name: Talk Abstracts 
 ---
 
 
