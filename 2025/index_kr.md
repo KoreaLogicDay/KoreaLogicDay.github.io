@@ -20,7 +20,7 @@ primary_links:
 <div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
 <br />
-<i>Junam Reservoir, © Changwon City Hall - Changwon Tour<i>
+<i>Junam Reservoir, © Changwon City Hall - Changwon Tour</i>
 </div>
 
 한국 논리학자들이 다 함께 모여 세계 논리학의 날을 축하하고 논리학의 다양한 분야와 여러 분야에서의 논리학의 역할에 대해 소개하고 의견을 공유하는 자리를 마련하려고 합니다.
