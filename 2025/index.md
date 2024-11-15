@@ -16,6 +16,8 @@ primary_links:
 
 <div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+<br>
+<i>주남저수지, © 창원시청 - 창원관광<i>
 </div>
 
 
