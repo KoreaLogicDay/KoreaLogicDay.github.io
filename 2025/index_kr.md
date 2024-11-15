@@ -81,7 +81,7 @@ _공개 예정_
 - 안진후, 국립창원대학교
 - [이정욱](https://sites.google.com/site/leejunguk0323/home), 국립창원대학교
 - [이효윤](https://sites.google.com/view/hyoyoonlee/home), 연세대학교
-- [최승락](https://philpeople.org/profiles/seungrak-choi), 한림대학교 (주 조직위원)
+- [최승락](https://philpeople.org/profiles/seungrak-choi), 한림대학교
 
 문의사항 등은 [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googlegroups.com)으로 이메일 바랍니다.
 
