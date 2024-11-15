@@ -3,6 +3,8 @@ name: 제4회 한국 논리학의 날 2025
 title: 제4회 한국 논리학의 날 2025
 description: 2025년 1월 13일 ~ 15일 • 창원
 permalink: /kr/shsflgkr/2025/
+redirect_from:
+  - /shsflgkr/kr/2025/
 lang: kr
 primary_links:
  - 
