@@ -92,3 +92,5 @@ Pleaes contact [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googleg
 ## Financial Support
 
 The fourth Korea Logic Day is supported by the National Research Foundation of Korea.
+
+<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">

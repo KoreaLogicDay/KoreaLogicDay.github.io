@@ -89,3 +89,5 @@ _공개 예정_
 
 ## 지원
 제4회 한국 논리학의 날 행사는 한국연구재단의 지원을 받아 진행됩니다.
+
+<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
