@@ -22,7 +22,7 @@ secondary_links:
 <img src="https://korealogicday.org/assets/wld_logo_files/WLD_Grafik_1500x500px.jpg" alt="World Logic Day Banner Image" width="100%">
 </p>
 
-We aim to bring logicians in Korea together. We will celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__, and exchange opinions on current roles of logic in philosophy, science, and engineering.
+We aim to bring logicians in Korea together. We will celebrate [World Logic Day](https://wld.cipsh.international) proclaimed by __UNESCO__, and exchange opinions on current roles of logic in philosophy, science, and engineering.
 
 On 14 January 2019, the first World Logic Day was celebrated as an initiative of universities, research institutes, foundations and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. For future annual celebrations of World Logic Day, it was officially claimed the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_ (__CIPSH__) on 13 November 2019. This year is for the third World Logic Day. For more events in other countries, please visit [World Logic Day 2021](http://wld.cipsh.international/wld.html).
 
