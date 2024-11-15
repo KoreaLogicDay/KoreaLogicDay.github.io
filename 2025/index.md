@@ -35,12 +35,12 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ## Important Dates
 
-- Invited and tutorial talk annoucnement:
-  * title: December 3, 2024
-  * abstract: December 10, 2024
-- Participation and student talk application deadline: December 11, 2024
-- Participant and student talk notification: December 13, 2024
-- 4th Korea Logic Day: January 13–15, 2025
+- **Invited and tutorial talk annoucnement**:
+  * **Title**: December 3, 2024
+  * **Abstract**: December 10, 2024
+- **Participation and student talk application deadline**: December 11, 2024
+- **Participant and student talk notification**: December 13, 2024
+- **4th Korea Logic Day**: January 13–15, 2025
 
 ## Invited Speakers
 
