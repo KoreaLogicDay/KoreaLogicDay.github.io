@@ -14,7 +14,10 @@ primary_links:
 ---
 **//this page is for test purpose//**
 
+<div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+</div>
+
 
 We aim to bring logicians in Korea together and celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__. 
 We will introduce the research domains of logic and engage in discussions on the diverse applications of logic in various fields.
