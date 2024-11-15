@@ -14,8 +14,7 @@ primary_links:
 ---
 **//this page is for test purpose//**
 
-<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="World Logic Day Banner Image" width="100%">
-</p>
+<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
 
 We aim to bring logicians in Korea together and celebrate [World Logic Day](https://en.unesco.org/commemorations/worldlogicday) proclaimed by __UNESCO__. 
 We will introduce the research domains of logic and engage in discussions on the diverse applications of logic in various fields.
@@ -52,15 +51,15 @@ Successful applicants will be offered full-board accommodation for the days of t
 
 Student applications must include a letter of recommendation, preferably from the thesis adviser, sent directly by the recommender to [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googlegroups.com) by the deadline. Student participants will be assigned a shared twin room and may indicate a preferred roommate in their application.
 
-Successful applicants will notified via the provided email address in the application form.
+Successful applicants will notified via the provided email address in their applications.
 
-Registration link will be TBD.
+Application link will be TBD.
 
 ## Student Talk Application
 
-To foster student engagement, we plan to have a session where students introduce their research and studies in logic. Each talk will be approximately 15 to 30 minutes, with the duration adjusted based on the number of talks. Student applicants who wish to give a talk can indicate this and provide the title and abstract in the participant application form.
+To foster student engagement, we plan to have a session where students introduce their research in progress. Each talk will be approximately 15 to 30 minutes, with the duration adjusted based on the number of talks. Student applicants who wish to give a talk can indicate this and provide the title and abstract in the participant application form.
 
-Selected student talks will notified via the provided email address in the application form
+Confirmed talks will notified via the provided email address in their applications.
 
 ## Venue 
 
