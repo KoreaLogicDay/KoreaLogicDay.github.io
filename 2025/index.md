@@ -48,14 +48,14 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ### Tutorial Talk
 
-* Shichang Song (https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University
 
 ### Invited Talks
 
-* Carl-Fredrik Nyberg Brodda (https://sites.google.com/view/cf-nb/), KIAS
+* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS
 * Javier de la Nuez González, KIAS
-* Dongwoo Kim (https://dongwookim.org/), KAIST
-* Sewon Park (https://sewonpark.com), Kyoto University
+* [Dongwoo Kim](https://dongwookim.org/), KAIST
+* [Sewon Park](https://sewonpark.com), Kyoto University
 * _More invited speakers TBA_
 
 ### Student Talks

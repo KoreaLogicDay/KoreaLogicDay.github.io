@@ -46,14 +46,14 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 튜토리얼 발표
 
-* Shichang Song (https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교
 
 ### 초청 발표
 
-* Carl-Fredrik Nyberg Brodda (https://sites.google.com/view/cf-nb/), 고등과학원
+* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), 고등과학원
 * Javier de la Nuez González, 고등과학원
-* 김동우 (https://dongwookim.org/), 한국과학기술원
-* 박세원 (https://sewonpark.com), 교토대학교
+* [김동우](https://dongwookim.org/), 한국과학기술원
+* [박세원](https://sewonpark.com), 교토대학교
 * _추가 공개 예정_
 
 ### 학생 발표
