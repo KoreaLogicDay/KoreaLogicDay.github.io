@@ -15,7 +15,13 @@ primary_links:
 
 ## 다가오는 행사
 
-- 제4회 한국 논리학의 날 2025
+- [제4회 한국 논리학의 날 2025](2025) (2025년 1월 13일 ~ 15일 • 창원)
+
+<div style="text-align: center;">
+<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+<br />
+<i>주남저수지, © 창원시청 - 창원관광</i>
+</div>
 
 ## 지난 행사
 

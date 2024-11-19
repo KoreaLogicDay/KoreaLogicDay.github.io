@@ -2,20 +2,20 @@
 name: 제4회 한국 논리학의 날 2025
 title: 제4회 한국 논리학의 날 2025
 description: 2025년 1월 13일 ~ 15일 • 창원
-permalink: /kr/shsflgkr/2025/
+permalink: /kr/2025/
 redirect_from:
+  - /kr/2025/
   - /shsflgkr/kr/2025/
+  - /kr/shsflgkr/2025/
 lang: kr
 primary_links:
  - 
   link: /kr/
   name: 한국 논리학의 날
  - 
-  link: /shsflgkr/2025/
+  link: /2025/
   name: English
 ---
-
-**//이 페이지는 테스트 용 페이지 입니다//**
 
 <div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
@@ -33,7 +33,6 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 지난 행사들은 [한국 논리학의 날 홈페이지](/kr/)에서 찾아보실 수 있습니다.
 
-
 ## 중요일정
 
 - **초청 강연 및 튜토리얼 공개**:
@@ -43,11 +42,25 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 - **참가자 발표**: 2024년 12월 13일
 - **제4회 한국 논리학의 날**: 2025년 1월 13일 ~ 15일
 
-## 초청 및 튜토리얼 발표자
+## 발표자
+
+### 튜토리얼 발표
+
+* Shichang Song (https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교
+
+### 초청 발표
+
+* Carl-Fredrik Nyberg Brodda (https://sites.google.com/view/cf-nb/), 고등과학원
+* Javier de la Nuez González, 고등과학원
+* 김동우 (https://dongwookim.org/), 한국과학기술원
+* 박세원 (https://sewonpark.com), 교토대학교
+* _추가 공개 예정_
+
+### 학생 발표
 
 _공개 예정_
 
-## 발표 일정
+## 발표 목록 및 일정
 
 _공개 예정_
 

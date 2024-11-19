@@ -2,17 +2,19 @@
 name: The fourth Korea Logic Day 2025
 title: The fourth Korea Logic Day 2025
 description: January 13 - 15, 2025 • Changwon, Republic of Korea
-lang_target: /kr/shsflgkr/2025/
-permalink: /shsflgkr/2025/
+lang_target: /kr/2025/
+permalink: /2025/
+redirect_from:
+  - /shsflgkr/2025/
+  - /shsflgkr/2025/
 primary_links:
  - 
   link: /
   name: Korea Logic Day
  - 
-  link: /kr/shsflgkr/2025/
+  link: /kr/2025/
   name: 한국어
 ---
-**//this page is for test purpose//**
 
 <div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
@@ -42,13 +44,27 @@ The previous events are available on [the Korea Logic Day website](https://korea
 - **Participant and student talk notification**: December 13, 2024
 - **4th Korea Logic Day**: January 13–15, 2025
 
-## Invited Speakers
+## Speakers
 
-TBA
+### Tutorial Talk
 
-## Schedule 
+* Shichang Song (https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University
 
-TBA
+### Invited Talks
+
+* Carl-Fredrik Nyberg Brodda (https://sites.google.com/view/cf-nb/), KIAS
+* Javier de la Nuez González, KIAS
+* Dongwoo Kim (https://dongwookim.org/), KAIST
+* Sewon Park (https://sewonpark.com), Kyoto University
+* _More invited speakers TBA_
+
+### Student Talks
+
+_TBA_
+
+## Talks and Schedule 
+
+_TBA_
 
 ## Participant Application
 
@@ -68,15 +84,15 @@ Confirmed talks will notified via the provided email address in their applicatio
 
 ## Venue 
 
-The fourth Korea Logic Day will be held in person in Changwon, Korea. Details about the venue will be TBA.
+The fourth Korea Logic Day will be held in person in Changwon, Korea. Details about the venue _will be announced_.
 
 ## Access
 
-TBD
+_TBD_
 
 ## Accomodation
 
-TBD
+_TBD_
 
 ## Organization
 

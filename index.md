@@ -15,8 +15,13 @@ Please refer to the following lists for details on past and upcoming events.
 
 ## Upcoming events
 
-- The fourth Korea Logic Day 2025
+- [The fourth Korea Logic Day 2025](2025) (January 13 - 15, 2025 • Changwon, Republic of Korea)
 
+<div style="text-align: center;">
+<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+<br />
+<i>Junam Reservoir, © Changwon City Hall - Changwon Tour</i>
+</div>
 
 ## Previous events
 
