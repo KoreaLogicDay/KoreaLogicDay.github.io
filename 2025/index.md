@@ -22,12 +22,12 @@ primary_links:
 <i>Junam Reservoir, © Changwon City Hall - Changwon Tour</i>
 </div>
 
-We aim to bring logicians in Korea together and celebrate [World Logic Day](https://wld.cipsh.international), which was proclaimed by __UNESCO__. We will introduce the research domains of logic and discuss the diverse applications of logic in various fields.
+We aim to bring logicians in Korea together and celebrate [World Logic Day](https://wld.cipsh.international), proclaimed by __UNESCO__. We will introduce the research domains of logic and discuss the diverse applications of logic in various fields.
 
-On 14 January 2019, the first World Logic Day was celebrated as an initiative of universities, research institutes, foundations, and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. For future annual celebrations of World Logic Day, it was officially claimed as the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_(__CIPSH__), on 13 November 2019. This year is the seventh World Logic Day.
+On January 14,  2019, the first World Logic Day was celebrated as an initiative of universities, research institutes, foundations, and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. For future annual celebrations of World Logic Day, it was officially claimed as the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_(__CIPSH__), on November 13, 2019. This year is the seventh World Logic Day.
 <!-- For more events in other places, please visit [World Logic Day 2024](http://wld.cipsh.international/wld2024.html). -->
 
-Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ and _Kurt Gödel_ were the most influential logicians of the 20th century. Alfred Tarski_ was born on 14 January 1901, and _Kurt Gödel_ died on 14 January 1978. In memory of these two greatest logicians in the 20th century, 14 January is decided to be the day.
+Why is January 14 for World Logic Day? Nobody can disagree that _Alfred Tarski_ and _Kurt Gödel_ were the most influential logicians of the 20th century. _Alfred Tarski_ was born on  January 14, 1901, and _Kurt Gödel_ died on January 14, 1978. In memory of these two greatest logicians in the 20th century, January 14 is decided to be the Day.
 
 The previous events are available on [the Korea Logic Day website](https://korealogicday.org).
 
