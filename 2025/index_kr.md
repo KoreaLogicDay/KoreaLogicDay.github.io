@@ -72,7 +72,7 @@ _공개 예정_
 
 확정된 참가자는 신청서에 기입해주신 이메일 주소로 안내드릴 예정입니다.
 
-등록 링크는 추후 공개됩니다.
+참가 신청 주소: [https://forms.gle/JQinHA4oNcepZjMx8](https://forms.gle/JQinHA4oNcepZjMx8)
 
 ## 학생 발표 신청
 

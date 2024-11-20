@@ -73,7 +73,7 @@ Student applications must include a letter of recommendation, preferably from th
 
 Successful applicants will notified via the provided email address in their applications.
 
-The application link will be TBD.
+The application can be made here: [https://forms.gle/JQinHA4oNcepZjMx8](https://forms.gle/JQinHA4oNcepZjMx8)
 
 ## Student Talk Application
 
