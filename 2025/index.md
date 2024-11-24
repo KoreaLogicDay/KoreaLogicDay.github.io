@@ -1,6 +1,6 @@
 ---
-name: The fourth Korea Logic Day 2025
-title: The fourth Korea Logic Day 2025
+name: The Fourth Korea Logic Day 2025
+title: The Fourth Korea Logic Day 2025
 description: January 13 - 15, 2025 • Changwon, Republic of Korea
 lang_target: /kr/2025/
 permalink: /2025/
@@ -67,7 +67,7 @@ _TBA_
 
 ## Participant Application
 
-Successful applicants will be offered full-board accommodation for the days of the fourth Korea Logic Day. Due to limited resources, not all applicants may be selected.
+Successful applicants will be offered full-board accommodation for the days of the Fourth Korea Logic Day. Due to limited resources, not all applicants may be selected.
 
 Student applications must include a letter of recommendation, preferably from the thesis adviser, sent directly by the recommender to [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googlegroups.com) by the deadline. Student participants will be assigned a shared twin room and may indicate a preferred roommate in their application.
 
@@ -83,7 +83,7 @@ Confirmed talks will notified via the provided email address in their applicatio
 
 ## Venue 
 
-The fourth Korea Logic Day will be held in person in Changwon, Korea. Details about the venue _will be announced_.
+The Fourth Korea Logic Day will be held in person in Changwon, Korea. Details about the venue _will be announced_.
 
 ## Access
 
@@ -95,7 +95,7 @@ _TBD_
 
 ## Organization
 
-The fourth Korea Logic Day 2025 is hosted by the [Korean Association for Mathematical Logic (KAML)](https://logic.or.kr) and
+The Fourth Korea Logic Day 2025 is hosted by the [Korean Association for Mathematical Logic (KAML)](https://logic.or.kr) and
 organized by:
 - Jinhoo Ahn, Changwon National University
 - [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi), Hallym University
@@ -108,6 +108,6 @@ Please contact [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googleg
 
 ## Financial Support
 
-The fourth Korea Logic Day is supported by the National Research Foundation of Korea.
+The Fourth Korea Logic Day is supported by the National Research Foundation of Korea.
 
 <img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">

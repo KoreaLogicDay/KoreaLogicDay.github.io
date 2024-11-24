@@ -1,6 +1,6 @@
 ---
-name: The second Korea Logic Day 2022
-title: The second Korea Logic Day 2022
+name: The Second Korea Logic Day 2022
+title: The Second Korea Logic Day 2022
 description: January 14, 2022 • Online
 permalink: /2022/abstracts/
 primary_links:

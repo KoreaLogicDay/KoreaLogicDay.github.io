@@ -1,6 +1,6 @@
 ---
-name: The second Korea Logic Day 2022
-title: The second Korea Logic Day 2022
+name: The Second Korea Logic Day 2022
+title: The Second Korea Logic Day 2022
 description: January 14, 2022 • Online
 lang_target: /kr/2022/
 permalink: /2022/
@@ -12,7 +12,7 @@ primary_links:
   link: /kr/2022/
   name: 한국어
 
-secondary_links:
+Secondary_links:
  -
   link: /2022/abstracts/
   name: Talk Abstracts 
@@ -34,7 +34,7 @@ Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 - Abstract submission : - 31 December 2021
 - Registration : - 12 January 2022
 - Sharing the conference Zoom : 13 January 2022
-- the second Korea logic day : 14 January 2022
+- the Second Korea logic day : 14 January 2022
 
 
 ## Speakers

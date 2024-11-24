@@ -1,6 +1,6 @@
 ---
-name: The third Korea Logic Day 2024
-title: The third Korea Logic Day 2024
+name: The Third Korea Logic Day 2024
+title: The Third Korea Logic Day 2024
 description: January 12, 2024 • Online
 lang_target: /kr/2024/
 permalink: /2024/
@@ -36,7 +36,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ## Important dates
 
-___Please note that The third Korea Logic Day 2024 this year is on 12th.___
+___Please note that The Third Korea Logic Day 2024 this year is on 12th.___
 
 - Abstract submission deadline: 26 December 2023.
 - Registration deadline: 10 January 2024
@@ -89,7 +89,7 @@ Each talk is 30 minutes, followed by an additional 10 minutes for discussion and
 
 ## How to Register and Participate
 
-The third Korea Logic Day 2024 will be held online via Zoom. 
+The Third Korea Logic Day 2024 will be held online via Zoom. 
 Please register by 10 January 2024 and the instruction on how to attend the event will be shared to the registered email on 11 January 2024.
 
 ~~Registration link:~~
@@ -122,7 +122,7 @@ _Heejin Ahn (KAIST), Kyungmin Bae (POSTECH), Sun Bok Bae (숭실대 가치와 �
 
 ## Hosting and Organizing
 
-The third Korea Logic Day 2024 is hosted by [Korean Association for Logic](https://www.logicalkorea.com/?ckattempt=1) and
+The Third Korea Logic Day 2024 is hosted by [Korean Association for Logic](https://www.logicalkorea.com/?ckattempt=1) and
 organized by:
 - [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi), University of Seoul (main organizer)
 - [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee), KIAS

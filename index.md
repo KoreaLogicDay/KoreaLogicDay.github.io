@@ -15,7 +15,7 @@ Please refer to the following lists for details on past and upcoming events.
 
 ## Upcoming events
 
-- [The fourth Korea Logic Day 2025](2025) (January 13 - 15, 2025 • Changwon, Republic of Korea)
+- [The Fourth Korea Logic Day 2025](2025) (January 13 - 15, 2025 • Changwon, Republic of Korea)
 
 <div style="text-align: center;">
 <img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
@@ -25,9 +25,9 @@ Please refer to the following lists for details on past and upcoming events.
 
 ## Previous events
 
-- [The third Korea Logic Day 2024](2024) (January 12, 2024 • Online)
-- [The second Korea Logic Day 2022](2022) (January 14, 2022 • Online)
-- [The first Korea Logic Day 2021](2021) (January 14, 2021 • Online)
+- [The Third Korea Logic Day 2024](2024) (January 12, 2024 • Online)
+- [The Second Korea Logic Day 2022](2022) (January 14, 2022 • Online)
+- [The First Korea Logic Day 2021](2021) (January 14, 2021 • Online)
 
 
 

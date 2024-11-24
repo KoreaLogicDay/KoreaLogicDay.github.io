@@ -1,6 +1,6 @@
 ---
-name: The first Korea Logic Day 2021
-title: The first Korea Logic Day 2021
+name: The First Korea Logic Day 2021
+title: The First Korea Logic Day 2021
 description: January 14, 2021 • Online
 lang_target: /kr/2021/
 permalink: /2021/
@@ -24,7 +24,7 @@ secondary_links:
 
 We aim to bring logicians in Korea together. We will celebrate [World Logic Day](https://wld.cipsh.international) proclaimed by __UNESCO__, and exchange opinions on current roles of logic in philosophy, science, and engineering.
 
-On 14 January 2019, the first World Logic Day was celebrated as an initiative of universities, research institutes, foundations and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. For future annual celebrations of World Logic Day, it was officially claimed the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_ (__CIPSH__) on 13 November 2019. This year is for the third World Logic Day. For more events in other countries, please visit [World Logic Day 2021](http://wld.cipsh.international/wld.html).
+On 14 January 2019, the First World Logic Day was celebrated as an initiative of universities, research institutes, foundations and associations active in mathematics, philosophy, computer science, engineering, economics, and cognitive science. For future annual celebrations of World Logic Day, it was officially claimed the Day by __UNESCO__, in association with the _International Council for Philosophy and Human Sciences_ (__CIPSH__) on 13 November 2019. This year is for the third World Logic Day. For more events in other countries, please visit [World Logic Day 2021](http://wld.cipsh.international/wld.html).
 
 Why is 14 January for World Logic Day? Nobody can disagree that _Alfred Tarski_ and _Kurt Gödel_ were most influential logicians in the 20th century. _Alfred Tarski_ was born on 14 January 1901 and _Kurt Gödel_ died on 14, January 1978. In memory of these two greatest logicians in the 20th century, 14 January is decided to be the day.
 
