@@ -52,6 +52,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 ### Invited Talks
 
 * [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS
+* [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University
 * Javier de la Nuez González, KIAS
 * [Dongwoo Kim](https://dongwookim.org/), KAIST
 * [Sewon Park](https://sewonpark.com), Kyoto University
