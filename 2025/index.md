@@ -64,7 +64,18 @@ _TBA_
 
 ## Talks and Schedule 
 
-_TBA_
+### Tutorial Talk
+
+* Shichang Song: _Projective Fraisse limits and profinite groups_
+
+### Invited Talks
+
+* _TBA_
+
+### Student Talks
+
+* _TBA_
+
 
 ## Participant Application
 

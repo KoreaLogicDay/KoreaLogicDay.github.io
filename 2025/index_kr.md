@@ -63,7 +63,17 @@ _공개 예정_
 
 ## 발표 목록 및 일정
 
-_공개 예정_
+### 튜토리얼 발표
+
+* Shichang Song: _Projective Fraisse limits and profinite groups_
+
+### 초청 발표
+
+* _공개 예정_
+
+### 학생 발표
+
+* _공개 예정_
 
 ## 참가 신청
 
