@@ -15,7 +15,7 @@ primary_links:
 
 # Talk Abstracts
 
-## Invited Talk
+## Tutorial Talk
 
 ### Shichang Song: _Projective Fraisse limits and profinite groups_:
 
