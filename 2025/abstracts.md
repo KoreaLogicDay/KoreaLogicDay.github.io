@@ -17,13 +17,13 @@ primary_links:
 
 ## Tutorial Talk
 
-### Shichang Song: _Projective Fraisse limits and profinite groups_:
+### Shichang Song : _Projective Fraisse limits and profinite groups_:
 
 We show that the projective Fraisse limit of the class of finite groups is the free profinite group on a countably infinite set converging to 1. Also, we prove that its automorphism group has ample generics. Joint work with Sulin Hu.
 
 ## Invited Talk
 
-### Seungrak Choi: _Formalizing intuitionistic negations in natural deduction system_
+### Seungrak Choi : _Formalizing intuitionistic negations in natural deduction system_
 
-### Sewon Park: _Real functions are continuous, continuously, computationally_:
+### Sewon Park : _Real functions are continuous, continuously, computationally_:
 
