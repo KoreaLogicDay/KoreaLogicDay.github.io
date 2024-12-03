@@ -42,36 +42,26 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 - 참가자 명단 확정 및 공지: 2024년 12월 13일
 - **제4회 한국 논리학의 날**: 2025년 1월 13일 ~ 15일
 
-## 발표자
+## 발표자 및 발표 목록
 
 ### 튜토리얼 발표
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교 : _Projective Fraisse limits and profinite groups_
 
 ### 초청 발표
 
 * [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), 고등과학원
 * Javier de la Nuez González, 고등과학원
 * [김동우](https://dongwookim.org/), 한국과학기술원
-* [박세원](https://sewonpark.com), 교토대학교
-* [최승락](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), 한림대학교
+* [박세원](https://sewonpark.com), 교토대학교 : _Real functions are continuous, continuously, computationally_
+* [최승락](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), 한림대학교 :  _Formalizing intuitionistic negations in natural deduction system_
 * _추가 공개 예정_
 
 ### 학생 발표
 
 _공개 예정_
 
-## 발표 목록 및 일정
-
-### 튜토리얼 발표
-
-* Shichang Song: _Projective Fraisse limits and profinite groups_
-
-### 초청 발표
-
-* _공개 예정_
-
-### 학생 발표
+## 일정
 
 * _공개 예정_
 

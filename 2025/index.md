@@ -43,36 +43,26 @@ The previous events are available on [the Korea Logic Day website](https://korea
 - **4th Korea Logic Day**: January 13–15, 2025
 
 
-## Speakers
+## Speakers and Talks
 
 ### Tutorial Talk
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University : _Projective Fraisse limits and profinite groups_
 
 ### Invited Talks
 
 * [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS
-* [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University
+* [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University : _Formalizing intuitionistic negations in natural deduction system_
 * Javier de la Nuez González, KIAS
 * [Dongwoo Kim](https://dongwookim.org/), KAIST
-* [Sewon Park](https://sewonpark.com), Kyoto University
+* [Sewon Park](https://sewonpark.com), Kyoto University : _Real functions are continuous, continuously, computationally_
 * _More invited speakers TBA_
 
 ### Student Talks
 
 _TBA_
 
-## Talks and Schedule 
-
-### Tutorial Talk
-
-* Shichang Song: _Projective Fraisse limits and profinite groups_
-
-### Invited Talks
-
-* _TBA_
-
-### Student Talks
+## Schedule 
 
 * _TBA_
 
