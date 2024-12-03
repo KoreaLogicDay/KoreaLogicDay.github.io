@@ -25,3 +25,8 @@ primary_links:
 
 We show that the projective Fraisse limit of the class of finite groups is the free profinite group on a countably infinite set converging to 1. Also, we prove that its automorphism group has ample generics. Joint work with Sulin Hu.
 
+## 초청 발표
+
+### 박세원: _Real functions are continuous, continuously, computationally_
+
+### 최승락: _Formalizing intuitionistic negations in natural deduction system_ 
