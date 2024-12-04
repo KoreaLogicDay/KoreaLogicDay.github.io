@@ -23,6 +23,8 @@ We show that the projective Fraisse limit of the class of finite groups is the f
 
 ## Invited Talk
 
+### Carl-Fredrik Nyberg Brodda : _Some decision problems in finitely presented groups and semigroups_
+
 ### Seungrak Choi : _Formalizing intuitionistic negations in natural deduction system_
 
 ### Sewon Park : _Real functions are continuous, continuously, computationally_:
