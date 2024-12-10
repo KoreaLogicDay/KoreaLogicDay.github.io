@@ -62,9 +62,14 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 _TBA_
 
+## Talk Abstracts
+
+The abstracts can be found [here](abstracts).
+
+
 ## Schedule 
 
-* _TBA_
+_TBA_
 
 
 ## Participant Application
