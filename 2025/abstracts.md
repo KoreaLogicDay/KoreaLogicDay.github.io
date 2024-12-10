@@ -17,7 +17,7 @@ primary_links:
 
 ## Tutorial Talk
 
-### Shichang Song : _Projective Fraisse limits and profinite groups_:
+### Shichang Song : _Projective Fraisse limits and profinite groups_
 
 We show that the projective Fraisse limit of the class of finite groups is the free profinite group on a countably infinite set converging to 1. Also, we prove that its automorphism group has ample generics. Joint work with Sulin Hu.
 
@@ -35,7 +35,7 @@ More specifically, this talk contends that the classical notion of contradiction
 
 ### Dongwoo Kim
 
-### Sewon Park : _Real functions are continuous, continuously, computationally_:
+### Sewon Park : _Real functions are continuous, continuously, computationally_
 
 In this talk, I present an axiomatization and formalization of computable analysis in constructive dependent type theory. It provides an axiomatic type of real numbers where constructive proofs from mathematical analysis are extracted to certified real-number computation programs. The axioms are sound for the realizability interpretation of dependent type theory in the category of assemblies over Kleene's second algebra. To formalize interesting hyperspace computations, we further assume a general continuity principle from which we prove that all real functions are, in a sense, continuously continuous. 
 This talk is based on my joint work with Michal Konečný and Holger Thies.
