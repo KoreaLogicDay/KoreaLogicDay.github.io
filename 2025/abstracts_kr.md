@@ -36,7 +36,9 @@ This talk is based on my joint work with Michal Konečný and Holger Thies.
 
 ### Javier de la Nuez González
 
-### 김동우
+### 김동우 : _Reference and Analysis in Frege_
+
+I discuss Frege's definition of number. I argue that the definition is intended to preserve the references of the ordinary number terms.
 
 ### 최승락 : _Formalizing intuitionistic negations in natural deduction system_ 
 

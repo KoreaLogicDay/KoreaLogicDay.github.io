@@ -33,7 +33,9 @@ More specifically, this talk contends that the classical notion of contradiction
 
 ### Javier de la Nuez González 
 
-### Dongwoo Kim
+### Dongwoo Kim : _Reference and Analysis in Frege_
+
+I discuss Frege's definition of number. I argue that the definition is intended to preserve the references of the ordinary number terms.
 
 ### Sewon Park : _Real functions are continuous, continuously, computationally_
 
