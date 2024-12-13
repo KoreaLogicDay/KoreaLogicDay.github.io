@@ -54,8 +54,8 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 * Javier de la Nuez González, 고등과학원
 * [김동우](https://dongwookim.org/), 한국과학기술원 : _Reference and Analysis in Frege_
 * [박세원](https://sewonpark.com), 교토대학교 : _Real functions are continuous, continuously, computationally_
+* [전한울](https://hanuljeon95.github.io), Cornell University : _On a proof-theoretic dilator and Pohlers' characteristic ordinals_
 * [최승락](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), 한림대학교 :  _Formalizing intuitionistic negations in natural deduction system_
-* _추가 공개 예정_
 
 ### 학생 발표
 
