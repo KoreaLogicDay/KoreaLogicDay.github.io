@@ -124,4 +124,4 @@ The Fourth Korea Logic Day is supported by the National Research Foundation of K
 
 <img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
 
-<img src="https://korealogicday.org/assets/Glamplogo.png" alt="G-Lamp Logo">
+<img src="https://korealogicday.org/assets/Glamplogo.png" width="173px" alt="G-Lamp Logo">
