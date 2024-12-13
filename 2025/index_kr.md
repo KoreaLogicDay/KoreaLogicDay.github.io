@@ -59,7 +59,10 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 학생 발표
 
-_공개 예정_
+* 김연홍, 전북대학교 : _약-u-결합 유니놈 논리의 표준 완전성_
+* 백지선, 연세대학교 : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
+* 서민철, 성균관대학교 : _Multi-Agent Simulative Belief Ascription_
+* 임기정, 전남대학교 : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
 
 ## 발표 초록
 
