@@ -113,6 +113,6 @@ _공개 예정_
 문의사항 등은 [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googlegroups.com)으로 이메일 바랍니다.
 
 ## 지원
-제4회 한국 논리학의 날 행사는 한국연구재단의 지원을 받아 진행됩니다.
+제4회 한국 논리학의 날 행사는 한국연구재단 및 국립창원대학교 G-램프(LAMP) 사업단의 지원을 받아 진행됩니다.
 
 <img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
