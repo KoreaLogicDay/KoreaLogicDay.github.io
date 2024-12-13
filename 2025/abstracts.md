@@ -57,7 +57,7 @@ In this talk, we investigate the standard completeness of weak-u-associative uni
 
 T-norms are a well-known class of aggregation operators in fuzzy logics. They can be divided based on their properties, such as left-continuity, semilinearity, and others. Furthermore, many works have generalized the concept of t-norm. Some properties of various fuzzy aggregation operators are partially reflected in the concepts of weak-u-associative uninorms. Accordingly, in this talk, we clarify some ideas behind proving the standard completeness of major fuzzy logics and provide a strategy to understand the proof of the standard completeness of UWABULs as presented in Yang(2024).
 
-### 백지선 : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
+### Jisun Baek : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
 
 Exercise I.19 in Set Theory by Kunen states that any well-ordering on an infinite cardinal  $\kappa$ agrees on $\kappa$-many elements with the usual ordering. A stronger result is described using the Erd\H{o}s-Rado arrow, $\kappa \rightarrow (\kappa, \omega)^2$, which demonstrates that any graph with a $\kappa$-sized vertex set contains either a $\kappa$-sized clique or $\omega$-sized independent set. In this talk, we explore the Erd\H{o}s-Dushnik-Miller theorem, $\kappa \rightarrow (\kappa, \omega+1) ^2$ for regular uncountable cardinals $\kappa$, as well as analogous results by Shelah for certain singular cardinals.
 
@@ -66,6 +66,6 @@ Exercise I.19 in Set Theory by Kunen states that any well-ordering on an infinit
 This paper presents the outline of the model of Multi-Agent Simulative Belief Ascription, (MASBA), a novel approach to model how an agent represents other agent’s belief state, incorporating belief revision to effectively address the dynamic nature of belief changes in multiagent contexts. In MASBA, each agent’s belief is represented as a distinct compartment, allowing for the sharing of beliefs through communication while maintaining their individual integrity. A key feature of MASBA is its handling of simulative beliefs, being casually characterised as ‘what would have believed if I were the case’, which may not always compatible with the ascribee’s actual belief state. When constructing the simulative belief state, the revision occurs with respect to the ascriber’s belief state but with a priority on the ascribee’s plausibility ordering. This structure enables MASBA to provide an intuitive perspective on cognitive faculty of ‘mindreading’, representing it as a mental simulation that merges our beliefs with the shared beliefs of others, thereby enriching our understanding of multi-agent belief dynamics and cognitive processes.
 
 
-### 임기정 : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
+### Kijeong Lim : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
 
 In classical first-order logic, the soundness theorem states that syntactic entailment implies semantic entailment, while the completeness theorem asserts the converse. In this study, assuming the law of excluded middle, proofs of the soundness theorem of a Hilbert calculus with respect to Tarski's semantics and the completeness theorem for all countable first-order languages are presented. This formalisation, written in Coq, gives named quantifiers and Leibniz equality and enables one to assume an infinite number of axioms.
