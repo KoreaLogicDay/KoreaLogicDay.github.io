@@ -29,6 +29,8 @@ We show that the projective Fraisse limit of the class of finite groups is the f
 
 ### Carl-Fredrik Nyberg Brodda : _Some decision problems in finitely presented groups and semigroups_
 
+I'll give an overview of some algorithmic problems in algebra, focussing on the word problem and membership problem. I'll first present some recent results in the past few years by myself and coauthors (Foniqi & Gray) on the word problem for one-relation monoids, a problem that has remained open for over a century, since 1914. Using embeddings of right-angled Artin groups and trace monoids, I will show how the first known undecidability results for one-relation monoids can be proved: the rational subset membership problem can be undecidable. Finally, I'll present some recent results by myself and Gray (East Anglia), where we fully classify which Artin groups have decidable submonoid/rational subset membership problem. This extends a result from 2007 by Lohrey & Steinberg, who classified which right-angled Artin groups have decidable membership problems.
+
 ### 박세원 : _Real functions are continuous, continuously, computationally_
 
 In this talk, I present an axiomatization and formalization of computable analysis in constructive dependent type theory. It provides an axiomatic type of real numbers where constructive proofs from mathematical analysis are extracted to certified real-number computation programs. The axioms are sound for the realizability interpretation of dependent type theory in the category of assemblies over Kleene's second algebra. To formalize interesting hyperspace computations, we further assume a general continuity principle from which we prove that all real functions are, in a sense, continuously continuous. 

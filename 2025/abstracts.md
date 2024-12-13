@@ -25,6 +25,9 @@ We show that the projective Fraisse limit of the class of finite groups is the f
 
 ### Carl-Fredrik Nyberg Brodda : _Some decision problems in finitely presented groups and semigroups_
 
+I'll give an overview of some algorithmic problems in algebra, focussing on the word problem and membership problem. I'll first present some recent results in the past few years by myself and coauthors (Foniqi & Gray) on the word problem for one-relation monoids, a problem that has remained open for over a century, since 1914. Using embeddings of right-angled Artin groups and trace monoids, I will show how the first known undecidability results for one-relation monoids can be proved: the rational subset membership problem can be undecidable. Finally, I'll present some recent results by myself and Gray (East Anglia), where we fully classify which Artin groups have decidable submonoid/rational subset membership problem. This extends a result from 2007 by Lohrey & Steinberg, who classified which right-angled Artin groups have decidable membership problems.
+
+
 ### Seungrak Choi : _Formalizing intuitionistic negations in natural deduction system_
 
 This talk examines how historical intuitionists have employed the concepts of negation and contradiction in two distinct senses, focusing particularly on the works of L. E. J. Brouwer, Michael Dummett, and Neil Tennant. In doing so, it reveals that within intuitionism, the notion of contradiction has also been utilized in two different ways, especially regarding the definition of negation in terms of contradiction. Building on this historical and philosophical background, the talk argues that standard intuitionistic natural deduction systems fail to capture the full spirit of intuitionism. They do not adequately formalize the intuitionistic notion of negation and thus cannot fully represent the intuitionistic stance against the principle of excluded middle—that every meaningful statement is either true or false.
