@@ -42,6 +42,9 @@ This talk is based on my joint work with Michal Konečný and Holger Thies.
 
 I discuss Frege's definition of number. I argue that the definition is intended to preserve the references of the ordinary number terms.
 
+### 전한울 : _On a proof-theoretic dilator and Pohlers' characteristic ordinals_
+
+
 ### 최승락 : _Formalizing intuitionistic negations in natural deduction system_ 
 
 This talk examines how historical intuitionists have employed the concepts of negation and contradiction in two distinct senses, focusing particularly on the works of L. E. J. Brouwer, Michael Dummett, and Neil Tennant. In doing so, it reveals that within intuitionism, the notion of contradiction has also been utilized in two different ways, especially regarding the definition of negation in terms of contradiction. Building on this historical and philosophical background, the talk argues that standard intuitionistic natural deduction systems fail to capture the full spirit of intuitionism. They do not adequately formalize the intuitionistic notion of negation and thus cannot fully represent the intuitionistic stance against the principle of excluded middle—that every meaningful statement is either true or false.
