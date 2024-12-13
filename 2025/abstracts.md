@@ -51,7 +51,7 @@ This talk is based on my joint work with Michal Konečný and Holger Thies.
 ## Student Talks
 
 
-### Yeonhong Kim : _약-u-결합 유니놈 논리의 표준 완전성_
+### Yeonhong Kim : _Standard completeness of weak-u-associative uninorm logics_
 
 In this talk, we investigate the standard completeness of weak-u-associative uninorm logics, called UWABULs, following Yang(2024). The basic idea for proving the standard completeness of a fuzzy logic is to find a method to embed the algebraic semantics of the logic into the unit interval [0, 1]. The core task of the embedding is to preserve fundamental properties of algebraic semantics, especially those of its aggregation operator.
 
