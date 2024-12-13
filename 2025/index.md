@@ -123,3 +123,5 @@ Please contact [korea-logic-day@googlegroups.com](mailto:korea-logic-day@googleg
 The Fourth Korea Logic Day is supported by the National Research Foundation of Korea and Changwon National University G-LAMP program.
 
 <img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
+
+<img src="https://korealogicday.org/assets/Glamplogo.png" alt="G-Lamp Logo">

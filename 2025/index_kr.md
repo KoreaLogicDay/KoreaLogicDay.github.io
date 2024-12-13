@@ -116,3 +116,5 @@ _공개 예정_
 제4회 한국 논리학의 날 행사는 한국연구재단 및 국립창원대학교 G-램프(LAMP) 사업단의 지원을 받아 진행됩니다.
 
 <img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
+
+<img src="https://korealogicday.org/assets/Glamplogo.png" alt="G-Lamp Logo">
