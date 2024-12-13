@@ -63,9 +63,9 @@ The previous events are available on [the Korea Logic Day website](https://korea
 ### Student Talks
 
 * 김연홍, Jeonbuk National University : _standard completeness of weak-u-associative uninorm logics_
-* 백지선, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
+* Jisun Baek, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
 * 서민철, Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_
-* 임기정, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
+* Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
 
 ## Talk Abstracts
 
