@@ -54,7 +54,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 * [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS : _Some decision problems in finitely presented groups and semigroups_
 * [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University : _Formalizing intuitionistic negations in natural deduction system_
 * Javier de la Nuez González, KIAS
-* [Hanul Jeon](https://hanuljeon95.github.io), Cornell University : _On a proof-theoretic dilator and Pohlers' characteristic ordinals_
+* [Hanul Jeon](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_
 * [Dongwoo Kim](https://dongwookim.org/), KAIST : _Reference and Analysis in Frege_
 * [Sewon Park](https://sewonpark.com), Kyoto University : _Real functions are continuous, continuously, computationally_
 

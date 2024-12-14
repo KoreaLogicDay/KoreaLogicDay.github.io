@@ -36,7 +36,9 @@ More specifically, this talk contends that the classical notion of contradiction
 
 ### Javier de la Nuez González 
 
-### Hanul Jeon : _On a proof-theoretic dilator and Pohlers' characteristic ordinals_
+### Hanul Jeon : _On proof-theoretic dilator and Pohlers' characteristic ordinals_
+
+The proof-theoretic ordinal (PTO) of a theory is a way to gauge the strength by looking at the supremum of provably well-founded recursive ordinals. There are two generalizations of the PTO: Pohlers isolated characteristic ordinals in "On the Performance of Axiom Systems," which is the supremum of provably well-founded definable well-orders over a given Spector class. Meanwhile, Girard developed another invariant of a theory called proof-theoretic dilator that also yields PTO. In this talk, I will demonstrate proof-theoretic dilators are related to Pohlers' characteristic ordinals.
 
 ### Dongwoo Kim : _Reference and Analysis in Frege_
 
