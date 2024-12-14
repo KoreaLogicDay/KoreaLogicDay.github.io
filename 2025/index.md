@@ -62,9 +62,9 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ### Student Talks
 
-* Yeonhong Kim, Jeonbuk National University : _Standard completeness of weak-u-associative uninorm logics_
+* [Yeon-Hong Kim](https://kyh155727.github.io/), Jeonbuk National University : _Standard completeness of weak-u-associative uninorm logics_
 * Jisun Baek, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
-* 서민철, Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_
+* [Min Cheol Seo](https://mincheolseo.com), Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_
 * Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
 
 ## Talk Abstracts
