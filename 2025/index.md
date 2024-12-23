@@ -112,7 +112,7 @@ organized by:
 - Jinhoo Ahn, Changwon National University
 - [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi), Hallym University
 - [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee), KIAS
-- [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Yonsei University
+- [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Sogang University
 - [Junguk Lee](https://sites.google.com/site/leejunguk0323/home), Changwon National University
 - [Sewon Park](https://sewonpark.com/), Kyoto University
 
