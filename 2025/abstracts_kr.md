@@ -36,8 +36,6 @@ I'll give an overview of some algorithmic problems in algebra, focussing on the 
 In this talk, I present an axiomatization and formalization of computable analysis in constructive dependent type theory. It provides an axiomatic type of real numbers where constructive proofs from mathematical analysis are extracted to certified real-number computation programs. The axioms are sound for the realizability interpretation of dependent type theory in the category of assemblies over Kleene's second algebra. To formalize interesting hyperspace computations, we further assume a general continuity principle from which we prove that all real functions are, in a sense, continuously continuous. 
 This talk is based on my joint work with Michal Konečný and Holger Thies.
 
-### Javier de la Nuez González
-
 ### 김동우 : _Reference and Analysis in Frege_
 
 I discuss Frege's definition of number. I argue that the definition is intended to preserve the references of the ordinary number terms.
