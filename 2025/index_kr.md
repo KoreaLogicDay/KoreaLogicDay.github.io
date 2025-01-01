@@ -51,7 +51,6 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 ### 초청 발표
 
 * [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), 고등과학원 : _Some decision problems in finitely presented groups and semigroups_
-* Javier de la Nuez González, 고등과학원
 * [김동우](https://dongwookim.org/), 한국과학기술원 : _Reference and Analysis in Frege_
 * [박세원](https://sewonpark.com), 교토대학교 : _Real functions are continuous, continuously, computationally_
 * [전한울](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_
