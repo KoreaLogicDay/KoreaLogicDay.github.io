@@ -71,7 +71,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-|_1월 13일 월요일_ 
+|_1월 13일 월요일_ | | |
 | 14:00-14:20       | -        | _등록_ |
 | 14:20-14:30       | -        | _개회_ |
 | 14:30-15:45 | Shichang Song | _Tutorial 1 Projective Fraisse limits and profinite groups_ |
