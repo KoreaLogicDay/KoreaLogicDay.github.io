@@ -116,7 +116,9 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ## 장소
 
-제4회 한국 논리학의 날은 '그랜드 머큐어 앰배서더 창원' 호텔에서 오프라인으로 개최됩니다. 행사 장소는 지하 3층 퍼스트하우스 '티파니' 룸입니다.
+'그랜드 머큐어 앰배서더 창원' 호텔 지하 3층 퍼스트하우스 '티파니' 룸
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d776.0841285107198!2d128.65468932157486!3d35.23949914216372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568cccb74689139%3A0xe152e718c702a7ad!2z6re4656c65OcIOuouO2BkOyWtCDslbDrsLDshJzrjZQg7LC97JuQ!5e0!3m2!1sen!2sjp!4v1735994401931!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## 교통
 
