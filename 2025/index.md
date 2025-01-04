@@ -126,7 +126,7 @@ The Tiffany room (located at the basement 3), Grand Mercure Ambassador Changwon,
 
 ## Access
 
-_TBD_
+The hotel webpage for the access is [here](https://www.ambatel.com/grandmercure/changwon/ko/main.do#location-1).
 
 ## Accommodation
 
