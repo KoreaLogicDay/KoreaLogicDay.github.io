@@ -122,7 +122,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ## 교통
 
-_공개 예정_
+호텔 [홈페이지](https://www.ambatel.com/grandmercure/changwon/ko/main.do) 참조
 
 ## 숙소
 
