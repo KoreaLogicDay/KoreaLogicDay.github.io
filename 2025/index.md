@@ -128,7 +128,7 @@ _TBD_
 
 ## Accommodation
 
-The accommodation will be provided at Grand Mercure Ambassador Changwon in Changwon, Korea. The check-in is from 15:00 on January 13th, 2025, and the check-out is until 12:00 on January 15th, 2025. For detailed information, please ask at the front desk.
+The accommodation will be provided at Grand Mercure Ambassador Changwon in Changwon, Korea. The check-in is from 15:00 on January 13th, 2025, and the check-out is until 12:00 on January 15th, 2025. For detailed information, please ask the front desk.
 
 ## Organization
 
