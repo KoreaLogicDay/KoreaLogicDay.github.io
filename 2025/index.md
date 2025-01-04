@@ -120,7 +120,7 @@ Confirmed talks will notified via the provided email address in their applicatio
 
 ## Venue 
 
-The Fourth Korea Logic Day will be held in person in Changwon, Korea. Details about the venue _will be announced_.
+The Fourth Korea Logic Day will be held in person at Grand Mercure Ambassador Changwon in Changwon, Korea. The meeting room is the room 'Tiffany' located at the basement 3. 
 
 ## Access
 
@@ -128,7 +128,7 @@ _TBD_
 
 ## Accommodation
 
-_TBD_
+The accommodation will be provided at Grand Mercure Ambassador Changwon in Changwon, Korea. The check-in is from 15:00 on January 13th, 2025, and the check-out is until 12:00 on January 15th, 2025. 
 
 ## Organization
 
