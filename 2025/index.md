@@ -100,7 +100,7 @@ The abstracts can be found [here](abstracts).
 | 10:00-11:00 | Hanul Jeon | _On proof-theoretic dilator and Pohlers' characteristic ordinals_ |
 | 11:00-11:15 | - | _Break_ |
 | 11:15-12:15 | Seungrak Choi | _Formalizing intuitionistic negations in natural deduction system_ |
-| 12:15-12:50 | - | _Group Photo_ |
+| 12:15-12:30 | - | _Group Photo_ |
 
 ## Participant Application
 
