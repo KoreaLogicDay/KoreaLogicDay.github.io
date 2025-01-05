@@ -121,8 +121,12 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d776.0841285107198!2d128.65468932157486!3d35.23949914216372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568cccb74689139%3A0xe152e718c702a7ad!2z6re4656c65OcIOuouO2BkOyWtCDslbDrsLDshJzrjZQg7LC97JuQ!5e0!3m2!1sen!2sjp!4v1735994401931!5m2!1sen!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## 교통
+-창원 중앙역에서 호텔
+ 221번 버스 (시티7 정류장 하차), 또는 220번 버스 (창원컨벤션센터 정류장 하차) 
+-김해공항에서 호텔
+ 좌석 예약 후 창원/마산행 시외버스(리무진)를 이용해 남산동(남산시외버스정류소)에서 하차. 이후 17번 또는 109번 버스를 타고 시티7 정류소에서 하차하시면 됩니다.
 
-호텔 [홈페이지](https://www.ambatel.com/grandmercure/changwon/ko/main.do#location-1) 참조
+자세한 사항은 호텔 [홈페이지](https://www.ambatel.com/grandmercure/changwon/ko/main.do#location-1) 참조
 
 ## 숙소
 
