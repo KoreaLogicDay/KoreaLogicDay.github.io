@@ -128,6 +128,14 @@ The Tiffany room (located at the basement 3), Grand Mercure Ambassador Changwon,
 
 The hotel webpage for the access is [here](https://www.ambatel.com/grandmercure/changwon/ko/main.do#location-1).
 
+Directions to Hotel
+
+-From Changwon Jungang Station to the Hotel:
+Take bus number 221 (get off at City 7 Bus Stop) or bus number 220 (get off at Changwon Convention Center Bus Stop).
+
+-From Gimhae Airport to the hotel:
+After making a reservation, take an Limousine bus bound for Changwon/Masan and get off at Namsan-dong. Then take bus number 17 or 109 and get off at City7 Bus Stop.
+
 ## Accommodation
 
 The accommodation will be provided at Grand Mercure Ambassador Changwon in Changwon, Korea. The check-in is from 15:00 on January 13th, 2025, and the check-out is until 12:00 on January 15th, 2025. For detailed information, please ask the front desk.
