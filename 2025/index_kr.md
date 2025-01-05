@@ -96,7 +96,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 | 10:00-11:00 | 전한울 | _On proof-theoretic dilator and Pohlers' characteristic ordinals_ |
 | 11:00-11:15 | - | _휴식시간_ |
 | 11:15-12:15 | 최승락 | _Formalizing intuitionistic negations in natural deduction system_ |
-| 12:15-12:50 | - | _단체사진_ |
+| 12:15-12:30 | - | _단체사진_ |
 
 ## 참가 신청
 
