@@ -74,20 +74,20 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 | 1월 13일 월요일 | - | - |
 | 14:00-14:20       | -        | _등록_ |
 | 14:20-14:30       | -        | _개회_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 1 Projective Fraisse limits and profinite groups_ |
+| 14:30-15:45 | Shichang Song | _Tutorial 1 Introduction to continuous logic_ |
 | 15:45-16:00 | - | _휴식시간_ |
 | 16:00-17:00 | 박세원 | _Real functions are continuous, continuously, computationally_ |
 | 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
 | 18:30- | - | _저녁_  |
 | 1월 14일 화요일 | - | - |
-| 09:00-10:15 | Shichang Song | _Tutorial 2 Projective Fraisse limits and profinite groups_  | 
+| 09:00-10:15 | Shichang Song | _Tutorial 2 Introduction to continuous logic_  | 
 | 10:15-10:30 | - | _휴식시간_ |
 | 10:30-11:00 | 김연홍 | _Standard completeness of weak-u-associative uninorm logics_ |
 | 11:00-11:30 | 백지선 | _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ |
 | 11:30-12:00 | 서민철 | _Multi-Agent Simulative Belief Ascription_ |
 | 12:00-12:30 | 임기정 | _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ |
 | 12:30-14:30 | - | _점심_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 3 Projective Fraisse limits and profinite groups_ |
+| 14:30-15:45 | Shichang Song | _Tutorial 3 Introduction to continuous logic_ |
 | 15:45-16:00 | - | _휴식시간_ |
 | 16:00-17:00 | 김동우 | _Reference and Analysis in Frege_ |
 | 17:00-18:00 | - | _대한수리논리학회 회의_ |
