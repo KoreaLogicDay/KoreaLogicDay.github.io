@@ -47,7 +47,7 @@ The previous events are available on [the Korea Logic Day website](https://korea
 
 ### Tutorial Talk
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University : _Projective Fraisse limits and profinite groups_
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University : _Introduction to continuous logic_
 
 ### Invited Talks
 
