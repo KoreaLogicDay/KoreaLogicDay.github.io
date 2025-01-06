@@ -78,20 +78,20 @@ The abstracts can be found [here](abstracts).
 | January, 13th, Monday | - | - |
 | 14:00-14:20       | -        | _Registration_ |
 | 14:20-14:30       | -        | _Opening Remark_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 1 Projective Fraisse limits and profinite groups_ |
+| 14:30-15:45 | Shichang Song | _Tutorial 1 Introduction to continuous logic_ |
 | 15:45-16:00 | - | _Break_ |
 | 16:00-17:00 | Sewon Park | _Real functions are continuous, continuously, computationally_ |
 | 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
 | 18:30- | - | _Dinner_  |
 | January, 14th, Tuesday | - | - |
-| 09:00-10:15 | Shichang Song | _Tutorial 2 Projective Fraisse limits and profinite groups_  | 
+| 09:00-10:15 | Shichang Song | _Tutorial 2 Introduction to continuous logic_  | 
 | 10:15-10:30 | - | _Break_ |
 | 10:30-11:00 | Yeon-Hong Kim | _Standard completeness of weak-u-associative uninorm logics_ |
 | 11:00-11:30 | Jisun Baek | _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ |
 | 11:30-12:00 | Min Cheol Seo | _Multi-Agent Simulative Belief Ascription_ |
 | 12:00-12:30 | Kijeong Lim | _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ |
 | 12:30-14:30 | - | _Lunch Break_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 3 Projective Fraisse limits and profinite groups_ |
+| 14:30-15:45 | Shichang Song | _Tutorial 3 Introduction to continuous logic_ |
 | 15:45-16:00 | - | _Break_ |
 | 16:00-17:00 | Dongwoo Kim | _Reference and Analysis in Frege_ |
 | 17:00-18:00 | - | _KAML Buisness Meeting_ |
