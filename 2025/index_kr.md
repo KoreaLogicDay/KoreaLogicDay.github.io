@@ -46,7 +46,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 튜토리얼 발표
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교 : _Projective Fraisse limits and profinite groups_
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교 : _Introduction to continuous logic_
 
 ### 초청 발표
 
