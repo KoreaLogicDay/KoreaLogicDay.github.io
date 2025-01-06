@@ -17,9 +17,9 @@ primary_links:
 
 ## Tutorial Talk
 
-### Shichang Song : _Projective Fraisse limits and profinite groups_
+### Shichang Song : _Introduction to continuous logic_
 
-We show that the projective Fraisse limit of the class of finite groups is the free profinite group on a countably infinite set converging to 1. Also, we prove that its automorphism group has ample generics. Joint work with Sulin Hu.
+We give a brief introduction to continuous model theory. Continuous logic is a continueous version of first order logic, which was developed twenty years ago by Ben Yaacov, Berenstein, Henson, and Usvyatsov.The set of truth values in continuous logic is the interval [0,1] instead of the truth values {True,False} in classical logic. Also, the two quantifiers are sup and inf. Continuous logic still satisfies the compactness theorem, Lowenheim-Skolem theorems, existence of saturated and homogeneous models. During this tutorial talk, we will introduce syntax and semantics of continuous logic, ultraproduct constructions, types, definibility, and stability. At the end, we present some examples.
 
 ## Invited Talks
 
