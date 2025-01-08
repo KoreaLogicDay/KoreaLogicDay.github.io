@@ -79,26 +79,26 @@ The abstracts can be found [here](abstracts).
 |:-           |:-       |:-                               |
 | 14:00-14:20       | -        | _Registration_ |
 | 14:20-14:30       | -        | _Opening Remark_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 1 Introduction to continuous logic_ |
+| 14:30-15:45 | Shichang Song | [_Tutorial 1 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic) |
 | 15:45-16:00 | - | _Break_ |
-| 16:00-17:00 | Sewon Park | _Real functions are continuous, continuously, computationally_ |
-| 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
+| 16:00-17:00 | Sewon Park | [_Real functions are continuous, continuously, computationally_](abstracts#sewon-park--real-functions-are-continuous-continuously-computationally) |
+| 17:00-18:00 | Carl-Fredrik Nyberg Brodda | [_Some decision problems in finitely presented groups and semigroups_](abstracts#carl-fredrik-nyberg-brodda--some-decision-problems-in-finitely-presented-groups-and-semigroups) |
 | 18:30- | - | _Dinner_  |
 
 ### Tuesday, January 14 
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| 09:00-10:15 | Shichang Song | _Tutorial 2 Introduction to continuous logic_  | 
+| 09:00-10:15 | Shichang Song | [_Tutorial 2 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic)  | 
 | 10:15-10:30 | - | _Break_ |
-| 10:30-11:00 | Yeon-Hong Kim | _Standard completeness of weak-u-associative uninorm logics_ |
-| 11:00-11:30 | Jisun Baek | _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ |
-| 11:30-12:00 | Min Cheol Seo | _Multi-Agent Simulative Belief Ascription_ |
-| 12:00-12:30 | Kijeong Lim | _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ |
+| 10:30-11:00 | Yeon-Hong Kim | [_Standard completeness of weak-u-associative uninorm logics_](abstracts#yeonhong-kim--standard-completeness-of-weak-u-associative-uninorm-logics) |
+| 11:00-11:30 | Jisun Baek | [_Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_](abstracts#jisun-baek--graphs-on-infinite-cardinals-the-erdős-dushnik-miller-theorem) |
+| 11:30-12:00 | Min Cheol Seo | [_Multi-Agent Simulative Belief Ascription_](abstracts#min-cheol-seo--multi-agent-simulative-belief-ascription) |
+| 12:00-12:30 | Kijeong Lim | [_고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_](abstracts#kijeong-lim--고전일차논리의-새로운-coq-형식화와-건전성-및-완전성-정리의-증명) |
 | 12:30-14:30 | - | _Lunch Break_ |
-| 14:30-15:45 | Shichang Song | _Tutorial 3 Introduction to continuous logic_ |
+| 14:30-15:45 | Shichang Song | [_Tutorial 3 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic) |
 | 15:45-16:00 | - | _Break_ |
-| 16:00-17:00 | Dongwoo Kim | _Reference and Analysis in Frege_ |
+| 16:00-17:00 | Dongwoo Kim | [_Reference and Analysis in Frege_](abstracts#dongwoo-kim--reference-and-analysis-in-frege) |
 | 17:00-18:00 | - | _KAML Buisness Meeting_ |
 | 18:30- | - | _Banquet_ |
 
@@ -106,9 +106,9 @@ The abstracts can be found [here](abstracts).
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| 10:00-11:00 | Hanul Jeon | _On proof-theoretic dilator and Pohlers' characteristic ordinals_ |
+| 10:00-11:00 | Hanul Jeon | [_On proof-theoretic dilator and Pohlers' characteristic ordinals_](abstracts#hanul-jeon--on-proof-theoretic-dilator-and-pohlers-characteristic-ordinals) |
 | 11:00-11:15 | - | _Break_ |
-| 11:15-12:15 | Seungrak Choi | _Formalizing intuitionistic negations in natural deduction system_ |
+| 11:15-12:15 | Seungrak Choi | [_Formalizing intuitionistic negations in natural deduction system_](abstracts#seungrak-choi--formalizing-intuitionistic-negations-in-natural-deduction-system) |
 | 12:15-12:30 | - | _Group Photo_ |
 
 ## Participant Application
