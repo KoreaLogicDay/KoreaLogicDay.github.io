@@ -69,9 +69,10 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ## 일정
 
+### 1월 13일 월요일
+
 |             | 발표자 | 발표제목                            |                    
 |:-           |:-       |:-                               |
-| 1월 13일 월요일 | - | - |
 | 14:00-14:20       | -        | _등록_ |
 | 14:20-14:30       | -        | _개회_ |
 | 14:30-15:45 | Shichang Song | _Tutorial 1 Introduction to continuous logic_ |
@@ -79,7 +80,11 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 | 16:00-17:00 | 박세원 | _Real functions are continuous, continuously, computationally_ |
 | 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
 | 18:30- | - | _저녁_  |
-| 1월 14일 화요일 | - | - |
+
+### 1월 14일 화요일
+
+|             | 발표자 | 발표제목                            |                    
+|:-           |:-       |:-                               |
 | 09:00-10:15 | Shichang Song | _Tutorial 2 Introduction to continuous logic_  | 
 | 10:15-10:30 | - | _휴식시간_ |
 | 10:30-11:00 | 김연홍 | _Standard completeness of weak-u-associative uninorm logics_ |
@@ -92,7 +97,11 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 | 16:00-17:00 | 김동우 | _Reference and Analysis in Frege_ |
 | 17:00-18:00 | - | _대한수리논리학회 회의_ |
 | 18:30- | - | _연회_ |
-| 1월 15일 수요일 | - | - |
+
+### 1월 15일 수요일
+
+|             | 발표자 | 발표제목                            |                    
+|:-           |:-       |:-                               |
 | 10:00-11:00 | 전한울 | _On proof-theoretic dilator and Pohlers' characteristic ordinals_ |
 | 11:00-11:15 | - | _휴식시간_ |
 | 11:15-12:15 | 최승락 | _Formalizing intuitionistic negations in natural deduction system_ |
