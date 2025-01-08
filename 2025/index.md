@@ -73,9 +73,10 @@ The abstracts can be found [here](abstracts).
 
 ## Schedule 
 
+### January 13th, Monday
+
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
-| January, 13th, Monday | - | - |
 | 14:00-14:20       | -        | _Registration_ |
 | 14:20-14:30       | -        | _Opening Remark_ |
 | 14:30-15:45 | Shichang Song | _Tutorial 1 Introduction to continuous logic_ |
@@ -83,7 +84,11 @@ The abstracts can be found [here](abstracts).
 | 16:00-17:00 | Sewon Park | _Real functions are continuous, continuously, computationally_ |
 | 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
 | 18:30- | - | _Dinner_  |
-| January, 14th, Tuesday | - | - |
+
+### January 14th, Tuesday
+
+|             | Speaker | Talk                            |                    
+|:-           |:-       |:-                               |
 | 09:00-10:15 | Shichang Song | _Tutorial 2 Introduction to continuous logic_  | 
 | 10:15-10:30 | - | _Break_ |
 | 10:30-11:00 | Yeon-Hong Kim | _Standard completeness of weak-u-associative uninorm logics_ |
@@ -96,7 +101,11 @@ The abstracts can be found [here](abstracts).
 | 16:00-17:00 | Dongwoo Kim | _Reference and Analysis in Frege_ |
 | 17:00-18:00 | - | _KAML Buisness Meeting_ |
 | 18:30- | - | _Banquet_ |
-| January, 15th, Wednesday | - | - |
+
+### January 15th, Wednesday
+
+|             | Speaker | Talk                            |                    
+|:-           |:-       |:-                               |
 | 10:00-11:00 | Hanul Jeon | _On proof-theoretic dilator and Pohlers' characteristic ordinals_ |
 | 11:00-11:15 | - | _Break_ |
 | 11:15-12:15 | Seungrak Choi | _Formalizing intuitionistic negations in natural deduction system_ |
