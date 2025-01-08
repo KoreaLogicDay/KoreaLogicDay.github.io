@@ -73,7 +73,7 @@ The abstracts can be found [here](abstracts).
 
 ## Schedule 
 
-### January 13th, Monday
+### Monday, January 13
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
@@ -85,7 +85,7 @@ The abstracts can be found [here](abstracts).
 | 17:00-18:00 | Carl-Fredrik Nyberg Brodda | _Some decision problems in finitely presented groups and semigroups_ |
 | 18:30- | - | _Dinner_  |
 
-### January 14th, Tuesday
+### Tuesday, January 14 
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
@@ -102,7 +102,7 @@ The abstracts can be found [here](abstracts).
 | 17:00-18:00 | - | _KAML Buisness Meeting_ |
 | 18:30- | - | _Banquet_ |
 
-### January 15th, Wednesday
+### Wednesday, January 15
 
 |             | Speaker | Talk                            |                    
 |:-           |:-       |:-                               |
