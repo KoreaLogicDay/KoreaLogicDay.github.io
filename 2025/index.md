@@ -79,6 +79,7 @@ The abstracts can be found [here](abstracts).
 |:-           |:-       |:-                               |
 | 14:00-14:20       | -        | _Registration_ |
 | 14:20-14:30       | -        | _Opening Remark_ |
+| - | - | _Session 1 Chair:_ Junguk Lee (Changwon National University) |
 | 14:30-15:45 | Shichang Song | [_Tutorial 1 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic) |
 | 15:45-16:00 | - | _Break_ |
 | 16:00-17:00 | Sewon Park | [_Real functions are continuous, continuously, computationally_](abstracts#sewon-park--real-functions-are-continuous-continuously-computationally) |
