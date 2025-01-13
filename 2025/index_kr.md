@@ -75,6 +75,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 |:-           |:-       |:-                               |
 | 14:00-14:20       | -        | _등록_ |
 | 14:20-14:30       | -        | _개회_ |
+| - | - | _세션 1 좌장:_ 이정욱 (국립창원대학) |
 | 14:30-15:45 | Shichang Song | [_Tutorial 1 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic) |
 | 15:45-16:00 | - | _휴식시간_ |
 | 16:00-17:00 | 박세원 | [_Real functions are continuous, continuously, computationally_](abstracts#박세원--real-functions-are-continuous-continuously-computationally) |
@@ -85,6 +86,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 |             | 발표자 | 발표제목                            |                    
 |:-           |:-       |:-                               |
+| - | - | _세션 2 좌장:_ 이효윤 (서강대학교) |
 | 09:00-10:15 | Shichang Song | [_Tutorial 2 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic)  | 
 | 10:15-10:30 | - | _휴식시간_ |
 | 10:30-11:00 | 김연홍 | [_Standard completeness of weak-u-associative uninorm logics_](abstracts#김연홍--약-u-결합-유니놈-논리의-표준-완전성) |
@@ -92,6 +94,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 | 11:30-12:00 | 서민철 | [_Multi-Agent Simulative Belief Ascription_](abstracts#서민철--multi-agent-simulative-belief-ascription) |
 | 12:00-12:30 | 임기정 | [_고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_](abstracts#임기정--고전일차논리의-새로운-coq-형식화와-건전성-및-완전성-정리의-증명) |
 | 12:30-14:30 | - | _점심_ |
+| - | - | _세션 3 좌장:_ 김준희 (고등과학원) |
 | 14:30-15:45 | Shichang Song | [_Tutorial 3 Introduction to continuous logic_](abstracts#shichang-song--introduction-to-continuous-logic) |
 | 15:45-16:00 | - | _휴식시간_ |
 | 16:00-17:00 | 김동우 | [_Reference and Analysis in Frege_](abstracts#김동우--reference-and-analysis-in-frege) |
@@ -102,6 +105,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 |             | 발표자 | 발표제목                            |                    
 |:-           |:-       |:-                               |
+| - | - | _세션 4 좌장:_ 안진후 (국립창원대학) |
 | 10:00-11:00 | 전한울 | [_On proof-theoretic dilator and Pohlers' characteristic ordinals_](abstracts#전한울--on-proof-theoretic-dilator-and-pohlers-characteristic-ordinals) |
 | 11:00-11:15 | - | _휴식시간_ |
 | 11:15-12:15 | 최승락 | [_Formalizing intuitionistic negations in natural deduction system_](abstracts#최승락--formalizing-intuitionistic-negations-in-natural-deduction-system) |
