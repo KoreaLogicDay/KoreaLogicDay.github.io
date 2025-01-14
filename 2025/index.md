@@ -32,6 +32,9 @@ Why is January 14 for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 The previous events are available on [the Korea Logic Day website](https://korealogicday.org).
 
 
+## Mailing List
+
+During the business meeting, we decided to create a Google group as a mailing list for sharing various logic-related news in Korea, including announcements on future Logic Day events. Please consider joining the [Korea Logic Mailing List](https://groups.google.com/g/korea-logic-ml).
 
 ## Important Dates
 
