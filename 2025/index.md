@@ -73,6 +73,13 @@ During the business meeting, we decided to create a Google group as a mailing li
 
 The abstracts can be found [here](abstracts).
 
+## Group picture
+
+_A group picture of participants taken after finishing all sessions:_
+
+<p>
+<img src="https://korealogicday.org/assets/kld2025-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
+</p>
 
 ## Schedule 
 
