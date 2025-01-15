@@ -15,7 +15,7 @@ primary_links:
 
 ## 메일링 리스트
 
-한국 논리학의 날의 행사 정보를 [한국 논리 메일링 리스트](https://groups.google.com/g/korea-logic-ml)를 통해 공유드리고 있습니다. 가입하시면 앞으로의 행사 정보를 받아보실 수 있습니다. 
+한국 논리학의 날의 행사 정보를 [한국 논리 메일링 리스트](https://groups.google.com/g/korea-logic-ml/about)를 통해 공유드리고 있습니다. 가입하시면 앞으로의 행사 정보를 받아보실 수 있습니다. 
 
 
 ## 다가오는 행사

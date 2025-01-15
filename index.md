@@ -14,7 +14,7 @@ Please refer to the following lists for details on past and upcoming events.
 
 ## Mailing list
 
-We share announcements about future Korea Logic Day events through the [Korea Logic Mailing List](https://groups.google.com/g/korea-logic-ml), a Google group for sharing logic-related news in Korea. Please consider joining the group.
+We share announcements about future Korea Logic Day events through the [Korea Logic Mailing List](https://groups.google.com/g/korea-logic-ml/about), a Google group for sharing logic-related news in Korea. Please consider joining the group.
 
 ## Upcoming events
 
