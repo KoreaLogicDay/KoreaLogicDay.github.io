@@ -73,14 +73,6 @@ During the business meeting, we decided to create a Google group as a mailing li
 
 The abstracts can be found [here](abstracts).
 
-## Group picture
-
-_A group picture of participants taken after finishing all sessions:_
-
-<p>
-<img src="https://korealogicday.org/assets/kld2025-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
-</p>
-
 ## Schedule 
 
 ### Monday, January 13
@@ -162,6 +154,14 @@ After making a reservation, take an Limousine bus bound for Changwon/Masan and g
 ## Accommodation
 
 The accommodation will be provided at Grand Mercure Ambassador Changwon in Changwon, Korea. The check-in is from 15:00 on January 13th, 2025, and the check-out is until 12:00 on January 15th, 2025. For detailed information, please ask the front desk.
+
+## Group picture
+
+_A group picture of participants taken after finishing all sessions:_
+
+<p>
+<img src="https://korealogicday.org/assets/kld2025-picture.jpg" alt="2024 Korea Logic Day group picture" width="100%">
+</p>
 
 ## Organization
 
