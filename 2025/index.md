@@ -67,7 +67,7 @@ During the business meeting, we decided to create a Google group as a mailing li
 * [Yeon-Hong Kim](https://kyh155727.github.io/), Jeonbuk National University : _Standard completeness of weak-u-associative uninorm logics_ ([slides](slides/students/yeon-hong_kim.pdf))
 * Jisun Baek, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ ([slides](slides/students/jisun_baek.pdf))
 * [Min Cheol Seo](https://mincheolseo.com), Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_ ([slides](slides/students/min_cheol_seo.pdf))
-* Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ ([slides](slides/kijeong_lim.pdf))
+* Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ ([slides](slides/students/kijeong_lim.pdf))
 
 ## Talk Abstracts
 
