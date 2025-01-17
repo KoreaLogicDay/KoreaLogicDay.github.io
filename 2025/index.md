@@ -50,24 +50,24 @@ During the business meeting, we decided to create a Google group as a mailing li
 
 ### Tutorial Talk
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University : _Introduction to continuous logic_
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), Beijing Jiaotong University : _Introduction to continuous logic_ ([slides1](slides/tutorial/shichang_song_1.pdf), [slides2](slides/tutorial/shichang_song_2.pdf), [slides3](slides/tutorial/shichang_song_3.pdf))
 
 ### Invited Talks
 
-* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS : _Some decision problems in finitely presented groups and semigroups_
-* [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University : _Formalizing intuitionistic negations in natural deduction system_
-* [Hanul Jeon](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_
+* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), KIAS : _Some decision problems in finitely presented groups and semigroups_ ([slides](slides/invited/CFNB_slides.pdf))
+* [Seungrak Choi](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), Hallym University : _Formalizing intuitionistic negations in natural deduction system_ ([slides](slides/invited/seungrak_choi.pdf))
+* [Hanul Jeon](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_ ([slides](slides/invited/hanul_jeon.pdf))
 * [Dongwoo Kim](https://dongwookim.org/), KAIST : _Reference and Analysis in Frege_
-* [Sewon Park](https://sewonpark.com), Kyoto University : _Real functions are continuous, continuously, computationally_
+* [Sewon Park](https://sewonpark.com), Kyoto University : _Real functions are continuous, continuously, computationally_ ([slides](slides/invited/sewon_park_slides.pdf))
 
 
 
 ### Student Talks
 
-* [Yeon-Hong Kim](https://kyh155727.github.io/), Jeonbuk National University : _Standard completeness of weak-u-associative uninorm logics_
-* Jisun Baek, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
-* [Min Cheol Seo](https://mincheolseo.com), Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_
-* Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
+* [Yeon-Hong Kim](https://kyh155727.github.io/), Jeonbuk National University : _Standard completeness of weak-u-associative uninorm logics_ ([slides](slides/students/yeon-hong_kim.pdf))
+* Jisun Baek, Yonsei University : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ ([slides](slides/students/jisun_baek.pdf))
+* [Min Cheol Seo](https://mincheolseo.com), Sungkyunkwan University : _Multi-Agent Simulative Belief Ascription_ ([slides](slides/students/min_cheol_seo.pdf))
+* Kijeong Lim, Chonnam National University : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ ([slides](slides/kijeong_lim.pdf))
 
 ## Talk Abstracts
 

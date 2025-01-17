@@ -51,22 +51,22 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 튜토리얼 발표
 
-* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교 : _Introduction to continuous logic_
+* [Shichang Song](https://faculty.bjtu.edu.cn/8629/), 베이징교통대학교 : _Introduction to continuous logic_ ([발표자료1](slides/tutorial/shichang_song_1.pdf), [발표자료2](slides/tutorial/shichang_song_2.pdf), [발표자료3](slides/tutorial/shichang_song_3.pdf))
 
 ### 초청 발표
 
-* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), 고등과학원 : _Some decision problems in finitely presented groups and semigroups_
+* [Carl-Fredrik Nyberg Brodda](https://sites.google.com/view/cf-nb/), 고등과학원 : _Some decision problems in finitely presented groups and semigroups_ ([발표자료](slides/invited/CFNB_slides.pdf))
 * [김동우](https://dongwookim.org/), 한국과학기술원 : _Reference and Analysis in Frege_
-* [박세원](https://sewonpark.com), 교토대학교 : _Real functions are continuous, continuously, computationally_
-* [전한울](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_
-* [최승락](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), 한림대학교 :  _Formalizing intuitionistic negations in natural deduction system_
+* [박세원](https://sewonpark.com), 교토대학교 : _Real functions are continuous, continuously, computationally_ ([발표자료](slides/invited/sewon_park_slides.pdf))
+* [전한울](https://hanuljeon95.github.io), Cornell University : _On proof-theoretic dilator and Pohlers' characteristic ordinals_ ([발표자료](slides/invited/hanul_jeon.pdf))
+* [최승락](https://scholar.google.com/citations?user=fdL0KJsAAAAJ&hl=en), 한림대학교 :  _Formalizing intuitionistic negations in natural deduction system_ ([발표자료](slides/invited/seungrak_choi.pdf))
 
 ### 학생 발표
 
-* [김연홍](https://kyh155727.github.io/), 전북대학교 : _약-u-결합 유니놈 논리의 표준 완전성_
-* 백지선, 연세대학교 : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_
-* [서민철](https://mincheolseo.com), 성균관대학교 : _Multi-Agent Simulative Belief Ascription_
-* 임기정, 전남대학교 : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_
+* [김연홍](https://kyh155727.github.io/), 전북대학교 : _약-u-결합 유니놈 논리의 표준 완전성_ ([발표자료](slides/students/yeon-hong_kim.pdf))
+* 백지선, 연세대학교 : _Graphs on Infinite Cardinals: The Erdős-Dushnik-Miller theorem_ ([발표자료](slides/students/jisun_baek.pdf))
+* [서민철](https://mincheolseo.com), 성균관대학교 : _Multi-Agent Simulative Belief Ascription_ ([발표자료](slides/students/min_cheol_seo.pdf))
+* 임기정, 전남대학교 : _고전일차논리의 새로운 Coq 형식화와 건전성 및 완전성 정리의 증명_ ([발표자료](slides/kijeong_lim.pdf))
 
 ## 발표 초록
 
