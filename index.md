@@ -18,16 +18,17 @@ We share announcements about future Korea Logic Day events through the [Korea Lo
 
 ## Upcoming events
 
-- [The Fourth Korea Logic Day 2025](2025) (January 13 - 15, 2025 • Changwon, Republic of Korea)
+- [The Fifth Korea Logic Day 2026](2026) (January 14, 2026 • Daejeon, Republic of Korea)
 
 <div style="text-align: center;">
-<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+<img src="https://korealogicday.org/assets/2026_banner.jpg" alt="KAIST Library Image" width="80%">
 <br />
-<i>Junam Reservoir, © Changwon City Hall - Changwon Tour</i>
+<i>KAIST, © KAIST Library</i>
 </div>
 
 ## Previous events
 
+- [The Fourth Korea Logic Day 2025](2025) (January 13 - 15, 2025 • Changwon, Republic of Korea)
 - [The Third Korea Logic Day 2024](2024) (January 12, 2024 • Online)
 - [The Second Korea Logic Day 2022](2022) (January 14, 2022 • Online)
 - [The First Korea Logic Day 2021](2021) (January 14, 2021 • Online)

@@ -20,16 +20,17 @@ primary_links:
 
 ## 다가오는 행사
 
-- [제4회 한국 논리학의 날 2025](2025) (2025년 1월 13일 ~ 15일 • 창원)
+- [제5회 한국 논리학의 날 2026](2026) (2026년 1월 14일 • 대전)
 
 <div style="text-align: center;">
-<img src="https://korealogicday.org/assets/2025_banner.jpeg" alt="Changwon tourism Image" width="80%">
+<img src="https://korealogicday.org/assets/2026_banner.jpg" alt="KAIST Library Image" width="80%">
 <br />
-<i>주남저수지, © 창원시청 - 창원관광</i>
+<i>카이스트, © 카이스트 도서관</i>
 </div>
 
 ## 지난 행사
 
+- [제4회 한국 논리학의 날 2025](2025) (2025년 1월 13일 ~ 15일 • 창원)
 - [제3회 한국 논리학의 날 2024](2024) (2024년 1월 12일 • 온라인)
 - [제2회 한국 논리학의 날 2022](2022) (2022년 1월 14일 • 온라인)
 - [제1회 한국 논리학의 날 2021](2021) (2021년 1월 14일 • 온라인)
