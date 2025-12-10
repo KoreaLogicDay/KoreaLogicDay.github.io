@@ -105,7 +105,7 @@ _공개 예정_
 - [박세원](https://sewonpark.com/), IMFM, 류블랴나, 슬로베니아  
 - [이정욱](https://sites.google.com/site/leejunguk0323/home), 국립창원대학교, 창원
 - [이효윤](https://sites.google.com/view/hyoyoonlee/home), 서강대학교, 서울
-- [최승락](https://philpeople.org/profiles/seungrak-choi), 한림대학교, 춘천
+- [최승락](https://sites.google.com/view/school-of-logic/), 한림대학교, 춘천
 
 행사 관련 문의: [dw.kim@kaist.ac.kr](mailto:dw.kim@kaist.ac.kr) (김동우)
 

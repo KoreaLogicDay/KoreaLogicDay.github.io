@@ -96,7 +96,7 @@ The event is organized by the following institutions:
 
 and by the following organizers:
 
-- [Seungrak Choi](https://philpeople.org/profiles/seungrak-choi), Hallym University, Chuncheon, Korea  
+- [Seungrak Choi](https://sites.google.com/view/school-of-logic/), Hallym University, Chuncheon, Korea  
 - [Dongwoo Kim](https://dongwookim.org/), KAIST, Daejeon, Korea  
 - [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Sogang University, Seoul, Korea  
 - [Junguk Lee](https://sites.google.com/site/leejunguk0323/home), Changwon National University, Changwon, Korea  
