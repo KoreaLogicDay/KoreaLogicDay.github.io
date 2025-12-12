@@ -62,9 +62,13 @@ TBA
 
 ## Schedule 
 
+The event will take place on __January 14th, 2026__.
 
-The event will take place on **January 14th, 2026**, with presentations scheduled from **12 PM to 6 PM**, followed by a banquet that will continue **until approximately 8 PM**. A detailed schedule will be announced soon. There is no fee for the banquet, but please indicate whether you will attend when registering.
+- Talks are scheduled from 1 PM to 6 PM.
+- For those arriving early, a light lunch (sandwiches) will be available for networking from 12 PM.
+- After the talks, there will be a banquet until approximately 8 PM.
 
+A detailed schedule will be announced soon. There is no fee for the banquet, but please indicate whether you will attend when registering.
 
 ## Registration
 
