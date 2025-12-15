@@ -45,16 +45,15 @@ This year's event will be held under the theme: "Logic in the Age of AI: Themes 
 
 ### Invited Talks
 
-* [Jineon Baek](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002), KIAS
-* [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Sogang University
+* [Jineon Baek](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (KIAS): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_
+* [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University): _"Model theoretic approaches to Szemerédi's regularity lemma"_
 * _(more TBC)_
 
 ### Invited Talks (Students)
 
 * Il Young Jeong, UNIST
-* [Min Cheol Seo](https://mincheolseo.com), Sungkyunkwan University
-* [Taeyoung Yoon](https://sf.snu.ac.kr/taeyoung.yoon/), Seoul National University
-
+* [Min Cheol Seo](https://mincheolseo.com) (Sungkyunkwan University): _"Mathematical Structuralism and the Univalent Foundations"_
+* [Taeyoung Yoon](https://sf.snu.ac.kr/taeyoung.yoon/) (Seoul National University): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_
 
 ## Talk Abstracts
 
