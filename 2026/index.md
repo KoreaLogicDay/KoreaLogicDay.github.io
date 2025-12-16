@@ -51,7 +51,7 @@ This year's event will be held under the theme: "Logic in the Age of AI: Themes 
 
 ### Invited Talks (Students)
 
-* Il Young Jeong, UNIST
+* Il Young Jeong (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_
 * [Min Cheol Seo](https://mincheolseo.com) (Sungkyunkwan University): _"Mathematical Structuralism and the Univalent Foundations"_
 * [Taeyoung Yoon](https://sf.snu.ac.kr/taeyoung.yoon/) (Seoul National University): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_
 

@@ -54,7 +54,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 * [서민철](https://mincheolseo.com) (성균관대학교): _"Mathematical Structuralism and the Univalent Foundations"_
 * [윤태영](https://sf.snu.ac.kr/taeyoung.yoon/) (서울대학교): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_
-* 정일영 (UNIST)
+* 정일영 (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_
 
 
 ## 발표 초록
