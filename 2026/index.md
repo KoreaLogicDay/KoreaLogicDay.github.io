@@ -47,7 +47,7 @@ This year's event will be held under the theme: "Logic in the Age of AI: Themes 
 
 * [Jineon Baek](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (KIAS): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_
 * [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University): _"Model theoretic approaches to Szemerédi's regularity lemma"_
-* _(more TBC)_
+* [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University): _"Towards universal logic: Some examples"_
 
 ### Invited Talks (Students)
 

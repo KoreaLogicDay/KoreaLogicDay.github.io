@@ -47,8 +47,9 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 ### 초청 발표
 
 * [백진언](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (고등과학원): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_
+* [양은석](https://philpeople.org/profiles/eunsuk-yang) (전북대학교): _"Towards universal logic: Some examples"_
 * [이효윤](https://sites.google.com/view/hyoyoonlee/home) (서강대학교): _"Model theoretic approaches to Szemerédi's regularity lemma"_
-* _(추가 확정 예정)_
+
 
 ### 초청 발표 (학생)
 
