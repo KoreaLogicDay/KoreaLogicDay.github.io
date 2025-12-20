@@ -57,7 +57,7 @@ This year's event will be held under the theme: "Logic in the Age of AI: Themes 
 
 ## Talk Abstracts
 
-TBA
+The abstracts can be found [here](abstracts).
 
 ## Schedule 
 

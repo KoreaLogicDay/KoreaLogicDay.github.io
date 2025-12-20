@@ -14,7 +14,6 @@ primary_links:
  - 
   link: /2026/
   name: English
-draft: true
 ---
 
 <div style="text-align: center;">
@@ -60,7 +59,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ## 발표 초록
 
-_공개 예정_
+[발표 초록 링크](abstracts)
 
 ## 일정
 
