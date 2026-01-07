@@ -65,9 +65,24 @@ The event will take place on __January 14th, 2026__.
 
 - Talks are scheduled **from 1 PM to 6 PM**.
 - There will be a networking session **from 12 PM**. A light lunch (sandwiches) will be provided.
-- After the talks, there will be a banquet until approximately 8 PM.
+- After the talks, there will be a banquet until approximately 8 PM. There is no fee for the banquet, but please indicate whether you will attend when registering.
 
-A detailed schedule will be announced soon. There is no fee for the banquet, but please indicate whether you will attend when registering.
+The talks are scheduled as follows:
+
+|             | Speaker | Talk                            |                    
+|:-           |:-       |:-                               |
+| 12:50-13:00 | - | Opening remarks | 
+| 13:00-13:45 | Jineon Baek | _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_ |
+| 13:50-14:35 | Eunsuk Yang | _"Towards universal logic: Some examples"_ |
+| 14:40-15:25 | Hyoyoon Lee | _"Model theoretic approaches to Szemerédi's regularity lemma"_ |
+| | | |
+| 15:35-16:10 | Min Cheol Seo | _"Mathematical Structuralism and the Univalent Foundations"_ |
+| 16:10-16:45 | Taeyoung Yoon | _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_ |
+| 16:45-17:20 | Il Young Jeong | _"Fraïssé Classes and the First-Order Limit Property"_ |
+| | | |
+| 17:30-18:00 | | Business meeting and group photo |
+
+※ The presentation times include 5 minutes of Q&A.
 
 ## Registration
 
