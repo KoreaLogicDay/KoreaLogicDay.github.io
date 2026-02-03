@@ -91,7 +91,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 행사 참가를 위해서는 **2026년 1월 5일까지** 등록이 필요합니다.
 
-등록 주소: [https://docs.google.com/forms/d/e/1FAIpQLScIz32zS-PwApobhxtLYc_x9uDX6KXLtRZ-HBe-exSPmMLALA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScIz32zS-PwApobhxtLYc_x9uDX6KXLtRZ-HBe-exSPmMLALA/viewform)
+등록 주소: _등록 마감_
 
 
 ## 장소

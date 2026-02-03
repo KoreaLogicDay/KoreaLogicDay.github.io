@@ -86,7 +86,7 @@ The talks are scheduled as follows:
 
 ## Registration
 
-To participate in the event, please complete your registration [using this form](https://docs.google.com/forms/d/e/1FAIpQLScIz32zS-PwApobhxtLYc_x9uDX6KXLtRZ-HBe-exSPmMLALA/viewform) by **January 5, 2026**.
+To participate in the event, please complete your registration by **January 5, 2026**.
 
 
 ## Venue 
