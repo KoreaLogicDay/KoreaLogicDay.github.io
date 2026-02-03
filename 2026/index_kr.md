@@ -106,6 +106,12 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 카이스트 [홈페이지](https://www.kaist.ac.kr/kr/html/kaist/01140301.html) 에서 확인할 수 있습니다. 
 
+## 참가자
+
+_등록된 참가자 목록:_
+
+강동휘 (UNIST), 구준모, 권순태, 김수겸 (한양대학교 철학과 학부), [김연홍 (전북대학교)](https://kyh155727.github.io/), 김이현 (연세대학교), 김장언 (동국대학교 대학원 철학과), 김준희 (고등과학원), 김진영 (서울대학교), 김형준 (UNIST), 도영민 (UNIST), 문순원 (서울대학교), 문재원 (KAIST), [박성수 (성균관대학교)](https://sites.google.com/site/seongsooparkphilosophy/), 박찬진 (UNIST), 박채린 (성균관대학교), 손승윤 (연세대학교), 양승연 (KAIST), 양은석 (전북대 철학과), 여영서 (동덕여자대학교), [우인진 (성균관대학교)](injin-woo-phil.github.io), 유제인 (KAIST), 이명환 (한양대학교), 이예빈 (인하대학교), 이윤호, 이정욱 (국립창원대학교), 이지현, 이청명 (서울대학교), [이효윤 (서강대학교)](https://sites.google.com/view/hyoyoonlee), 임기정 (연세대학교), 정정민 (전북대학교 철학과), 정정민, 최원범 (경희대학교), 최정담 (한국과학기술원), 현지훈 (KAIST), [Alexander Stoimenov](http://stoimenov.net/stoimeno/homepage), [Yvon Bossut (Changwon National University)](https://sites.google.com/view/bossut-math/accueil) 외 10 인.
+
 
 ## 주최 및 주관
 
@@ -129,6 +135,8 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 - [최승락](https://sites.google.com/view/school-of-logic/), 한림대학교, 춘천
 
 행사 관련 문의: [dw.kim@kaist.ac.kr](mailto:dw.kim@kaist.ac.kr) (김동우)
+
+
 
 ## 지원
 

@@ -99,6 +99,14 @@ The auditorium located on the ground floor of [the School of Digital Humanities 
 
 Access information for the venue can be found [here](https://www.kaist.ac.kr/en/html/kaist/01200201.html)
 
+
+## Participants
+
+_List of registered participants:_
+
+강동휘 (UNIST), 구준모, 권순태, 김수겸 (한양대학교 철학과 학부), [김연홍 (전북대학교)](https://kyh155727.github.io/), 김이현 (연세대학교), 김장언 (동국대학교 대학원 철학과), 김준희 (고등과학원), 김진영 (서울대학교), 김형준 (UNIST), 도영민 (UNIST), 문순원 (서울대학교), 문재원 (KAIST), [박성수 (성균관대학교)](https://sites.google.com/site/seongsooparkphilosophy/), 박찬진 (UNIST), 박채린 (성균관대학교), 손승윤 (연세대학교), 양승연 (KAIST), 양은석 (전북대 철학과), 여영서 (동덕여자대학교), [우인진 (성균관대학교)](injin-woo-phil.github.io), 유제인 (KAIST), 이명환 (한양대학교), 이예빈 (인하대학교), 이윤호, 이정욱 (국립창원대학교), 이지현, 이청명 (서울대학교), [이효윤 (서강대학교)](https://sites.google.com/view/hyoyoonlee), 임기정 (연세대학교), 정정민 (전북대학교 철학과), 정정민, 최원범 (경희대학교), 최정담 (한국과학기술원), 현지훈 (KAIST), [Alexander Stoimenov](http://stoimenov.net/stoimeno/homepage), [Yvon Bossut (Changwon National University)](https://sites.google.com/view/bossut-math/accueil) plus 10 additional participants.
+
+
 ## Organization
 
 The Fifth Korea Logic Day 2026 is hosted by the following institutions:
@@ -121,6 +129,7 @@ and by the following organizers:
 - [Sewon Park](https://sewonpark.com/), IMFM, Ljubljana, Slovenia  
 
 For local information, please contact **Dongwoo Kim** at [dw.kim@kaist.ac.kr](mailto:dw.kim@kaist.ac.kr).
+
 
 
 ## Financial Support
