@@ -45,16 +45,16 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 초청 발표
 
-* [백진언](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (고등과학원): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_
+* [백진언](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (고등과학원): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_ ([발표자료](slides/발표자료_백진언.pdf))
 * [양은석](https://philpeople.org/profiles/eunsuk-yang) (전북대학교): _"Towards universal logic: Some examples"_
-* [이효윤](https://sites.google.com/view/hyoyoonlee/home) (서강대학교): _"Model theoretic approaches to Szemerédi's regularity lemma"_
+* [이효윤](https://sites.google.com/view/hyoyoonlee/home) (서강대학교): _"Model theoretic approaches to Szemerédi's regularity lemma"_ ([발표자료](slides/발표자료_이효윤.pdf))
 
 
 ### 초청 발표 (학생)
 
-* [서민철](https://mincheolseo.com) (성균관대학교): _"Mathematical Structuralism and the Univalent Foundations"_
-* [윤태영](https://sf.snu.ac.kr/taeyoung.yoon/) (서울대학교): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_
-* 정일영 (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_
+* [서민철](https://mincheolseo.com) (성균관대학교): _"Mathematical Structuralism and the Univalent Foundations"_ ([발표자료](slides/발표자료_서민철.pdf))
+* [윤태영](https://sf.snu.ac.kr/taeyoung.yoon/) (서울대학교): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_ ([발표자료](slides/발표자료_윤태영.pdf))
+* 정일영 (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_ ([발표자료](slides/발표자료_정일영.pdf))
 
 
 ## 발표 초록

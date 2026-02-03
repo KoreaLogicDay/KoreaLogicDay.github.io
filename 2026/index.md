@@ -45,15 +45,15 @@ This year's event will be held under the theme: "Logic in the Age of AI: Themes 
 
 ### Invited Talks
 
-* [Jineon Baek](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (KIAS): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_
-* [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University): _"Model theoretic approaches to Szemerédi's regularity lemma"_
+* [Jineon Baek](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=11050&trget=listFaculty&menuNo=408002) (KIAS): _"수학 연구에 쓰이는 공리들은 얼마나 당연한가?"_ ([slides](slides/발표자료_백진언.pdf))
+* [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University): _"Model theoretic approaches to Szemerédi's regularity lemma"_ ([slides](slides/발표자료_이효윤.pdf))
 * [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University): _"Towards universal logic: Some examples"_
 
 ### Invited Talks (Students)
 
-* Il Young Jeong (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_
-* [Min Cheol Seo](https://mincheolseo.com) (Sungkyunkwan University): _"Mathematical Structuralism and the Univalent Foundations"_
-* [Taeyoung Yoon](https://sf.snu.ac.kr/taeyoung.yoon/) (Seoul National University): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_
+* Il Young Jeong (UNIST): _"Fraïssé Classes and the First-Order Limit Property"_ ([slides](slides/발표자료_정일영.pdf))
+* [Min Cheol Seo](https://mincheolseo.com) (Sungkyunkwan University): _"Mathematical Structuralism and the Univalent Foundations"_ ([slides](slides/발표자료_서민철.pdf))
+* [Taeyoung Yoon](https://sf.snu.ac.kr/taeyoung.yoon/) (Seoul National University): _"분리논리: 프로그램의 안전성에 대한 형식 논증 체계"_ ([slides](slides/발표자료_윤태영.pdf))
 
 ## Talk Abstracts
 
