@@ -100,6 +100,16 @@ The auditorium located on the ground floor of [the School of Digital Humanities 
 Access information for the venue can be found [here](https://www.kaist.ac.kr/en/html/kaist/01200201.html)
 
 
+
+## Group picture
+
+_A group picture of participants taken after finishing all sessions:_
+
+<p>
+<img src="https://korealogicday.org/assets/kld2026-picture.jpg" alt="2026 Korea Logic Day group picture" width="100%">
+</p>
+
+
 ## Participants
 
 _List of registered participants:_

@@ -106,6 +106,15 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 카이스트 [홈페이지](https://www.kaist.ac.kr/kr/html/kaist/01140301.html) 에서 확인할 수 있습니다. 
 
+## 단체사진
+
+_폐회 후 촬영한 단체 사진입니다._
+
+<p>
+<img src="https://korealogicday.org/assets/kld2026-picture.jpg" alt="2026 Korea Logic Day group picture" width="100%">
+</p>
+
+
 ## 참가자
 
 _등록된 참가자 목록:_
