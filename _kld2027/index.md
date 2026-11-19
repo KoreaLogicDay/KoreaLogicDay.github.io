@@ -24,15 +24,11 @@ primary_links:
   - Full guide: _kld2027/README.md
 -->
 
-<!--
-  BANNER IMAGE (optional). Upload the image to the "assets" folder,
-  then delete the two comment lines around this block.
 <div style="text-align: center;">
-<img src="https://korealogicday.org/assets/2027_banner.jpg" alt="Venue image" width="80%">
+<img src="https://korealogicday.org/assets/2027_banner.jpeg" alt="Yonsei University Image" width="80%">
 <br />
-<i>Place name, © copyright holder</i>
+<i>Yonsei University, Seoul, © Seoul Tourism Organization (Visit Seoul)</i>
 </div>
--->
 
 We aim to bring logicians in Korea together and celebrate [World Logic Day](https://wld.cipsh.international), proclaimed by __UNESCO__. We will introduce the research domains of logic and discuss the diverse applications of logic in various fields.
 

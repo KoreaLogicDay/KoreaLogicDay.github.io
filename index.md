@@ -27,6 +27,12 @@ We share announcements about future Korea Logic Day events through the [Korea Lo
 - The Sixth Korea Logic Day 2027, collocated with the Set Theory Winter School (January 14 – 16, 2027 • Seoul, Republic of Korea): details will be announced soon.
 {% endif %}
 
+<div style="text-align: center;">
+<img src="https://korealogicday.org/assets/2027_banner.jpeg" alt="Yonsei University Image" width="80%">
+<br />
+<i>Yonsei University, © Seoul Tourism Organization (Visit Seoul)</i>
+</div>
+
 ## Previous events
 
 - [The Fifth Korea Logic Day 2026](2026) (January 14, 2026 • Daejeon, Republic of Korea)

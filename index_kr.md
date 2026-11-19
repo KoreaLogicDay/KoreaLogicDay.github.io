@@ -29,6 +29,12 @@ primary_links:
 - 제6회 한국 논리학의 날 2027, 집합론 겨울학교 연계 개최 (2027년 1월 14일 ~ 16일 • 서울): 자세한 내용은 추후 공지됩니다.
 {% endif %}
 
+<div style="text-align: center;">
+<img src="https://korealogicday.org/assets/2027_banner.jpeg" alt="Yonsei University Image" width="80%">
+<br />
+<i>연세대학교, © 서울관광재단 (비짓서울)</i>
+</div>
+
 ## 지난 행사
 
 - [제5회 한국 논리학의 날 2026](2026) (2026년 1월 14일 • 대전)

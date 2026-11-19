@@ -24,14 +24,11 @@ primary_links:
   - 자세한 안내: _kld2027/README.md
 -->
 
-<!--
-  배너 이미지 (선택). 이미지를 "assets" 폴더에 올린 후, 이 블록을 감싸는 주석 두 줄을 지우세요.
 <div style="text-align: center;">
-<img src="https://korealogicday.org/assets/2027_banner.jpg" alt="Venue image" width="80%">
+<img src="https://korealogicday.org/assets/2027_banner.jpeg" alt="Yonsei University Image" width="80%">
 <br />
-<i>장소 이름, © 저작권자</i>
+<i>서울 연세대학교, © 서울관광재단 (비짓서울)</i>
 </div>
--->
 
 한국 논리학자들이 다 함께 모여 세계 논리학의 날을 축하하고 논리학의 다양한 분야와 여러 분야에서의 논리학의 역할에 대해 소개하고 의견을 공유하는 자리를 마련하려고 합니다.
 
