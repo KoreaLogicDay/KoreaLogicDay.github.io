@@ -133,15 +133,18 @@ TBA
 
 ## Organization
 
-<!-- Example lines for the host institutions:
-- [Korean Association for Logic](https://www.logicalkorea.com)
-- [Korean Association for Mathematical Logic (KAML)](https://logic.or.kr)
--->
 The Sixth Korea Logic Day 2027 and the Set Theory Winter School are hosted by the following institutions:
 
-- TBA
+- [Korean Association for Mathematical Logic (KAML)](https://logic.or.kr)
+- [Korean Association for Logic](https://www.logicalkorea.com)
 
-and organized by:
+The event is organized by the following institutions:
+
+- [Changwon National University, Dept. of Mathematics and Statistics](https://www.changwon.ac.kr/math/main.do)
+- [Hallym University, Division of Humanities (Major in Philosophy)](https://www.hallym.ac.kr/sites/phil/index.do)
+- [Yonsei University, Department of Mathematics](https://math.yonsei.ac.kr)
+
+and by the following organizers:
 
 - [Seungrak Choi](https://sites.google.com/view/school-of-logic/), Hallym University, Chuncheon, Korea
 - [Joonhee Kim](https://kim-joonhee.github.io), KIAS, Seoul, Korea
@@ -149,18 +152,15 @@ and organized by:
 - [Junguk Lee](https://sites.google.com/site/leejunguk0323/home), Changwon National University, Changwon, Korea
 - [Sewon Park](https://sewonpark.com/), IMFM, Ljubljana, Slovenia
 
-<!-- EDIT: the local chair. Example line:
-For local information, please contact **Firstname Lastname** at [name@university.ac.kr](mailto:name@university.ac.kr).
--->
-For local information, please contact the local chair (TBA).
+For local information, please contact **Joonhee Kim** at [kimjoonhee@kias.re.kr](mailto:kimjoonhee@kias.re.kr).
 
 
 ## Financial Support
 
 <!--
-  Example. Upload logos to the "assets" folder first.
-The Sixth Korea Logic Day 2027 is supported by ...
-
-<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo" style="height:3em;">
+  To add a sponsor: add its name to the sentence below, upload its logo to the "assets" folder,
+  and copy the <img ...> line with the new file name.
 -->
-TBA
+The Sixth Korea Logic Day 2027 is supported by the National Research Foundation of Korea.
+
+<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">

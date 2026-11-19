@@ -123,7 +123,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
   지도를 넣으려면: 구글 지도에서 "공유" → "지도 퍼가기" → "HTML 복사"를 누른 후,
   이 주석 아래에 붙여넣으세요.
 -->
-서울 [연세대학교](https://www.yonsei.ac.kr) 신촌캠퍼스 (정확한 강의실은 추후 공지)
+서울 [연세대학교](https://www.yonsei.ac.kr) 신촌캠퍼스 (정확한 장소는 추후 공지)
 
 
 ## 교통
@@ -135,11 +135,14 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 
 ### 주최 기관
 
-<!-- 예시:
-- [한국논리학회](https://www.logicalkorea.com)
 - [대한수리논리학회](https://logic.or.kr)
--->
-- 추후 공지
+- [한국논리학회](https://www.logicalkorea.com)
+
+### 주관 기관
+
+- [국립창원대학교 수학과](https://www.changwon.ac.kr/math/main.do)
+- [한림대학교 인문학부 철학전공](https://www.hallym.ac.kr/sites/phil/index.do)
+- [연세대학교 수학과](https://math.yonsei.ac.kr)
 
 ### 조직위원회
 
@@ -149,18 +152,15 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 - [이효윤](https://sites.google.com/view/hyoyoonlee/home), 서강대학교, 서울
 - [최승락](https://sites.google.com/view/school-of-logic/), 한림대학교, 춘천
 
-<!-- 수정: 현지 책임자. 예시:
-행사 관련 문의: [name@university.ac.kr](mailto:name@university.ac.kr) (홍길동)
--->
-행사 관련 문의: 추후 공지
+행사 관련 문의: [kimjoonhee@kias.re.kr](mailto:kimjoonhee@kias.re.kr) (김준희)
 
 
 ## 지원
 
 <!--
-  예시. 로고 이미지는 먼저 "assets" 폴더에 올려 주세요.
-제6회 한국 논리학의 날 2027 행사는 ... 의 지원을 받아 진행됩니다.
-
-<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo" style="height:3em;">
+  지원 기관 추가 방법: 아래 문장에 기관 이름을 넣고, 로고를 "assets" 폴더에 올린 후
+  <img ...> 줄을 복사해 파일 이름을 바꿔 주세요.
 -->
-추후 공지
+제6회 한국 논리학의 날 2027 행사는 한국연구재단의 지원을 받아 진행됩니다.
+
+<img src="https://korealogicday.org/assets/knrf.png" alt="Korea NRF Logo">
