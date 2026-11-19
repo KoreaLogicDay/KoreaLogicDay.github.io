@@ -6,3 +6,53 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-redirect-from
+
+
+# =====================================================================
+#  2027 EVENT: PUBLIC SWITCH
+#
+#  kld2027_public: false
+#     The 2027 pages are visible ONLY at the secret preview addresses:
+#       https://korealogicday.org/s4foq98m/2027/
+#       https://korealogicday.org/s4foq98m/kr/2027/
+#     https://korealogicday.org/2027/ shows "not available yet",
+#     and the homepage does not mention 2027.
+#
+#  kld2027_public: true
+#     The pages are visible at the usual addresses
+#       https://korealogicday.org/2027/
+#       https://korealogicday.org/kr/2027/
+#     and are listed on the homepage. The secret addresses forward
+#     visitors to the usual ones.
+#
+#  To edit the pages, see _kld2027/README.md
+# =====================================================================
+kld2027_public: false
+
+
+# ---------------------------------------------------------------------
+#  Technical settings below. Organizers do not need to change these.
+# ---------------------------------------------------------------------
+
+# The 2027 pages live in the folder _kld2027/ (a Jekyll "collection").
+collections:
+  kld2027:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: kld2027
+    values:
+      layout: event
+      event: kld2027
+
+# Files that are not published as part of the website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - CNAME
+  - README.md
+  - _kld2027/README.md

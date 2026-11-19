@@ -1,0 +1,110 @@
+{%- comment -%}
+  Layout for event pages with a public/hidden switch (first used for 2027).
+
+  It is used by two kinds of pages:
+   1. The real pages, stored in a collection folder such as _kld2027/.
+      They live at the usual address (e.g. /2027/), but their content is
+      shown only when the switch `<event>_public` in _config.yml is true.
+   2. Preview pages (folder previews/), whose front matter has `preview_of`.
+      They show the same content at a secret address while the switch is
+      false, and forward visitors to the usual address once it is true.
+
+  Collection documents are rendered before ordinary pages, so `src.content`
+  below is already converted to HTML when a preview page is rendered.
+{%- endcomment -%}
+{%- assign public_key = page.event | append: "_public" -%}
+{%- assign is_public = site[public_key] -%}
+{%- if page.preview_of -%}
+  {%- assign src = site[page.event] | where: "relative_path", page.preview_of | first -%}
+  {%- assign is_preview = true -%}
+  {%- assign preview_prefix = page.url | remove_first: src.url -%}
+{%- else -%}
+  {%- assign src = page -%}
+  {%- assign is_preview = false -%}
+{%- endif -%}
+{%- if is_public or is_preview -%}
+  {%- assign show_content = true -%}
+{%- else -%}
+  {%- assign show_content = false -%}
+{%- endif -%}
+{%- if is_public and is_preview -%}
+  {%- assign forward = true -%}
+{%- else -%}
+  {%- assign forward = false -%}
+{%- endif -%}
+<!DOCTYPE html>
+<html lang="{% if src.lang == 'kr' %}ko{% else %}en{% endif %}">
+  <head>
+    <meta charset="UTF-8">
+{%- if is_public and is_preview == false %}
+{% seo %}
+{%- elsif show_content %}
+    <title>{{ src.title }}</title>
+    <meta name="robots" content="noindex, nofollow">
+{%- else %}
+    <title>{{ site.title }}</title>
+    <meta name="robots" content="noindex, nofollow">
+{%- endif %}
+{%- if forward %}
+    <link rel="canonical" href="{{ src.url | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url={{ src.url | absolute_url }}">
+{%- endif %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+{%- if show_content %}
+      <h1 class="project-name">{{ src.title }}</h1>
+      {%- if src.subtitle %}
+      <h3 class="subtitle">{{ src.subtitle }}</h3>
+      {%- endif %}
+      <h2 class="project-tagline">{{ src.description }}</h2>
+      {%- for l in src.primary_links %}
+        {%- assign link = l.link -%}
+        {%- if is_preview -%}
+          {%- assign same_event = site[page.event] | where: "url", l.link | first -%}
+          {%- if same_event -%}{%- assign link = preview_prefix | append: l.link -%}{%- endif -%}
+        {%- endif %}
+      <a href="{{ link | absolute_url }}" class="btn"> {{ l.name }} </a>
+      {%- endfor %}
+{%- else %}
+      <h1 class="project-name">{% if src.lang == 'kr' %}{{ site.title_kr }}{% else %}{{ site.title }}{% endif %}</h1>
+      <a href="{% if src.lang == 'kr' %}{{ '/kr/' | absolute_url }}{% else %}{{ '/' | absolute_url }}{% endif %}" class="btn">{% if src.lang == 'kr' %} 한국 논리학의 날 {% else %} Korea Logic Day {% endif %}</a>
+{%- endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+{%- if forward %}
+      <p>This page has moved to <a href="{{ src.url | absolute_url }}">{{ src.url | absolute_url }}</a>.</p>
+{%- elsif is_preview %}
+      <div style="border: 2px dashed #c77d00; background: #fff8e6; padding: 0.8em 1em; margin-bottom: 2em; border-radius: 6px;">
+        <strong>Preview, not public yet.</strong>
+        Only people who know this address can see this page.
+        Once <code>{{ public_key }}: true</code> is set in <code>_config.yml</code>,
+        the page will appear at <a href="{{ src.url | absolute_url }}">{{ src.url | absolute_url }}</a>.
+      </div>
+      {{ src.content }}
+{%- elsif is_public %}
+      {{ content }}
+{%- else %}
+      {%- if src.lang == 'kr' %}
+      <p>이 페이지는 아직 공개되지 않았습니다. <a href="{{ '/kr/' | absolute_url }}">한국 논리학의 날 홈페이지</a>를 방문해 주세요.</p>
+      {%- else %}
+      <p>This page is not available yet. Please visit the <a href="{{ '/' | absolute_url }}">Korea Logic Day homepage</a>.</p>
+      {%- endif %}
+{%- endif %}
+
+      <footer class="site-footer">
+      </footer>
+    </main>
+  </body>
+</html>
