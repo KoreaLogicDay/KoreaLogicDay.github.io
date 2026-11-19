@@ -26,11 +26,16 @@ primary_links:
 Text of the abstract.
 -->
 
-## Korea Logic Day (January 14)
+## Invited Talks
 
 TBA
 
 
-## Set Theory Winter School (January 15 – 16)
+## Invited Talks (Students)
+
+TBA
+
+
+## Set Theory Winter School
 
 TBA

@@ -38,10 +38,7 @@ Why is January 14 for World Logic Day? Nobody can disagree that _Alfred Tarski_ 
 
 The previous events are available on [the Korea Logic Day website](https://korealogicday.org).
 
-This year, the Korea Logic Day is followed by the **Set Theory Winter School**:
-
-- **January 14, 2027**: The Sixth Korea Logic Day
-- **January 15 – 16, 2027**: Set Theory Winter School
+This year, the Korea Logic Day is held together with the **Set Theory Winter School** from January 14 to 16, 2027.
 
 <!-- EDIT: add a paragraph about this year's theme or the winter school here, if you like. -->
 
@@ -53,35 +50,33 @@ This year, the Korea Logic Day is followed by the **Set Theory Winter School**:
 - **Registration deadline: January 5, 2027**
 -->
 - Registration deadline: TBA
-- The Sixth Korea Logic Day 2027: January 14, 2027
-- Set Theory Winter School: January 15 – 16, 2027
+- The Sixth Korea Logic Day 2027 and the Set Theory Winter School: January 14 – 16, 2027
 
 
-## Korea Logic Day (January 14)
+## Speakers
+
+<!-- To add a talk title, write it after the name, e.g.
+* [Firstname Lastname](https://homepage.example.org) (University): _"Title of the talk"_ ([slides](/2027/slides/lastname.pdf))
+-->
 
 ### Invited Talks
 
-<!-- Example line (the homepage link and the slides are optional):
-* [Firstname Lastname](https://homepage.example.org) (University): _"Title of the talk"_ ([slides](/2027/slides/lastname.pdf))
--->
-TBA
+* Jihoon Hyun (KAIST)
+* [Hanul Jeon](https://hanuljeon95.github.io) (TU Wien)
+* [Joonhee Kim](https://kim-joonhee.github.io) (KIAS)
+* Chanwoo Lee
+* [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University)
+* [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University)
 
 ### Invited Talks (Students)
 
-<!-- Example line:
-* [Firstname Lastname](https://homepage.example.org) (University): _"Title of the talk"_
--->
-TBA
+* Jaden Jorradol (KAIST)
+* [Yeon-Hong Kim](https://kyh155727.github.io/) (Jeonbuk National University)
+* Chanjin Park (UNIST)
 
+### Set Theory Winter School
 
-## Set Theory Winter School (January 15 – 16)
-
-### Lecturers and Courses
-
-<!-- Example line:
-* [Firstname Lastname](https://homepage.example.org) (University): _"Title of the lecture series"_ (3 lectures)
--->
-TBA
+* [Byunghan Kim](https://sites.google.com/yonsei.ac.kr/byunghankimshomepage/english) (Yonsei University)
 
 
 ## Abstracts
@@ -92,29 +87,25 @@ The abstracts of the talks and lectures can be found [here](abstracts).
 
 ## Schedule
 
-<!--
-  Each row of a table looks like:   | time | speaker | title |
-  An empty row  | | | |  makes a small gap (e.g. a coffee break).
--->
+The detailed schedule will be announced later.
 
-### Day 1, January 14: Korea Logic Day
+- **Day 1, January 14 (Thu)**: Invited talks
+- **Day 2, January 15 (Fri)**: Invited talks (students) and the Set Theory Winter School
+- **Day 3, January 16 (Sat)**: Set Theory Winter School
+
+<!--
+  When the detailed schedule is ready, replace "The detailed schedule will be announced later."
+  with tables like the one below (one table per day).
+  Each row looks like:   | time | speaker | title |
+  An empty row  | | | |  makes a small gap (e.g. a coffee break).
+
+### Day 1, January 14 (Thu)
 
 |             | Speaker | Talk |
 |:-           |:-       |:-    |
-| TBA         |         | Opening remarks |
-| TBA         | TBA     | TBA  |
-
-### Day 2, January 15: Set Theory Winter School
-
-|             | Lecturer | Lecture |
-|:-           |:-        |:-       |
-| TBA         | TBA      | TBA     |
-
-### Day 3, January 16: Set Theory Winter School
-
-|             | Lecturer | Lecture |
-|:-           |:-        |:-       |
-| TBA         | TBA      | TBA     |
+| 13:00-13:10 |         | Opening remarks |
+| 13:10-13:55 | Name    | _"Title"_ |
+-->
 
 
 ## Registration
@@ -152,7 +143,7 @@ The Sixth Korea Logic Day 2027 and the Set Theory Winter School are hosted by th
 and organized by:
 
 - [Seungrak Choi](https://sites.google.com/view/school-of-logic/), Hallym University, Chuncheon, Korea
-- [Joonhee Kim](https://sites.google.com/yonsei.ac.kr/kimjoonhee), KIAS, Seoul, Korea
+- [Joonhee Kim](https://kim-joonhee.github.io), KIAS, Seoul, Korea
 - [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home), Sogang University, Seoul, Korea
 - [Junguk Lee](https://sites.google.com/site/leejunguk0323/home), Changwon National University, Changwon, Korea
 - [Sewon Park](https://sewonpark.com/), IMFM, Ljubljana, Slovenia
