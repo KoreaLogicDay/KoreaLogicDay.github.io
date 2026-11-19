@@ -49,7 +49,8 @@ This year, the Korea Logic Day is held together with the **Set Theory Winter Sch
 - Invited talk announcement: December 12, 2026
 - **Registration deadline: January 5, 2027**
 -->
-- Registration deadline: TBA
+- Announcement of talk titles and abstracts: December 6, 2026
+- **Registration deadline: December 20, 2026**
 - The Sixth Korea Logic Day 2027 and the Set Theory Winter School: January 14 – 16, 2027
 
 
@@ -64,7 +65,7 @@ This year, the Korea Logic Day is held together with the **Set Theory Winter Sch
 * Jihoon Hyun (KAIST)
 * [Hanul Jeon](https://hanuljeon95.github.io) (TU Wien)
 * [Joonhee Kim](https://kim-joonhee.github.io) (KIAS)
-* Chanwoo Lee
+* Chanwoo Lee (Ajou University)
 * [Hyoyoon Lee](https://sites.google.com/view/hyoyoonlee/home) (Sogang University)
 * [Eunsuk Yang](https://philpeople.org/profiles/eunsuk-yang) (Jeonbuk National University)
 
@@ -72,7 +73,7 @@ This year, the Korea Logic Day is held together with the **Set Theory Winter Sch
 
 * Jaden Jorradol (KAIST)
 * [Yeon-Hong Kim](https://kyh155727.github.io/) (Jeonbuk National University)
-* Chanjin Park (UNIST)
+* TBA
 
 ### Set Theory Winter School
 
@@ -113,7 +114,7 @@ The detailed schedule will be announced later.
 <!-- Example line:
 To participate in the event, please register by **January 5, 2027** using [this form](https://forms.gle/xxxxxxxx).
 -->
-TBA
+To participate in the event, please register by **December 20, 2026** using [this form](https://docs.google.com/forms/d/e/1FAIpQLScwkKsry4NgVZCEbI9C6npa1rsayoFEweR78pJjBdH7HD6zDQ/viewform?usp=publish-editor).
 
 
 ## Venue
@@ -122,7 +123,7 @@ TBA
   To add a map: on Google Maps, click "Share", then "Embed a map", then "Copy HTML",
   and paste it below this comment.
 -->
-TBA
+[Yonsei University](https://www.yonsei.ac.kr), Sinchon Campus, Seoul, Korea. The exact room will be announced later.
 
 
 ## Access
