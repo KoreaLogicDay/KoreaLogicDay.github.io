@@ -91,7 +91,7 @@ The abstracts of the talks and lectures can be found [here](abstracts).
 The detailed schedule will be announced later.
 
 - **Day 1, January 14 (Thu)**: Invited talks and the Set Theory Winter School
-- **Day 2, January 15 (Fri)**: Invited talks (students) and the Set Theory Winter School, followed by the banquet
+- **Day 2, January 15 (Fri)**: Invited talks (students) and the Set Theory Winter School
 - **Day 3, January 16 (Sat)**: Set Theory Winter School
 
 <!--
