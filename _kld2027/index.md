@@ -72,7 +72,7 @@ This year, the Korea Logic Day is held together with the **Set Theory Winter Sch
 ### Invited Talks (Students)
 
 * Jaden Jorradol (KAIST)
-* [Yeon-Hong Kim](https://kyh155727.github.io/) (Jeonbuk National University)
+* [Yeonhong Kim](https://kyh155727.github.io/) (Jeonbuk National University)
 * TBA
 
 ### Set Theory Winter School
