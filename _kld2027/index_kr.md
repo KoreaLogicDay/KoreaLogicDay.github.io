@@ -150,7 +150,7 @@ _알프레드 타르스키_ 는 1901년 1월 14일에 태어났으며 _쿠르트
 - [박세원](https://sewonpark.com/), IMFM, 류블랴나, 슬로베니아
 - [이정욱](https://sites.google.com/site/leejunguk0323/home), 국립창원대학교, 창원
 - [이효윤](https://sites.google.com/view/hyoyoonlee/home), 서강대학교, 서울
-- [최승락](https://sites.google.com/view/school-of-logic/), 한림대학교, 춘천
+- [최승락](https://schooloflogic.org/), 한림대학교, 춘천
 
 행사 관련 문의: [kimjoonhee@kias.re.kr](mailto:kimjoonhee@kias.re.kr) (김준희)
 
