@@ -1,7 +1,7 @@
 ---
 # You may edit these three lines. They should match index.md.
 title: The Sixth Korea Logic Day 2027
-subtitle: "Collocated with the Set Theory Winter School"
+subtitle: "Co-located with the Set Theory Winter School"
 description: January 14 – 16, 2027 • Yonsei University, Seoul
 
 # Do not change the lines below.

@@ -22,9 +22,9 @@ We share announcements about future Korea Logic Day events through the [Korea Lo
   The 2027 line becomes a link when kld2027_public is true in _config.yml.
 {% endcomment %}
 {% if site.kld2027_public %}
-- [The Sixth Korea Logic Day 2027](2027), collocated with the Set Theory Winter School (January 14 – 16, 2027 • Seoul, Republic of Korea)
+- [The Sixth Korea Logic Day 2027](2027), co-located with the Set Theory Winter School (January 14 – 16, 2027 • Seoul, Republic of Korea)
 {% else %}
-- The Sixth Korea Logic Day 2027, collocated with the Set Theory Winter School (January 14 – 16, 2027 • Seoul, Republic of Korea): details will be announced soon.
+- The Sixth Korea Logic Day 2027, co-located with the Set Theory Winter School (January 14 – 16, 2027 • Seoul, Republic of Korea): details will be announced soon.
 {% endif %}
 
 <div style="text-align: center;">
